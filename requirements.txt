@@ -1,0 +1,28 @@
+# Audio Processing
+ffmpeg-python
+pyannote.audio
+paddlespeech
+librosa
+
+# Translation
+langgraph
+langchain
+groq  # for Groq API
+# Voice Cloning
+TTS  # Coqui TTS
+elevenlabs  # if using ElevenLabs
+
+# Lip Sync
+latentsync  # or wav2lip
+
+# Video Processing
+opencv-python
+moviepy
+
+# Backend
+fastapi
+uvicorn
+celery  # for async tasks
+
+# Frontend
+# React/Next.js (separate npm packages)
