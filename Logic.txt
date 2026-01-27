@@ -89,3 +89,122 @@ because , soundfile → numpy → torch → soundfile
 when we are using , it was crashing...
 
 
+1_Custom Errors
+
+class FFmpegError(AudioProcessingError): pass
+class DemucsError(AudioProcessingError): pass
+class ValidationError(AudioProcessingError): pass
+
+Why?
+
+So when something breaks, you know:
+
+Was it FFmpeg?
+
+Was it AI?
+
+Was it file input?
+
+Instead of generic crash.
+
+
+2_run_demucs_separation()
+
+
+This is the core AI engine.
+
+What it does:
+
+Loads Demucs AI model
+
+Loads audio using soundfile (NOT torchaudio)
+
+Converts audio into PyTorch tensor
+
+Resamples if needed
+
+Converts mono → stereo (Demucs requires stereo)
+
+Runs AI model
+
+Extracts:
+
+vocals
+
+background = sum of other instruments
+
+Saves using soundfile (NOT torchaudio)
+
+Returns file paths
+
+Why not torchaudio?
+
+Because:
+
+torchaudio → torchcodec → crash
+
+
+So we do:
+
+soundfile → numpy → torch → soundfile
+
+
+100% stable.
+
+
+
+3_CinematicAudioProcessor
+This class controls the whole pipeline.
+
+
+Stage 1: extract_raw_audio()
+
+ffmpeg -i video.mp4 -vn -ac 1 -ar 44100 raw_audio.wav
+
+Flag	                   Meaning
+-vn	                   remove video
+-ac 1	                   mono
+-ar 44100	             sample rate
+pcm_s16le	             raw WAV
+
+
+Stage 2: separate_vocals()
+
+Which:
+
+Runs AI
+
+Produces:
+
+vocals.wav
+
+no_vocals.wav
+
+
+Stage 3: remix_final_audio()
+
+
+Uses FFmpeg:
+
+ffmpeg vocals.wav bg.wav → mix → final.m4a
+
+
+With volumes:
+
+voice_volume = 1.0
+bg_volume = 0.7
+
+
+So voice is clear, music softer.
+
+
+
+------------------------------------------------------
+
+
+ The "Ear" & "Identity" (Diarization + ASR)
+You will use PaddleSpeech for the text and Pyannote.audio for the speaker identities.
+
+now, we can identify by some of who can speak , who's vocal is.
+
+

@@ -1,0 +1,3486 @@
+{
+  "num_speakers": 2,
+  "total_duration": 3420.48,
+  "language": "tr",
+  "segments": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 130.9,
+      "end": 132.32,
+      "text": "Sen ne yaptın, niye geldin?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 133.07,
+      "end": 134.37,
+      "text": "Ah Mercan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 135.8,
+      "end": 137.06,
+      "text": "Geç içeri, yürü.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 138.99,
+      "end": 140.51,
+      "text": "Bir daha sakın ona dokunma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 141.93,
+      "end": 143.25,
+      "text": "Bir daha sakın beni böyle itme.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 143.43,
+      "end": 144.19,
+      "text": "Ne yapacaksın?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 172.02,
+      "end": 172.32,
+      "text": "Mercan!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 183.92,
+      "end": 186.22,
+      "text": "Sen iyi misin? Bir şeyin var mı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 186.86,
+      "end": 187.38,
+      "text": "İyiyim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 191.31,
+      "end": 192.39,
+      "text": "Sen ne yaptın az önce?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 195.51,
+      "end": 197.11,
+      "text": "Ne yapayım, uyardım ama dinlemedi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 208.15,
+      "end": 208.79,
+      "text": "Çok sıkı bu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 210.43,
+      "end": 212.11,
+      "text": "Adamları dövdün, ipimi çözemiyorsun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 213.3,
+      "end": 215.16,
+      "text": "Hem sen nasıl geldin buraya?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 215.16,
+      "end": 215.84,
+      "text": "Cemal nerede?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 216.4,
+      "end": 217.8,
+      "text": "Seni aramaya gitmişti.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 218.38,
+      "end": 220.76,
+      "text": "Bana araba da bekle dedi ama ben beklemedim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 222.24,
+      "end": 222.92,
+      "text": "Şaşırdık mı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 223.06,
+      "end": 225.93,
+      "text": "Tabi ki hayır. Telefonu ara Cemal'i.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 226.39,
+      "end": 227.61,
+      "text": "Yanımda değil ki.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 227.98,
+      "end": 231.08,
+      "text": "Senden konum gelince evden çıktığım gibi arabaya bindim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 232.14,
+      "end": 232.78,
+      "text": "Sabır.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 233.84,
+      "end": 235.78,
+      "text": "Söylenmesene. Seni merak ediyordum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 236.04,
+      "end": 238.2,
+      "text": "Yani o an telefonu düşünecek halde değilim. Kusura bakma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 238.52,
+      "end": 239.16,
+      "text": "Söylenmiyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 240.06,
+      "end": 241.14,
+      "text": "Gelecekler birazdan hadi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 241.64,
+      "end": 242.28,
+      "text": "Biraz hızlı ol.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 242.28,
+      "end": 244.14,
+      "text": "Ne yapayım? Çözülmüyor.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 249.01,
+      "end": 250.55,
+      "text": "O zaman bir an önce uzaklaş buradan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 252.26,
+      "end": 253.08,
+      "text": "Asla gitmem.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 257.94,
+      "end": 260.1,
+      "text": "Sana git dedim. Gelecekler beni dinle.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 260.42,
+      "end": 261.86,
+      "text": "Gitmiyorum dedim ben de sana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 262.75,
+      "end": 263.53,
+      "text": "Sana git dedim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 266.23,
+      "end": 267.73,
+      "text": "Ellerim bağlı iken seni koruyamam.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 278.56,
+      "end": 279.78,
+      "text": "Gitmem dedim ben de sana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 281.08,
+      "end": 282.68,
+      "text": "Git dedim sana. Gelecekler şimdi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 318.77,
+      "end": 319.91,
+      "text": "Allah'a bir şükürler olsun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 395.1,
+      "end": 396.0,
+      "text": "Bunu ne yapalım abi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 396.97,
+      "end": 399.09,
+      "text": "Bırakın burada. Kuru da kuşayım olsun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 409.76,
+      "end": 410.4,
+      "text": "Bırakın onu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 410.82,
+      "end": 411.64,
+      "text": "Bırakın gitse.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 411.64,
+      "end": 412.96,
+      "text": "Bırak kolumu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 413.4,
+      "end": 414.58,
+      "text": "Emrin olur kuru abi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 415.25,
+      "end": 417.29,
+      "text": "Bırak beni. Bırak dedim sana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 417.57,
+      "end": 418.27,
+      "text": "Bırakın lan onu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 427.5,
+      "end": 428.52,
+      "text": "Bırak beni.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 428.98,
+      "end": 429.36,
+      "text": "Ne yaptın?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 431.34,
+      "end": 433.48,
+      "text": "Bırakın dedi. Duydunuz mu lan?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 433.6,
+      "end": 438.37,
+      "text": "Bırakın diyor. Ne yapalım?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 438.59,
+      "end": 439.19,
+      "text": "Bırakalım mı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 439.85,
+      "end": 442.39,
+      "text": "Sizin işiniz bende. Bırakın kıza gitsin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 446.13,
+      "end": 446.93,
+      "text": "Şansına küs.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 448.04,
+      "end": 449.12,
+      "text": "Bugün kötü günündesin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 449.38,
+      "end": 450.48,
+      "text": "Hem de en kötü günündesin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 454.46,
+      "end": 456.8,
+      "text": "Burada çok güzelmiş ha. Yazık olacak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 462.38,
+      "end": 462.78,
+      "text": "Bırak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 463.18,
+      "end": 463.44,
+      "text": "Bırak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 463.8,
+      "end": 464.68,
+      "text": "Bırak lan şunu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 465.86,
+      "end": 466.62,
+      "text": "Bırak dedim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 467.62,
+      "end": 470.52,
+      "text": "Dokunma lan onu. Hepinizi pişman edeceğim lan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 470.88,
+      "end": 472.46,
+      "text": "Ödeneceğim lan hepinizi bunlar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 474.14,
+      "end": 475.06,
+      "text": "Görüyor musun?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 475.98,
+      "end": 477.64,
+      "text": "Seni üsüdük diye kocan sinirlendi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 489.19,
+      "end": 491.43,
+      "text": "Bir adamı tutamadınız lan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 503.89,
+      "end": 504.97,
+      "text": "Rahat duruyor musun?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 505.69,
+      "end": 506.43,
+      "text": "Duruyormuşsun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 507.97,
+      "end": 508.99,
+      "text": "Tamam.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 510.04,
+      "end": 511.9,
+      "text": "İndir o silahı yoksa seni pişman ederim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 526.61,
+      "end": 527.25,
+      "text": "Haydi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 530.65,
+      "end": 532.83,
+      "text": "Sıkı bağlayın. Çözülmesin bir daha.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 544.8,
+      "end": 545.64,
+      "text": "İkisini hallettik abi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 546.68,
+      "end": 547.56,
+      "text": "Hadi gidelim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 560.77,
+      "end": 561.49,
+      "text": "İyisin değil mi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 562.28,
+      "end": 564.62,
+      "text": "İyiyim. Sen beni düşünme.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 567.56,
+      "end": 568.48,
+      "text": "Bunun için çok geç.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 570.32,
+      "end": 571.8,
+      "text": "Buraya hiç gelmemen lazımdı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 572.42,
+      "end": 573.38,
+      "text": "Niye geldin ki zaten?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 575.07,
+      "end": 576.47,
+      "text": "Seni merak ettim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 576.89,
+      "end": 579.29,
+      "text": "Çok belliydi başına bir şey geldi. Hissettim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 583.27,
+      "end": 583.77,
+      "text": "Etmiş.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 585.66,
+      "end": 588.1,
+      "text": "Konakta öylece duramazdım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 588.84,
+      "end": 590.22,
+      "text": "Bazen durman gerek işte.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 594.94,
+      "end": 596.64,
+      "text": "Yardım etmek istemiştim sadece.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 596.98,
+      "end": 598.16,
+      "text": "Ya sana bir şey olsaydı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 603.1,
+      "end": 604.44,
+      "text": "Çok yardımcı oldun gerçekten.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 604.66,
+      "end": 605.4,
+      "text": "Çok sağ ol.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 606.15,
+      "end": 607.87,
+      "text": "Ellerimi çözseydin şimdi kaçmıştık.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 608.88,
+      "end": 610.54,
+      "text": "Ben asıl çözmüştüm.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 611.08,
+      "end": 612.06,
+      "text": "Çok yavaşsın ama.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 612.82,
+      "end": 614.2,
+      "text": "Ne yapayım? Çok sıkıydı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 616.38,
+      "end": 618.04,
+      "text": "Bütün suç bende yani. Öyle mi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 619.93,
+      "end": 620.63,
+      "text": "Tabii ki değil.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 625.62,
+      "end": 627.02,
+      "text": "Bir de seni düşünmek zorundayım şimdi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 629.56,
+      "end": 631.94,
+      "text": "İnsanların birbirini düşünmesine ne var bu kadar kötü?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 633.58,
+      "end": 635.64,
+      "text": "Ama haklısın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 636.28,
+      "end": 637.58,
+      "text": "Düşünülecek insan var.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 638.04,
+      "end": 639.94,
+      "text": "Düşündüğüne pişman olacağın insan var.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 643.42,
+      "end": 645.2,
+      "text": "Sana bir şey olacak diye korkuyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 645.74,
+      "end": 646.22,
+      "text": "Anlasana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 648.13,
+      "end": 652.76,
+      "text": "Kabahat bende. Keşke gelmeseydim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 653.98,
+      "end": 654.66,
+      "text": "Bunlar da senin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 664.22,
+      "end": 665.64,
+      "text": "Tek umudumuz Cemal şu an.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 668.76,
+      "end": 669.56,
+      "text": "İnşallah iyidir.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 671.24,
+      "end": 672.22,
+      "text": "İyidir o iyidir.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 672.8,
+      "end": 673.54,
+      "text": "Bir şey olmaz ana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 701.84,
+      "end": 703.7,
+      "text": "Az önce hareketlendi buralar patron.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 704.36,
+      "end": 705.7,
+      "text": "Tam adamı indirecektik.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 706.0,
+      "end": 708.14,
+      "text": "Misafirler geldi. Ne misafiri?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 708.14,
+      "end": 711.28,
+      "text": "Mercan'la yanında bir baskın yaptılar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 711.96,
+      "end": 712.7,
+      "text": "Adam bitik.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 712.86,
+      "end": 714.06,
+      "text": "Mercan'ı da yakalayıp bağladı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 714.66,
+      "end": 715.7,
+      "text": "Ne diyorsun lan sen?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 716.74,
+      "end": 718.36,
+      "text": "Mercan'ın ne işi var orada? Nasıl gelir?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 719.4,
+      "end": 721.22,
+      "text": "Valla nasılını bilmem de durum bu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 721.72,
+      "end": 723.06,
+      "text": "Şimdilik bir sıkıntı yok ama.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 723.16,
+      "end": 724.5,
+      "text": "Her şey bizim kontrolümüzde.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 726.64,
+      "end": 727.72,
+      "text": "Mercan'ıydın bir şey yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 728.61,
+      "end": 730.11,
+      "text": "Yok patron. İyi kız.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 730.83,
+      "end": 731.97,
+      "text": "Deli gücü var maşallah.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 733.2,
+      "end": 734.46,
+      "text": "Bağladık öyle oturuyor.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 735.43,
+      "end": 736.47,
+      "text": "Ateşi ne yapayım?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 737.54,
+      "end": 739.08,
+      "text": "Keseyim mi biletini tahtalı köye?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 740.9,
+      "end": 743.24,
+      "text": "Adamla ilgili her şeyi de problem çıkartıyorsun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 745.97,
+      "end": 748.05,
+      "text": "Şimdilik benden haber bekleyin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 748.52,
+      "end": 749.42,
+      "text": "Bana bak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 749.58,
+      "end": 752.16,
+      "text": "Mercan'ın kılına zarar gelirse hepinizin işini keserim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 752.8,
+      "end": 753.6,
+      "text": "Ona göre.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 757.57,
+      "end": 758.31,
+      "text": "Ah be Mercan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 760.43,
+      "end": 761.79,
+      "text": "Bütün planı suya düşürdün.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 767.55,
+      "end": 770.15,
+      "text": "Kurtulacağız buradan. Korkmuyorsun değil mi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 771.3,
+      "end": 773.0,
+      "text": "Korkmuyorum dersem yalan olur.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 775.33,
+      "end": 776.65,
+      "text": "Ama sen varsın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 777.32,
+      "end": 778.3,
+      "text": "O yüzden içim rahat.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 780.44,
+      "end": 781.2,
+      "text": "Ben hayattayken",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 782.04,
+      "end": 784.38,
+      "text": "Kimse senin kılınla bile zarar veremez.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 788.45,
+      "end": 789.65,
+      "text": "Biliyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 804.54,
+      "end": 806.28,
+      "text": "Buraya hiç gelmemen lazımdı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 806.96,
+      "end": 809.48,
+      "text": "Cemal seni getirmezdi de laf dinlemedin kesin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 810.39,
+      "end": 811.79,
+      "text": "Laf dinle bir dahakine.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 811.97,
+      "end": 813.13,
+      "text": "Sözünden çıkma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 815.44,
+      "end": 817.92,
+      "text": "Bak dinlemeyince sonra böyle oluyor işte.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 819.05,
+      "end": 819.97,
+      "text": "İyi veya kötü.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 820.57,
+      "end": 823.13,
+      "text": "Sen bu haldeyken konakta oturup televizyon izleyecek değildin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 824.24,
+      "end": 827.4,
+      "text": "Başıma gelenleri bilecek olsam bile yine kalkıp gelirdi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 839.75,
+      "end": 840.93,
+      "text": "Kim neden yaptı bunu?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 843.83,
+      "end": 845.17,
+      "text": "Kim oldu öyle iyi de.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 846.41,
+      "end": 848.89,
+      "text": "Bilmiyorum. Ama bulacağım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 849.3,
+      "end": 851.78,
+      "text": "Bulduğunda da ona pişman edeceğim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 855.12,
+      "end": 856.94,
+      "text": "Cemal'den de ses yok hâlâ.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 857.18,
+      "end": 858.5,
+      "text": "Başına bir şey mi geldi acaba?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 859.59,
+      "end": 861.29,
+      "text": "Cemal'i atlattıklarını bil sen.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 861.81,
+      "end": 863.35,
+      "text": "Onun için şu anda endişelenmezdi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 864.5,
+      "end": 866.48,
+      "text": "Çok önceden bir kere pusuya düşürdüler.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 866.88,
+      "end": 869.26,
+      "text": "Kolunu, bacağını her tarafını kırdılar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 870.26,
+      "end": 872.82,
+      "text": "Ama benim kardeşim hastanede dirildi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 873.28,
+      "end": 874.7,
+      "text": "Bütün adamların iflahını kesti.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 875.9,
+      "end": 877.04,
+      "text": "Sağlamdır benim kardeşim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 877.93,
+      "end": 879.45,
+      "text": "Namerdin darbesiyle yıkılmaz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 884.81,
+      "end": 886.51,
+      "text": "Buradan kurtulacağımız eminim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 887.8,
+      "end": 888.56,
+      "text": "Ama olur da kurtulacaklar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 888.56,
+      "end": 891.87,
+      "text": "Kurtulamazsak içimde kalmasın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 893.7,
+      "end": 895.52,
+      "text": "İhale için beni boş yere suçladın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 895.92,
+      "end": 896.5,
+      "text": "Ben yapmadım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 899.14,
+      "end": 900.76,
+      "text": "Gerçekten tek derdin bu mu şu anda?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 902.27,
+      "end": 903.11,
+      "text": "Evet bu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 904.12,
+      "end": 905.46,
+      "text": "Ne yapayım gelemiyorum haksızlığa.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 907.27,
+      "end": 908.57,
+      "text": "Ben yapsam söylerdim sana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 908.75,
+      "end": 910.17,
+      "text": "En fazla bağırır çağırırdın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 911.86,
+      "end": 912.62,
+      "text": "O kadar yani?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 913.4,
+      "end": 914.16,
+      "text": "O kadar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 915.31,
+      "end": 916.79,
+      "text": "Bana zarar vermezdin sen.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 918.53,
+      "end": 920.43,
+      "text": "Bağırıp sinir etmek dışında tabi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 924.3,
+      "end": 927.14,
+      "text": "Bak seninle büyük problemlerimiz var.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 928.46,
+      "end": 932.98,
+      "text": "Ama şunu bil ki ben düşmanıma bile ihanet etmem.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 934.21,
+      "end": 935.29,
+      "text": "Bil istedim sadece.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 936.95,
+      "end": 938.53,
+      "text": "Hakkımda yanlış düşünmeni istemiyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 941.5,
+      "end": 942.36,
+      "text": "Buradan sağ çıkamayabiliriz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 943.93,
+      "end": 946.33,
+      "text": "Belki de bunlar son cümlelerimiz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 946.37,
+      "end": 947.89,
+      "text": "Son saatlerimiz şu an.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 953.32,
+      "end": 954.96,
+      "text": "İçimde kalmasın diye.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 961.44,
+      "end": 964.9,
+      "text": "Eğer böyle olsaydı seni en çok ne yüzerdi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 966.6,
+      "end": 968.06,
+      "text": "İçinde en çok ne yarım kalırdı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 987.67,
+      "end": 990.03,
+      "text": "Verdiğim sözleri tutamamak müserdi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1026.36,
+      "end": 1027.48,
+      "text": "Bir planım var.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1045.3,
+      "end": 1046.7,
+      "text": "Ne oldu öyle terslik mi var?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1047.91,
+      "end": 1048.87,
+      "text": "Marcan oradaymış.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1050.26,
+      "end": 1052.26,
+      "text": "Nasıl? Ne işi var onun orada?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1052.6,
+      "end": 1053.08,
+      "text": "Bilmiyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1054.16,
+      "end": 1055.4,
+      "text": "Ama bütün plan alt üst oldu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1059.03,
+      "end": 1059.93,
+      "text": "Tahmin etmeliydim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1061.88,
+      "end": 1062.36,
+      "text": "Anlamalıydım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1062.68,
+      "end": 1064.18,
+      "text": "Cemal'le çıktıklarında anlamalıydım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1064.34,
+      "end": 1065.28,
+      "text": "Bu kız niye böyle yapıyor?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1065.86,
+      "end": 1068.24,
+      "text": "Niye benim her işimi elim olsun ki anlamıyorum ki.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1068.4,
+      "end": 1070.72,
+      "text": "Tam elimize fırsat geçmiş karanlar bitireceğiz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1071.8,
+      "end": 1073.06,
+      "text": "Ne halt etmeye oraya gidiyor?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1075.43,
+      "end": 1076.53,
+      "text": "Peki ya Cemal?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1077.11,
+      "end": 1078.11,
+      "text": "Sizi ölü mür dediler.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1080.48,
+      "end": 1081.84,
+      "text": "Ne yapacağız şimdi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1086.92,
+      "end": 1088.32,
+      "text": "Dönüşü yok bu işin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1089.84,
+      "end": 1091.44,
+      "text": "Yüzdük yüzdük kuyruğuna geldik.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1093.46,
+      "end": 1097.16,
+      "text": "Bir kişinin hatası yüzünden herkesin çıkarını heba edemem.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1098.39,
+      "end": 1099.07,
+      "text": "Ne yani?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1100.04,
+      "end": 1100.94,
+      "text": "Marcan'ı mı harcayacaksın?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1102.53,
+      "end": 1104.13,
+      "text": "Harcamadan kurtarabilecek misin?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1105.01,
+      "end": 1105.81,
+      "text": "Bunu Marcan istedi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1106.09,
+      "end": 1109.01,
+      "text": "Olmaz. Marcan'dan vazgeçmeyeceğim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1109.67,
+      "end": 1111.93,
+      "text": "Marcan oraya giderek bizden vazgeçti ama.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1119.13,
+      "end": 1120.15,
+      "text": "Ben halledeceğim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1121.32,
+      "end": 1123.5,
+      "text": "Benden habersiz sakın bir dillik yapmaya kalkma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1131.08,
+      "end": 1133.1,
+      "text": "Delili insan yapıyorsun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1135.42,
+      "end": 1137.98,
+      "text": "Bu alemde duygusallık sonu ölümdür.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1144.66,
+      "end": 1145.44,
+      "text": "Baksana buraya.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1151.32,
+      "end": 1153.0,
+      "text": "Ne var bakar mısın bakar mısın?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1153.66,
+      "end": 1154.48,
+      "text": "Sahibin nerede?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1157.55,
+      "end": 1158.97,
+      "text": "Kendi kaçtı seni mi dikti buraya?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1161.08,
+      "end": 1163.36,
+      "text": "Tasman uzaktan kontrollü galiba.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1164.9,
+      "end": 1165.84,
+      "text": "Ne diyorsun oğlum sen?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1165.98,
+      "end": 1166.92,
+      "text": "Tasma masma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1167.92,
+      "end": 1170.38,
+      "text": "Burada tasması olan birisi varsa o da sensin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1171.36,
+      "end": 1174.56,
+      "text": "Belli ki senin bir ellerin kaşınıyor ama elin yetişmiyor.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1175.57,
+      "end": 1176.85,
+      "text": "İstiyorsan biz yardımcı olalım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1201.26,
+      "end": 1202.58,
+      "text": "Anladın mı ağır mısın?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1204.59,
+      "end": 1205.99,
+      "text": "Elin kırılsın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1208.63,
+      "end": 1209.47,
+      "text": "Rahat dur.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1209.71,
+      "end": 1211.11,
+      "text": "Sesin çok çıkmasın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1211.99,
+      "end": 1214.15,
+      "text": "Allah'ıma var ya seni dal ederim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1214.95,
+      "end": 1215.61,
+      "text": "Tamam.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1216.78,
+      "end": 1221.82,
+      "text": "Sen de rahat durun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1225.12,
+      "end": 1225.82,
+      "text": "Rahat durun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1229.28,
+      "end": 1231.14,
+      "text": "İyi misin? Canın çok yandı mı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1232.15,
+      "end": 1235.03,
+      "text": "İyiyim. Ama işe yaradı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1274.6,
+      "end": 1275.62,
+      "text": "Ne yapıyorsun sen?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1275.92,
+      "end": 1276.38,
+      "text": "Delirdin mi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1276.62,
+      "end": 1279.56,
+      "text": "Delirdim evet. Siz delirttiniz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1280.52,
+      "end": 1281.22,
+      "text": "Nerede ateş?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1282.08,
+      "end": 1282.82,
+      "text": "Ne bileyim nerede?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1283.59,
+      "end": 1285.97,
+      "text": "Ateş nerede diyorum?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1288.76,
+      "end": 1289.36,
+      "text": "Bilmiyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1290.44,
+      "end": 1292.82,
+      "text": "Bir sürü düşmanı var almıştır bir tanesi atmıştır bir kenara.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1294.04,
+      "end": 1296.72,
+      "text": "Ateşe dokunursam seni yaşatmam.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1297.58,
+      "end": 1300.62,
+      "text": "Dünyanın öbür ucuna da gitsen seni bulur gebertirim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1302.02,
+      "end": 1305.8,
+      "text": "Hani bana dedin ya sen ya çok aşıksın ya çok kötü diye.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1306.44,
+      "end": 1307.38,
+      "text": "İkisiyim de.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1307.91,
+      "end": 1308.71,
+      "text": "Anladın mı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1310.43,
+      "end": 1314.36,
+      "text": "Eğer aşkıma dokunursan yapabileceklerimi bilmiyorsun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1315.12,
+      "end": 1316.3,
+      "text": "Bilmiyorum nerede olduğunu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1317.32,
+      "end": 1319.66,
+      "text": "Bekçisi miyim ben o zibidinin?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1320.43,
+      "end": 1321.81,
+      "text": "Kim yaptıysa bul onu öldür.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1323.09,
+      "end": 1324.71,
+      "text": "Siz sülalecek delisiniz ha.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1325.83,
+      "end": 1326.65,
+      "text": "Sıyırmışsınız.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1327.29,
+      "end": 1327.95,
+      "text": "Rahatsızlar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1333.9,
+      "end": 1335.3,
+      "text": "Manyaksın manyak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1349.0,
+      "end": 1349.62,
+      "text": "Kimsiniz siz?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1354.79,
+      "end": 1355.97,
+      "text": "Kıpırdarlarsa vurun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1357.45,
+      "end": 1359.77,
+      "text": "Bu ne saçmalık ya? Ne yapmaya çalışıyorsunuz?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1365.96,
+      "end": 1366.84,
+      "text": "Yettiniz ama ha.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1367.59,
+      "end": 1368.89,
+      "text": "Ateş kayıp.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1369.13,
+      "end": 1372.21,
+      "text": "Onun kılına zarar gelsin bu evden cesediniz çıkar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1378.68,
+      "end": 1383.16,
+      "text": "Eğer siz yaptıysanız bunlara bırakmam canlı canlı parçalarım ikinizi de.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1389.08,
+      "end": 1391.64,
+      "text": "Zorluk çıkaran olursa vurun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1392.1,
+      "end": 1393.28,
+      "text": "Benim de kızım kayıp.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1394.16,
+      "end": 1395.66,
+      "text": "Ben de endişeliyim sizin kadar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1396.1,
+      "end": 1398.12,
+      "text": "Çok yanlış yapıyorsun kadın çok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1401.78,
+      "end": 1403.26,
+      "text": "Bugünün yarını da var unutma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1403.84,
+      "end": 1404.44,
+      "text": "Kes sesini.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1407.12,
+      "end": 1409.98,
+      "text": "Yanlışı da senin gibi soysuzdan öğrenecek değiliz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1414.89,
+      "end": 1418.63,
+      "text": "Ayrıca sizin için yarın var mı yok mu daha belli değil.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1419.73,
+      "end": 1420.79,
+      "text": "Kıpırdarlarsa vurun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1438.07,
+      "end": 1439.01,
+      "text": "Beni iyi dinle.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1439.43,
+      "end": 1442.85,
+      "text": "Beni piçözdükten sonra sen kapının arkasına saklanacaksın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1442.85,
+      "end": 1446.77,
+      "text": "Adamlar içeri girdikten sonra da tüm gücüne koşacaksın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1447.35,
+      "end": 1447.95,
+      "text": "Tamam mı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1448.33,
+      "end": 1449.89,
+      "text": "Seni burada onlarla tek bırakamam.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1450.81,
+      "end": 1452.33,
+      "text": "Başımın içerisine bakabilirim gördün.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1452.73,
+      "end": 1453.99,
+      "text": "İtiraz yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1454.39,
+      "end": 1455.27,
+      "text": "Dediğimi yapacaksın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1458.58,
+      "end": 1459.78,
+      "text": "Tek bir şansınız var.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1460.14,
+      "end": 1461.14,
+      "text": "Doğru kullanmalıyız.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1462.22,
+      "end": 1463.36,
+      "text": "Dediğimi yap.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1503.32,
+      "end": 1504.24,
+      "text": "Baksana buraya.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1507.59,
+      "end": 1508.11,
+      "text": "Ne yapıyorsun?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1509.84,
+      "end": 1511.78,
+      "text": "Sorun yok ben de.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1513.0,
+      "end": 1513.7,
+      "text": "Sabır.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1515.65,
+      "end": 1517.53,
+      "text": "Ne oluyor oğlum burada?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1518.51,
+      "end": 1519.49,
+      "text": "Kim çözdü sizi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1523.61,
+      "end": 1560.06,
+      "text": "Sakin. Hadi gidin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1581.63,
+      "end": 1582.13,
+      "text": "Nereye?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1612.29,
+      "end": 1614.51,
+      "text": "Vay be kiminle evlenmişim ben böyle.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1620.77,
+      "end": 1621.75,
+      "text": "Var bizde de bir şeyler.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1625.49,
+      "end": 1626.15,
+      "text": "Hadi gidin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1674.39,
+      "end": 1676.53,
+      "text": "Bu durumda bile laf sokuyorsun inanmıyorum sana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1719.61,
+      "end": 1720.87,
+      "text": "Hadi gitmemiz lazım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1725.89,
+      "end": 1726.71,
+      "text": "Kaçışınız yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1732.68,
+      "end": 1734.38,
+      "text": "Buradan bakınca öyle gözükmüyor.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1838.78,
+      "end": 1840.07,
+      "text": "Senin vaden dolmuş.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1840.94,
+      "end": 1842.8,
+      "text": "Diğer taraftakilere selamını söyle.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1885.33,
+      "end": 1887.15,
+      "text": "Olursun selamını kendin söylersin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1889.61,
+      "end": 1890.71,
+      "text": "İyi misin?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1891.91,
+      "end": 1892.61,
+      "text": "Bir şeyim yok mu?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1893.03,
+      "end": 1894.51,
+      "text": "İyiyim bir şeyim yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1895.18,
+      "end": 1895.6,
+      "text": "Sen iyi misin?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1896.92,
+      "end": 1900.16,
+      "text": "İyiyim biraz anlamışım sadece.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1900.62,
+      "end": 1901.72,
+      "text": "Emin ol fark edilmiyor.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1902.61,
+      "end": 1904.43,
+      "text": "Hadi şunlar kendilerine gelmeden gidelim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1948.62,
+      "end": 1949.8,
+      "text": "Sen arkadan dolan",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 1950.52,
+      "end": 1952.32,
+      "text": "Çiz benimle gelin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 1952.72,
+      "end": 1955.06,
+      "text": "Onları yakalamaktan dönmek yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2017.24,
+      "end": 2018.34,
+      "text": "Elveda çiçeğim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2020.81,
+      "end": 2021.73,
+      "text": "Sen iyi ol.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2022.94,
+      "end": 2023.7,
+      "text": "Tek isteğim bu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2060.66,
+      "end": 2061.76,
+      "text": "Hayırdır?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2063.62,
+      "end": 2065.9,
+      "text": "Ben memleketime gideceğim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2066.99,
+      "end": 2069.23,
+      "text": "Hatta birkaç gün önce almıştım biletimi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2070.01,
+      "end": 2071.05,
+      "text": "Bakın isterseniz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2074.42,
+      "end": 2075.0,
+      "text": "Bakın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2075.18,
+      "end": 2076.38,
+      "text": "Bilet bilet bilmem ben.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2076.86,
+      "end": 2078.16,
+      "text": "Muzeyen hanım kuş uçmayacak dedi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2078.76,
+      "end": 2080.04,
+      "text": "Yapmayın Allah aşkına.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2080.14,
+      "end": 2081.26,
+      "text": "Uçağımı kaçıracağım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2081.82,
+      "end": 2083.8,
+      "text": "Hem benimle ne ilgisi var Ateş Bey'in?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2084.33,
+      "end": 2084.97,
+      "text": "Emir böyle.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2118.04,
+      "end": 2119.92,
+      "text": "Ateş yok Cemal yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2120.06,
+      "end": 2120.64,
+      "text": "Nerede bunlar?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2122.07,
+      "end": 2122.83,
+      "text": "Haydar!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2122.83,
+      "end": 2124.33,
+      "text": "Haydar!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2125.53,
+      "end": 2127.11,
+      "text": "Dua et ateş dönsün.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2127.31,
+      "end": 2129.67,
+      "text": "Yoksa seni inim inim inleterek öldürürüm.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2130.01,
+      "end": 2131.81,
+      "text": "Ateşi mumla ararsın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2132.21,
+      "end": 2133.35,
+      "text": "Hala bir haber yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2137.02,
+      "end": 2138.58,
+      "text": "Öleceğim meraktan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2140.01,
+      "end": 2141.49,
+      "text": "Gelecekler kızım merak etme.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2143.74,
+      "end": 2145.48,
+      "text": "İki aslanım da bu kapıdan girecek.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2145.54,
+      "end": 2146.28,
+      "text": "Başka yolu yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2146.72,
+      "end": 2147.7,
+      "text": "Başka yolu yok!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2171.06,
+      "end": 2171.34,
+      "text": "İyiyim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2172.04,
+      "end": 2178.26,
+      "text": "Çok yoruldum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2180.34,
+      "end": 2181.52,
+      "text": "Biraz daha dayan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2182.67,
+      "end": 2182.77,
+      "text": "Hadi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2182.77,
+      "end": 2184.13,
+      "text": "Vakit kaybetmeyelim gel.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2192.26,
+      "end": 2193.42,
+      "text": "Yürü buraya!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2198.3,
+      "end": 2199.9,
+      "text": "Geleceğim yerini çabuk!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2203.61,
+      "end": 2204.77,
+      "text": "Allah kahretsin!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2205.66,
+      "end": 2206.62,
+      "text": "İkiye ayrılın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2206.92,
+      "end": 2207.8,
+      "text": "Bulun onları bana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2214.87,
+      "end": 2216.79,
+      "text": "Kızım ona biraz daha un koyun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2216.95,
+      "end": 2217.67,
+      "text": "Akmış hamur.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2218.74,
+      "end": 2219.98,
+      "text": "Tamam annem.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2225.06,
+      "end": 2227.12,
+      "text": "İnşallah sağ salim evine döner.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2229.08,
+      "end": 2229.82,
+      "text": "İnşallah.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2231.08,
+      "end": 2232.56,
+      "text": "Kötü bir şey olmasın da.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2232.9,
+      "end": 2234.72,
+      "text": "Tövbe de kız ağzından yel alsın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2234.96,
+      "end": 2236.68,
+      "text": "Tövbe de.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2236.75,
+      "end": 2241.71,
+      "text": "Ateş Bey'e bir şey olursa var ya o Müzeyyen hepimizi kurşuna dizer.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2242.17,
+      "end": 2243.57,
+      "text": "Yetmez konağa yakar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2243.57,
+      "end": 2244.69,
+      "text": "Benden söylemesi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2245.43,
+      "end": 2246.45,
+      "text": "Orası öyle tabii.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2250.76,
+      "end": 2252.1,
+      "text": "Akşama çok hazırlık yapmayın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2252.58,
+      "end": 2254.14,
+      "text": "Ateş Bey'le Cemal Bey yoklar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2254.7,
+      "end": 2256.2,
+      "text": "Evde kimsenin iştahı da yok zaten.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2256.72,
+      "end": 2257.8,
+      "text": "Mercan Hanım da yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2259.08,
+      "end": 2260.42,
+      "text": "Evet o da yok detay olarak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2266.81,
+      "end": 2267.87,
+      "text": "Ya anacığım ya.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2288.52,
+      "end": 2289.32,
+      "text": "Sağ olasın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2297.93,
+      "end": 2299.55,
+      "text": "Oğlum bir süpürge falan bulaydı bak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2300.99,
+      "end": 2302.35,
+      "text": "Vardağı kırdı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2302.35,
+      "end": 2304.29,
+      "text": "Yerden aldı sadece kaşığı verdi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2304.37,
+      "end": 2305.05,
+      "text": "Farkında mısın?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2306.17,
+      "end": 2307.37,
+      "text": "Yapacağı iş o kadar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2332.15,
+      "end": 2333.43,
+      "text": "Neredesin Mercan ya?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2336.74,
+      "end": 2338.02,
+      "text": "Kahve getirdim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2338.7,
+      "end": 2341.38,
+      "text": "Burak çalışacak mutlu değilim şu anda.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2343.03,
+      "end": 2344.15,
+      "text": "Çalışmaya gelmedim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2344.65,
+      "end": 2346.39,
+      "text": "Konuşmaya ihtiyacım var belli ki.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2347.16,
+      "end": 2348.3,
+      "text": "Mercan'a ulaşamıyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2348.8,
+      "end": 2350.06,
+      "text": "Ve bu hiç normal değil.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2350.84,
+      "end": 2351.78,
+      "text": "Ya ona bir şey olursa?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2351.92,
+      "end": 2352.6,
+      "text": "Olmayacak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2354.74,
+      "end": 2359.5,
+      "text": "Bir insan hem nasıl bu kadar kırılgan hem de bu kadar güçlü durabilir anlayamadım ben.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2359.5,
+      "end": 2361.38,
+      "text": "Onu tanısan hep şok olursun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2361.46,
+      "end": 2363.08,
+      "text": "Hem de onu çok seversin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2364.52,
+      "end": 2365.86,
+      "text": "Herkes iyi görünür.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2366.32,
+      "end": 2367.7,
+      "text": "İyi görünmeye çalışır.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2368.12,
+      "end": 2373.9,
+      "text": "Ama Mercan'la girdiğimiz her sınavda görünür de değil gerçekten iyi bir insan olduğunu ispatladı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2374.94,
+      "end": 2376.98,
+      "text": "Bir ortamda biri kendini feda mı edecek?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2377.58,
+      "end": 2378.26,
+      "text": "Hiç.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2378.5,
+      "end": 2380.74,
+      "text": "Hiç başka bir yere bakma Mercan'dır o.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2381.1,
+      "end": 2383.94,
+      "text": "Etrafındaki kimsenin zarar görmesine izin vermez.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2385.95,
+      "end": 2387.53,
+      "text": "O parçalansın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2388.16,
+      "end": 2389.66,
+      "text": "Sen yeter ki sağlam kal.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2389.98,
+      "end": 2391.88,
+      "text": "Ne güzel anlattın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2392.74,
+      "end": 2394.16,
+      "text": "Az bile anlattım biliyor musun?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2394.95,
+      "end": 2396.55,
+      "text": "Çünkü öyle harika bir insan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2397.11,
+      "end": 2398.37,
+      "text": "Öyle anlatılamıyor işte.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2399.58,
+      "end": 2401.94,
+      "text": "Mercan Hanım'la çok uzun zamandır meğer arkadaşsınız.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2402.76,
+      "end": 2403.46,
+      "text": "Evet çok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2406.11,
+      "end": 2408.05,
+      "text": "Mercan Hanım sağ salim geri dönecek.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2408.57,
+      "end": 2410.89,
+      "text": "Böyle bir insan kolay kolay yıkılmaz merak etme.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2412.34,
+      "end": 2413.44,
+      "text": "Haklısın Burak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2414.54,
+      "end": 2415.64,
+      "text": "Konuşmak çok iyi geldi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2416.32,
+      "end": 2416.96,
+      "text": "Teşekkür ederim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2468.96,
+      "end": 2470.02,
+      "text": "Neredesiniz ulan?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2471.54,
+      "end": 2489.98,
+      "text": "O müthişin adına çok ihtiyacımız var şu an.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2559.32,
+      "end": 2561.74,
+      "text": "Biri vardı orada.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2576.41,
+      "end": 2577.55,
+      "text": "Sen iyisin değil mi?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2578.51,
+      "end": 2579.27,
+      "text": "İyiyim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2590.81,
+      "end": 2591.25,
+      "text": "Görmüşsün.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2604.65,
+      "end": 2606.69,
+      "text": "Niye bu kadar endişeleniyorsun ki benim için?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2618.13,
+      "end": 2622.91,
+      "text": "Bizim zamanımızda gençler sevdiklerine kocalarına seni seviyorum demeye utanırlardı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2623.85,
+      "end": 2627.01,
+      "text": "Böyle çarşıya gidip bir hediye falan alma adeti de yoktu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2627.89,
+      "end": 2635.15,
+      "text": "İşte biz de böyle kendi emeğimizle kimi zaman sevdamızı ilmek ilmek kimi zaman da böyle iğne iğne işler dokun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2659.08,
+      "end": 2660.38,
+      "text": "Ne yaparsın kızım burada?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2660.38,
+      "end": 2661.86,
+      "text": "Hiç öyle.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2662.18,
+      "end": 2662.84,
+      "text": "Oturuyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2666.86,
+      "end": 2669.98,
+      "text": "Nasıl yoruldum nasıl yoruldum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2670.94,
+      "end": 2672.4,
+      "text": "Hiç bir şey de etmedim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2673.64,
+      "end": 2675.98,
+      "text": "Etlerim böyle lime lime dökülüyor sanki.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2676.98,
+      "end": 2679.22,
+      "text": "İnsanın huzuru olmadı mı işte böyle oluyor kızım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2680.23,
+      "end": 2681.89,
+      "text": "Evde huzurumuz yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2682.15,
+      "end": 2684.49,
+      "text": "Elimizi kolumuzu kaldıracak halimiz de yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2685.31,
+      "end": 2687.63,
+      "text": "İşte böyle insanın huzuru olmadı mıydı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2687.85,
+      "end": 2690.07,
+      "text": "Gece yattığın yatak kuşluyu da olsa.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2690.07,
+      "end": 2692.51,
+      "text": "Sanki sivili sedura yapmış gibi olur.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2694.58,
+      "end": 2698.18,
+      "text": "Öyle de Mercan Hanım'a ne diyorsun anne?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2699.58,
+      "end": 2701.36,
+      "text": "Sevemeden zorla evlendi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2701.62,
+      "end": 2704.14,
+      "text": "Karı koca gibi değil de düşman gibi yaşıyorlardı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2705.36,
+      "end": 2708.3,
+      "text": "Ama yine de ateş benim peşimden kendini tehlikeye attı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2709.55,
+      "end": 2711.01,
+      "text": "Neresinden baksana acayip.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2712.39,
+      "end": 2715.99,
+      "text": "O acayip dediğimiz şey hayatın takentisi işte.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2717.63,
+      "end": 2720.53,
+      "text": "Sen illa aşkı öyle ilk görüşte falan olayım mı zannediyorsun?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2720.53,
+      "end": 2724.24,
+      "text": "Ama türlü tesis aşk vardır da.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2724.4,
+      "end": 2729.28,
+      "text": "Kimisi böyle işte kavga gürültüğüyle başlar da yavaş yavaş tavını bulur.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2729.67,
+      "end": 2731.52,
+      "text": "İşte esas o kıymetlidir.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2733.13,
+      "end": 2735.53,
+      "text": "Çünkü onun için de birbirini tanımak vardır.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2735.95,
+      "end": 2738.21,
+      "text": "O bir binayı beraber dikmek vardır.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2738.59,
+      "end": 2741.65,
+      "text": "Eğrisini doğrusunu beraber düzeltmek vardır da.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2741.87,
+      "end": 2743.25,
+      "text": "Emek vardır emek.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2743.73,
+      "end": 2746.87,
+      "text": "İşte o emek iki insanı birbirine bağlar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2747.31,
+      "end": 2748.37,
+      "text": "En derinden bağlar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2748.98,
+      "end": 2752.74,
+      "text": "O derinden bağlı kolay kolay kopmuyor.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2753.2,
+      "end": 2756.74,
+      "text": "İşte insanın içine kaybetme korkusu düştü müydü bir kere?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2764.81,
+      "end": 2768.73,
+      "text": "Nazlı yaz edip de kendinden bile sakladı bu duyguları böyle dışarı çıkar.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2769.23,
+      "end": 2770.31,
+      "text": "Yağlar durur ha.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2771.32,
+      "end": 2776.96,
+      "text": "İnsan yanındayken evini uzattığında yakınındayken o zaman özensiz davranır.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2777.24,
+      "end": 2778.46,
+      "text": "Kıymetini bilemez.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2778.92,
+      "end": 2780.92,
+      "text": "Ha burada dur, ha yanımdadır der.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2781.42,
+      "end": 2784.84,
+      "text": "Ama bugün ha buraya olan yarın ha oraya olur.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2784.84,
+      "end": 2790.12,
+      "text": "Kaybetme korkusu bir defa insanın kalbine düştü müydü?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2790.44,
+      "end": 2796.82,
+      "text": "Aşk da bu bizim Karadeniz'in dalgaları gibi gelir insanı bir al aşağıya ediverir ha.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2800.14,
+      "end": 2800.98,
+      "text": "Bak güzel kızım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2804.86,
+      "end": 2807.92,
+      "text": "Her gün yarısı mutluluksa yarısı da acıdır.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2808.64,
+      "end": 2811.84,
+      "text": "Yarısı huzursa yarısı huzursuzluktur.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2813.54,
+      "end": 2818.2,
+      "text": "Ama her ne olursa olsun insan aşkına sahip olmalı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2818.64,
+      "end": 2820.52,
+      "text": "E doğru kişiyi bulursa tabi.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2823.54,
+      "end": 2825.62,
+      "text": "Ama ben biliyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2825.84,
+      "end": 2829.64,
+      "text": "Biliyorum benim kızım en iyisi onu en doğrusunu yapacak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2830.82,
+      "end": 2834.04,
+      "text": "Ben onun yüreğini dantel dantel işledim da.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2837.06,
+      "end": 2838.48,
+      "text": "Oy benim çiçek kızım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2838.98,
+      "end": 2840.5,
+      "text": "Oy benim güzel kızım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2853.23,
+      "end": 2855.45,
+      "text": "Neyse ki kurşun sıyırıp geçmiş kolunu.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2870.72,
+      "end": 2871.52,
+      "text": "Nasıl hissediyorsun?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2874.82,
+      "end": 2875.52,
+      "text": "Bir şeyim yok.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2877.61,
+      "end": 2878.45,
+      "text": "O kadar da değil.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2879.36,
+      "end": 2880.94,
+      "text": "Yani öyle olsa kanı mandırırdı.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2882.08,
+      "end": 2883.52,
+      "text": "Çöve kımıldama mandır tamam mı?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2884.04,
+      "end": 2885.5,
+      "text": "Saracağım kolumu iyice.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2886.33,
+      "end": 2888.59,
+      "text": "Canım acımıyorum bir şey hissetmiyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2890.55,
+      "end": 2892.21,
+      "text": "Sınırlıca işin yüksek demek ki.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2896.97,
+      "end": 2899.96,
+      "text": "Öyle kurşun çenesi gelir bana.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2900.62,
+      "end": 2901.06,
+      "text": "Efendim?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2903.94,
+      "end": 2905.5,
+      "text": "Biraz daha deli etmezsek diyorum.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2907.42,
+      "end": 2909.42,
+      "text": "Gerçekten canı açılacak yaralar alacağız.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2910.44,
+      "end": 2910.98,
+      "text": "Gitmemiz lazım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2916.23,
+      "end": 2917.61,
+      "text": "Çok özür dilerim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2917.87,
+      "end": 2918.93,
+      "text": "Elim hafiftir aslında.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2939.35,
+      "end": 2940.01,
+      "text": "Hadi gitmeyeceğiz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2956.12,
+      "end": 2957.42,
+      "text": "Annem haklıymış.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2957.64,
+      "end": 2959.12,
+      "text": "İnsan şu anda neyi sahip çıkar?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2959.68,
+      "end": 2961.1,
+      "text": "Bir onuruna bir aşkıma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2963.47,
+      "end": 2969.95,
+      "text": "Onuruma sahip çıktım ama aşkıma çok olmayacak böyle.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 2969.95,
+      "end": 2973.29,
+      "text": "Her şeyi anlatacağım mahalleye.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2981.53,
+      "end": 2981.83,
+      "text": "Neredesin?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 2982.01,
+      "end": 2983.25,
+      "text": "Nereye kayboldun ya?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3078.24,
+      "end": 3080.08,
+      "text": "Şu taraftan önde kıstıralım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3101.9,
+      "end": 3102.4,
+      "text": "Dur ulan!",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3226.9,
+      "end": 3227.68,
+      "text": "Sakın korkma.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3228.44,
+      "end": 3229.2,
+      "text": "Ben yanındayım.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3230.13,
+      "end": 3231.23,
+      "text": "Sana hiçbir şey olmayacak.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3233.96,
+      "end": 3235.6,
+      "text": "Derdiniz neyse erkek erkeğe çözelim.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3236.7,
+      "end": 3238.0,
+      "text": "Bırakın kız gitsin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3242.25,
+      "end": 3244.65,
+      "text": "Şu an pazarlık yapacak durumda değilsin.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3249.6,
+      "end": 3251.62,
+      "text": "Hem bir yerine iki daha cazip benim için.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3254.63,
+      "end": 3255.99,
+      "text": "İçinizde bittiniz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3411.42,
+      "end": 3414.2,
+      "text": "Ateşin yolculuğundan ilk size haberdar olmak istiyorsunuz.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3415.08,
+      "end": 3415.98,
+      "text": "Kanala abone olun.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3416.44,
+      "end": 3417.9,
+      "text": "Zil simgesine tıklayın.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 3418.2,
+      "end": 3420.48,
+      "text": "Ve yeni bölümlerden ilk size haberdar olun.",
+      "confidence": 1.0
+    }
+  ]
+}
