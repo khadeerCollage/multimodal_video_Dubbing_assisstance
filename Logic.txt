@@ -1,0 +1,82 @@
+step - 1 - Audio extraction 
+
+- here if we choose ffmpeg , this will be a ameature technique to do , why because ffmpeg will be get the dailouges + background music / explosation / rain / crowd sounds , this will are MIXED.
+
+- that why we used trendy way 
+
+- STEM SEPERATION
+
+Video.mp4
+    ↓ [FFmpeg extraction]
+Raw_Audio.wav
+    ↓ [AI Source Separation]
+    ├─ Vocals.wav        (dialogue only)
+    ├─ Music.wav         (background score)
+    ├─ SFX.wav           (sound effects)
+    └─ Ambient.wav       (atmosphere)
+
+
+- so we can professionate our logic with best 
+
+Then you:
+
+Keep Music + SFX + Ambient (untouched)
+Replace Vocals with dubbed version
+Remix everything together with proper balance
+
+
+- My logic
+
+Is video < 5 minutes AND low budget?
+  ├─ YES → Use basic FFmpeg extraction
+  └─ NO  → Use stem separation workflow
+           ├─ Is dialogue-heavy (talk show, interview)?
+           │   └─ Use UVR (optimized for speech)
+           └─ Is cinematic (movie, TV show)?
+               └─ Use Demucs (preserves music quality)
+
+
+then it will possible way to do our freely move on it.
+
+it works like this flow :- 
+
+INPUT FILE
+   ↓
+[ DEMUX ]  → separates audio & video streams
+   ↓
+[ DECODE ] → converts compressed data into raw frames/audio
+   ↓
+[ FILTER ] → resize, cut, change FPS, etc
+   ↓
+[ ENCODE ] → compress again
+   ↓
+[ MUX ] → pack into output file
+   ↓
+OUTPUT FILE
+
+we can cut , edit , to mp3 .png , all type of we can do at their mode.
+
+
+
+and demucs work like this :- 
+
+song.mp3
+  ↓
+FFmpeg → Decode audio
+  ↓
+Convert to spectrogram
+  ↓
+Deep Neural Network (trained on 1000s of songs)
+  ↓
+Predict 4 masks:
+   vocals
+   drums
+   bass
+   other
+  ↓
+Apply masks
+  ↓
+Convert back to wave
+
+
+
