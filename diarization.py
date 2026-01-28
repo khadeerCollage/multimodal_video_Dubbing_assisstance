@@ -1,15 +1,3 @@
-# ============================================================================
-# Stage 3: Diarization + Transcription Engine
-# WHO said WHAT at WHEN - Foundation for dubbing
-# ============================================================================
-# 
-# DECISION: Dropped Pyannote (PyTorch 2.10 incompatible, dependency hell)
-# NEW APPROACH: Faster-Whisper + Simple Speaker Clustering
-# - No HuggingFace token needed
-# - No PyTorch Lightning
-# - Just works
-# ============================================================================
-# 
 
 import os
 import logging
@@ -24,9 +12,6 @@ logging.basicConfig(level=logging.INFO, format='[%(levelname)s] %(message)s')
 logger = logging.getLogger(__name__)
 
 
-# ============================================================================
-# Data Structures
-# ============================================================================
 @dataclass
 class SpeechSegment:
     """Single speech segment with speaker identity and text"""
@@ -78,9 +63,6 @@ class TranscriptResult:
         )
 
 
-# ============================================================================
-# Simple Speaker Diarization (No External Dependencies)
-# ============================================================================
 class SimpleSpeakerDiarizer:
     """
     Lightweight speaker diarization using audio features + clustering.
@@ -196,10 +178,6 @@ class SimpleSpeakerDiarizer:
         
         return speaker_ids
 
-
-# ============================================================================
-# Transcription Engine (Faster-Whisper)
-# ============================================================================
 class TranscriptionEngine:
     """
     Speech-to-Text using Faster-Whisper (CTranslate2 optimized)
@@ -290,9 +268,6 @@ class TranscriptionEngine:
         }
 
 
-# ============================================================================
-# Main Processor (Combines Everything)
-# ============================================================================
 class SpeechProcessor:
     """
     Complete Speech Processing Pipeline
@@ -321,7 +296,7 @@ class SpeechProcessor:
         Complete processing: Transcription + Speaker Assignment
         """
         logger.info("=" * 60)
-        logger.info("🎤 Speech Processing Pipeline")
+        logger.info(" Speech Processing Pipeline")
         logger.info("=" * 60)
         
         # Step 1: Transcription
@@ -382,21 +357,17 @@ class SpeechProcessor:
             logger.info(f"✓ Saved: {txt_path}")
         
         logger.info("\n" + "=" * 60)
-        logger.info("✅ Processing Complete!")
+        logger.info(" Processing Complete!")
         logger.info(f"   {len(aligned_segments)} segments, {len(unique_speakers)} speakers")
         logger.info("=" * 60)
         
         return result
 
-
-# ============================================================================
-# CLI Entry Point
-# ============================================================================
 def main():
     import sys
     
     print("\n" + "=" * 70)
-    print("🎤 Speech Processor - Transcription + Speaker Detection")
+    print(" Speech Processor - Transcription + Speaker Detection")
     print("=" * 70 + "\n")
     
     # Get vocals path
@@ -406,7 +377,7 @@ def main():
         vocals_path = "dubbing_output_8ca37531/htdemucs/raw_audio/vocals.wav"
     
     if not Path(vocals_path).exists():
-        print(f"❌ File not found: {vocals_path}")
+        print(f" File not found: {vocals_path}")
         print("\nUsage: python diarization.py <vocals.wav>")
         return
     
@@ -426,7 +397,7 @@ def main():
         )
         
         # Print sample
-        print("\n📋 Sample Output:")
+        print("\n Sample Output:")
         print("-" * 50)
         for seg in transcript.segments[:5]:
             print(f"[{seg.start:.1f}s → {seg.end:.1f}s] {seg.speaker}:")
@@ -436,10 +407,12 @@ def main():
             print(f"  ... and {len(transcript.segments) - 5} more segments")
         
     except Exception as e:
-        print(f"\n❌ Error: {e}")
+        print(f"\n Error: {e}")
         import traceback
         traceback.print_exc()
 
 
 if __name__ == "__main__":
     main()
+
+

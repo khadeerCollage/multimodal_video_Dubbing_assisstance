@@ -14,8 +14,10 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "scipy>=1.17.0",
     "soundfile>=0.13.1",
+    "stable-ts>=2.19.1",
     "torch>=2.10.0",
     "torchaudio>=2.10.0",
     "torchcodec>=0.10.0",
     "uvicorn[standard]>=0.40.0",
+    "whisperx",
 ]

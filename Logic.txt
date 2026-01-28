@@ -201,10 +201,42 @@ So voice is clear, music softer.
 
 ------------------------------------------------------
 
-
- The "Ear" & "Identity" (Diarization + ASR)
+The "Ear" & "Identity" (Diarization + ASR)
 You will use PaddleSpeech for the text and Pyannote.audio for the speaker identities.
 
 now, we can identify by some of who can speak , who's vocal is.
 
+
+[
+   {
+  "num_speakers": 2,
+  "total_duration": 3420.48,
+  "language": "tr",
+  "segments": [
+    {
+      "speaker": "SPEAKER_01",
+      "start": 130.9,
+      "end": 132.32,
+      "text": "Sen ne yaptın, niye geldin?",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 133.07,
+      "end": 134.37,
+      "text": "Ah Mercan.",
+      "confidence": 1.0
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 135.8,
+      "end": 137.06,
+      "text": "Geç içeri, yürü.",
+      "confidence": 1.0
+    },
+   ]}
+]
+
+here, we find out the best quality text from audio, and find out the inshightes,
+now we get the high quality text.
 
