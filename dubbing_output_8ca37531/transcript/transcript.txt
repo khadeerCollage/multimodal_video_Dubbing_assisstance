@@ -1,1495 +1,1652 @@
 Transcript - 2 speakers
-Duration: 3420.5s | Language: tr
+Duration: 3420.4s | Language: tr
+Mode: SIMPLE (Clustering)
 ============================================================
 
-[ 130.9s →  132.3s] SPEAKER_01:
-    "Sen ne yaptın, niye geldin?"
+[ 131.10s →  131.76s] SPEAKER_00:
+    "Niye geldin?"
 
-[ 133.1s →  134.4s] SPEAKER_01:
-    "Ah Mercan."
+[ 131.88s →  133.69s] SPEAKER_01:
+    "Ah Mersan."
 
-[ 135.8s →  137.1s] SPEAKER_01:
-    "Geç içeri, yürü."
+[ 135.32s →  136.08s] SPEAKER_01:
+    "Geç içeri."
 
-[ 139.0s →  140.5s] SPEAKER_00:
+[ 136.22s →  136.78s] SPEAKER_01:
+    "Yürü."
+
+[ 136.98s →  140.21s] SPEAKER_01:
     "Bir daha sakın ona dokunma."
 
-[ 141.9s →  143.2s] SPEAKER_00:
+[ 140.39s →  143.09s] SPEAKER_01:
     "Bir daha sakın beni böyle itme."
 
-[ 143.4s →  144.2s] SPEAKER_00:
+[ 143.29s →  143.81s] SPEAKER_00:
     "Ne yapacaksın?"
 
-[ 172.0s →  172.3s] SPEAKER_01:
-    "Mercan!"
+[ 145.42s →  145.84s] SPEAKER_01:
+    "Ne?"
 
-[ 183.9s →  186.2s] SPEAKER_01:
-    "Sen iyi misin? Bir şeyin var mı?"
+[ 145.92s →  146.48s] SPEAKER_01:
+    "Mersan!"
 
-[ 186.9s →  187.4s] SPEAKER_00:
-    "İyiyim."
+[ 172.49s →  173.05s] SPEAKER_00:
+    "Mersan!"
 
-[ 191.3s →  192.4s] SPEAKER_00:
-    "Sen ne yaptın az önce?"
-
-[ 195.5s →  197.1s] SPEAKER_00:
-    "Ne yapayım, uyardım ama dinlemedi."
-
-[ 208.2s →  208.8s] SPEAKER_00:
-    "Çok sıkı bu."
-
-[ 210.4s →  212.1s] SPEAKER_00:
-    "Adamları dövdün, ipimi çözemiyorsun."
-
-[ 213.3s →  215.2s] SPEAKER_01:
-    "Hem sen nasıl geldin buraya?"
-
-[ 215.2s →  215.8s] SPEAKER_00:
-    "Cemal nerede?"
-
-[ 216.4s →  217.8s] SPEAKER_01:
-    "Seni aramaya gitmişti."
-
-[ 218.4s →  220.8s] SPEAKER_00:
-    "Bana araba da bekle dedi ama ben beklemedim."
-
-[ 222.2s →  222.9s] SPEAKER_00:
-    "Şaşırdık mı?"
-
-[ 223.1s →  225.9s] SPEAKER_01:
-    "Tabi ki hayır. Telefonu ara Cemal'i."
-
-[ 226.4s →  227.6s] SPEAKER_00:
-    "Yanımda değil ki."
-
-[ 228.0s →  231.1s] SPEAKER_00:
-    "Senden konum gelince evden çıktığım gibi arabaya bindim."
-
-[ 232.1s →  232.8s] SPEAKER_00:
-    "Sabır."
-
-[ 233.8s →  235.8s] SPEAKER_00:
-    "Söylenmesene. Seni merak ediyordum."
-
-[ 236.0s →  238.2s] SPEAKER_00:
-    "Yani o an telefonu düşünecek halde değilim. Kusura bakma."
-
-[ 238.5s →  239.2s] SPEAKER_00:
-    "Söylenmiyorum."
-
-[ 240.1s →  241.1s] SPEAKER_00:
-    "Gelecekler birazdan hadi."
-
-[ 241.6s →  242.3s] SPEAKER_00:
-    "Biraz hızlı ol."
-
-[ 242.3s →  244.1s] SPEAKER_00:
-    "Ne yapayım? Çözülmüyor."
-
-[ 249.0s →  250.6s] SPEAKER_01:
-    "O zaman bir an önce uzaklaş buradan."
-
-[ 252.3s →  253.1s] SPEAKER_01:
-    "Asla gitmem."
-
-[ 257.9s →  260.1s] SPEAKER_00:
-    "Sana git dedim. Gelecekler beni dinle."
-
-[ 260.4s →  261.9s] SPEAKER_00:
-    "Gitmiyorum dedim ben de sana."
-
-[ 262.8s →  263.5s] SPEAKER_00:
-    "Sana git dedim."
-
-[ 266.2s →  267.7s] SPEAKER_00:
-    "Ellerim bağlı iken seni koruyamam."
-
-[ 278.6s →  279.8s] SPEAKER_01:
-    "Gitmem dedim ben de sana."
-
-[ 281.1s →  282.7s] SPEAKER_00:
-    "Git dedim sana. Gelecekler şimdi."
-
-[ 318.8s →  319.9s] SPEAKER_01:
-    "Allah'a bir şükürler olsun."
-
-[ 395.1s →  396.0s] SPEAKER_00:
-    "Bunu ne yapalım abi?"
-
-[ 397.0s →  399.1s] SPEAKER_01:
-    "Bırakın burada. Kuru da kuşayım olsun."
-
-[ 409.8s →  410.4s] SPEAKER_00:
-    "Bırakın onu."
-
-[ 410.8s →  411.6s] SPEAKER_00:
-    "Bırakın gitse."
-
-[ 411.6s →  413.0s] SPEAKER_01:
-    "Bırak kolumu."
-
-[ 413.4s →  414.6s] SPEAKER_00:
-    "Emrin olur kuru abi."
-
-[ 415.2s →  417.3s] SPEAKER_00:
-    "Bırak beni. Bırak dedim sana."
-
-[ 417.6s →  418.3s] SPEAKER_00:
-    "Bırakın lan onu."
-
-[ 427.5s →  428.5s] SPEAKER_01:
-    "Bırak beni."
-
-[ 429.0s →  429.4s] SPEAKER_01:
-    "Ne yaptın?"
-
-[ 431.3s →  433.5s] SPEAKER_00:
-    "Bırakın dedi. Duydunuz mu lan?"
-
-[ 433.6s →  438.4s] SPEAKER_01:
-    "Bırakın diyor. Ne yapalım?"
-
-[ 438.6s →  439.2s] SPEAKER_00:
-    "Bırakalım mı?"
-
-[ 439.9s →  442.4s] SPEAKER_00:
-    "Sizin işiniz bende. Bırakın kıza gitsin."
-
-[ 446.1s →  446.9s] SPEAKER_00:
-    "Şansına küs."
-
-[ 448.0s →  449.1s] SPEAKER_00:
-    "Bugün kötü günündesin."
-
-[ 449.4s →  450.5s] SPEAKER_00:
-    "Hem de en kötü günündesin."
-
-[ 454.5s →  456.8s] SPEAKER_00:
-    "Burada çok güzelmiş ha. Yazık olacak."
-
-[ 462.4s →  462.8s] SPEAKER_00:
-    "Bırak."
-
-[ 463.2s →  463.4s] SPEAKER_00:
-    "Bırak."
-
-[ 463.8s →  464.7s] SPEAKER_00:
-    "Bırak lan şunu."
-
-[ 465.9s →  466.6s] SPEAKER_00:
-    "Bırak dedim."
-
-[ 467.6s →  470.5s] SPEAKER_00:
-    "Dokunma lan onu. Hepinizi pişman edeceğim lan."
-
-[ 470.9s →  472.5s] SPEAKER_00:
-    "Ödeneceğim lan hepinizi bunlar."
-
-[ 474.1s →  475.1s] SPEAKER_00:
-    "Görüyor musun?"
-
-[ 476.0s →  477.6s] SPEAKER_00:
-    "Seni üsüdük diye kocan sinirlendi."
-
-[ 489.2s →  491.4s] SPEAKER_00:
-    "Bir adamı tutamadınız lan."
-
-[ 503.9s →  505.0s] SPEAKER_00:
-    "Rahat duruyor musun?"
-
-[ 505.7s →  506.4s] SPEAKER_00:
-    "Duruyormuşsun."
-
-[ 508.0s →  509.0s] SPEAKER_01:
-    "Tamam."
-
-[ 510.0s →  511.9s] SPEAKER_00:
-    "İndir o silahı yoksa seni pişman ederim."
-
-[ 526.6s →  527.2s] SPEAKER_01:
-    "Haydi."
-
-[ 530.6s →  532.8s] SPEAKER_00:
-    "Sıkı bağlayın. Çözülmesin bir daha."
-
-[ 544.8s →  545.6s] SPEAKER_00:
-    "İkisini hallettik abi."
-
-[ 546.7s →  547.6s] SPEAKER_01:
-    "Hadi gidelim."
-
-[ 560.8s →  561.5s] SPEAKER_00:
-    "İyisin değil mi?"
-
-[ 562.3s →  564.6s] SPEAKER_01:
-    "İyiyim. Sen beni düşünme."
-
-[ 567.6s →  568.5s] SPEAKER_00:
-    "Bunun için çok geç."
-
-[ 570.3s →  571.8s] SPEAKER_00:
-    "Buraya hiç gelmemen lazımdı."
-
-[ 572.4s →  573.4s] SPEAKER_00:
-    "Niye geldin ki zaten?"
-
-[ 575.1s →  576.5s] SPEAKER_01:
-    "Seni merak ettim."
-
-[ 576.9s →  579.3s] SPEAKER_00:
-    "Çok belliydi başına bir şey geldi. Hissettim."
-
-[ 583.3s →  583.8s] SPEAKER_00:
-    "Etmiş."
-
-[ 585.7s →  588.1s] SPEAKER_01:
-    "Konakta öylece duramazdım."
-
-[ 588.8s →  590.2s] SPEAKER_00:
-    "Bazen durman gerek işte."
-
-[ 594.9s →  596.6s] SPEAKER_01:
-    "Yardım etmek istemiştim sadece."
-
-[ 597.0s →  598.2s] SPEAKER_00:
-    "Ya sana bir şey olsaydı?"
-
-[ 603.1s →  604.4s] SPEAKER_00:
-    "Çok yardımcı oldun gerçekten."
-
-[ 604.7s →  605.4s] SPEAKER_01:
-    "Çok sağ ol."
-
-[ 606.1s →  607.9s] SPEAKER_00:
-    "Ellerimi çözseydin şimdi kaçmıştık."
-
-[ 608.9s →  610.5s] SPEAKER_01:
-    "Ben asıl çözmüştüm."
-
-[ 611.1s →  612.1s] SPEAKER_01:
-    "Çok yavaşsın ama."
-
-[ 612.8s →  614.2s] SPEAKER_00:
-    "Ne yapayım? Çok sıkıydı."
-
-[ 616.4s →  618.0s] SPEAKER_00:
-    "Bütün suç bende yani. Öyle mi?"
-
-[ 619.9s →  620.6s] SPEAKER_00:
-    "Tabii ki değil."
-
-[ 625.6s →  627.0s] SPEAKER_00:
-    "Bir de seni düşünmek zorundayım şimdi."
-
-[ 629.6s →  631.9s] SPEAKER_00:
-    "İnsanların birbirini düşünmesine ne var bu kadar kötü?"
-
-[ 633.6s →  635.6s] SPEAKER_01:
-    "Ama haklısın."
-
-[ 636.3s →  637.6s] SPEAKER_00:
-    "Düşünülecek insan var."
-
-[ 638.0s →  639.9s] SPEAKER_00:
-    "Düşündüğüne pişman olacağın insan var."
-
-[ 643.4s →  645.2s] SPEAKER_01:
-    "Sana bir şey olacak diye korkuyorum."
-
-[ 645.7s →  646.2s] SPEAKER_00:
-    "Anlasana."
-
-[ 648.1s →  652.8s] SPEAKER_01:
-    "Kabahat bende. Keşke gelmeseydim."
-
-[ 654.0s →  654.7s] SPEAKER_00:
-    "Bunlar da senin."
-
-[ 664.2s →  665.6s] SPEAKER_00:
-    "Tek umudumuz Cemal şu an."
-
-[ 668.8s →  669.6s] SPEAKER_00:
-    "İnşallah iyidir."
-
-[ 671.2s →  672.2s] SPEAKER_01:
-    "İyidir o iyidir."
-
-[ 672.8s →  673.5s] SPEAKER_00:
-    "Bir şey olmaz ana."
-
-[ 701.8s →  703.7s] SPEAKER_00:
-    "Az önce hareketlendi buralar patron."
-
-[ 704.4s →  705.7s] SPEAKER_00:
-    "Tam adamı indirecektik."
-
-[ 706.0s →  708.1s] SPEAKER_01:
-    "Misafirler geldi. Ne misafiri?"
-
-[ 708.1s →  711.3s] SPEAKER_01:
-    "Mercan'la yanında bir baskın yaptılar."
-
-[ 712.0s →  712.7s] SPEAKER_01:
-    "Adam bitik."
-
-[ 712.9s →  714.1s] SPEAKER_00:
-    "Mercan'ı da yakalayıp bağladı."
-
-[ 714.7s →  715.7s] SPEAKER_00:
-    "Ne diyorsun lan sen?"
-
-[ 716.7s →  718.4s] SPEAKER_00:
-    "Mercan'ın ne işi var orada? Nasıl gelir?"
-
-[ 719.4s →  721.2s] SPEAKER_00:
-    "Valla nasılını bilmem de durum bu."
-
-[ 721.7s →  723.1s] SPEAKER_00:
-    "Şimdilik bir sıkıntı yok ama."
-
-[ 723.2s →  724.5s] SPEAKER_00:
-    "Her şey bizim kontrolümüzde."
-
-[ 726.6s →  727.7s] SPEAKER_00:
-    "Mercan'ıydın bir şey yok."
-
-[ 728.6s →  730.1s] SPEAKER_01:
-    "Yok patron. İyi kız."
-
-[ 730.8s →  732.0s] SPEAKER_00:
-    "Deli gücü var maşallah."
-
-[ 733.2s →  734.5s] SPEAKER_00:
-    "Bağladık öyle oturuyor."
-
-[ 735.4s →  736.5s] SPEAKER_01:
-    "Ateşi ne yapayım?"
-
-[ 737.5s →  739.1s] SPEAKER_01:
-    "Keseyim mi biletini tahtalı köye?"
-
-[ 740.9s →  743.2s] SPEAKER_00:
-    "Adamla ilgili her şeyi de problem çıkartıyorsun."
-
-[ 746.0s →  748.0s] SPEAKER_01:
-    "Şimdilik benden haber bekleyin."
-
-[ 748.5s →  749.4s] SPEAKER_01:
-    "Bana bak."
-
-[ 749.6s →  752.2s] SPEAKER_00:
-    "Mercan'ın kılına zarar gelirse hepinizin işini keserim."
-
-[ 752.8s →  753.6s] SPEAKER_01:
-    "Ona göre."
-
-[ 757.6s →  758.3s] SPEAKER_00:
-    "Ah be Mercan."
-
-[ 760.4s →  761.8s] SPEAKER_00:
-    "Bütün planı suya düşürdün."
-
-[ 767.5s →  770.1s] SPEAKER_01:
-    "Kurtulacağız buradan. Korkmuyorsun değil mi?"
-
-[ 771.3s →  773.0s] SPEAKER_01:
-    "Korkmuyorum dersem yalan olur."
-
-[ 775.3s →  776.6s] SPEAKER_01:
-    "Ama sen varsın."
-
-[ 777.3s →  778.3s] SPEAKER_00:
-    "O yüzden içim rahat."
-
-[ 780.4s →  781.2s] SPEAKER_00:
-    "Ben hayattayken"
-
-[ 782.0s →  784.4s] SPEAKER_00:
-    "Kimse senin kılınla bile zarar veremez."
-
-[ 788.5s →  789.6s] SPEAKER_01:
-    "Biliyorum."
-
-[ 804.5s →  806.3s] SPEAKER_00:
-    "Buraya hiç gelmemen lazımdı."
-
-[ 807.0s →  809.5s] SPEAKER_00:
-    "Cemal seni getirmezdi de laf dinlemedin kesin."
-
-[ 810.4s →  811.8s] SPEAKER_01:
-    "Laf dinle bir dahakine."
-
-[ 812.0s →  813.1s] SPEAKER_01:
-    "Sözünden çıkma."
-
-[ 815.4s →  817.9s] SPEAKER_00:
-    "Bak dinlemeyince sonra böyle oluyor işte."
-
-[ 819.0s →  820.0s] SPEAKER_00:
-    "İyi veya kötü."
-
-[ 820.6s →  823.1s] SPEAKER_00:
-    "Sen bu haldeyken konakta oturup televizyon izleyecek değildin."
-
-[ 824.2s →  827.4s] SPEAKER_00:
-    "Başıma gelenleri bilecek olsam bile yine kalkıp gelirdi."
-
-[ 839.8s →  840.9s] SPEAKER_00:
-    "Kim neden yaptı bunu?"
-
-[ 843.8s →  845.2s] SPEAKER_01:
-    "Kim oldu öyle iyi de."
-
-[ 846.4s →  848.9s] SPEAKER_01:
-    "Bilmiyorum. Ama bulacağım."
-
-[ 849.3s →  851.8s] SPEAKER_00:
-    "Bulduğunda da ona pişman edeceğim."
-
-[ 855.1s →  856.9s] SPEAKER_01:
-    "Cemal'den de ses yok hâlâ."
-
-[ 857.2s →  858.5s] SPEAKER_00:
-    "Başına bir şey mi geldi acaba?"
-
-[ 859.6s →  861.3s] SPEAKER_00:
-    "Cemal'i atlattıklarını bil sen."
-
-[ 861.8s →  863.4s] SPEAKER_00:
-    "Onun için şu anda endişelenmezdi."
-
-[ 864.5s →  866.5s] SPEAKER_00:
-    "Çok önceden bir kere pusuya düşürdüler."
-
-[ 866.9s →  869.3s] SPEAKER_00:
-    "Kolunu, bacağını her tarafını kırdılar."
-
-[ 870.3s →  872.8s] SPEAKER_00:
-    "Ama benim kardeşim hastanede dirildi."
-
-[ 873.3s →  874.7s] SPEAKER_00:
-    "Bütün adamların iflahını kesti."
-
-[ 875.9s →  877.0s] SPEAKER_00:
-    "Sağlamdır benim kardeşim."
-
-[ 877.9s →  879.5s] SPEAKER_00:
-    "Namerdin darbesiyle yıkılmaz."
-
-[ 884.8s →  886.5s] SPEAKER_00:
-    "Buradan kurtulacağımız eminim."
-
-[ 887.8s →  888.6s] SPEAKER_00:
-    "Ama olur da kurtulacaklar."
-
-[ 888.6s →  891.9s] SPEAKER_01:
-    "Kurtulamazsak içimde kalmasın."
-
-[ 893.7s →  895.5s] SPEAKER_01:
-    "İhale için beni boş yere suçladın."
-
-[ 895.9s →  896.5s] SPEAKER_00:
-    "Ben yapmadım."
-
-[ 899.1s →  900.8s] SPEAKER_00:
-    "Gerçekten tek derdin bu mu şu anda?"
-
-[ 902.3s →  903.1s] SPEAKER_01:
-    "Evet bu."
-
-[ 904.1s →  905.5s] SPEAKER_00:
-    "Ne yapayım gelemiyorum haksızlığa."
-
-[ 907.3s →  908.6s] SPEAKER_00:
-    "Ben yapsam söylerdim sana."
-
-[ 908.8s →  910.2s] SPEAKER_00:
-    "En fazla bağırır çağırırdın."
-
-[ 911.9s →  912.6s] SPEAKER_00:
-    "O kadar yani?"
-
-[ 913.4s →  914.2s] SPEAKER_01:
-    "O kadar."
-
-[ 915.3s →  916.8s] SPEAKER_00:
-    "Bana zarar vermezdin sen."
-
-[ 918.5s →  920.4s] SPEAKER_01:
-    "Bağırıp sinir etmek dışında tabi."
-
-[ 924.3s →  927.1s] SPEAKER_00:
-    "Bak seninle büyük problemlerimiz var."
-
-[ 928.5s →  933.0s] SPEAKER_01:
-    "Ama şunu bil ki ben düşmanıma bile ihanet etmem."
-
-[ 934.2s →  935.3s] SPEAKER_01:
-    "Bil istedim sadece."
-
-[ 937.0s →  938.5s] SPEAKER_00:
-    "Hakkımda yanlış düşünmeni istemiyorum."
-
-[ 941.5s →  942.4s] SPEAKER_00:
-    "Buradan sağ çıkamayabiliriz."
-
-[ 943.9s →  946.3s] SPEAKER_00:
-    "Belki de bunlar son cümlelerimiz."
-
-[ 946.4s →  947.9s] SPEAKER_01:
-    "Son saatlerimiz şu an."
-
-[ 953.3s →  955.0s] SPEAKER_01:
-    "İçimde kalmasın diye."
-
-[ 961.4s →  964.9s] SPEAKER_00:
-    "Eğer böyle olsaydı seni en çok ne yüzerdi?"
-
-[ 966.6s →  968.1s] SPEAKER_00:
-    "İçinde en çok ne yarım kalırdı?"
-
-[ 987.7s →  990.0s] SPEAKER_01:
-    "Verdiğim sözleri tutamamak müserdi."
-
-[1026.4s → 1027.5s] SPEAKER_00:
-    "Bir planım var."
-
-[1045.3s → 1046.7s] SPEAKER_01:
-    "Ne oldu öyle terslik mi var?"
-
-[1047.9s → 1048.9s] SPEAKER_01:
-    "Marcan oradaymış."
-
-[1050.3s → 1052.3s] SPEAKER_00:
-    "Nasıl? Ne işi var onun orada?"
-
-[1052.6s → 1053.1s] SPEAKER_00:
-    "Bilmiyorum."
-
-[1054.2s → 1055.4s] SPEAKER_00:
-    "Ama bütün plan alt üst oldu."
-
-[1059.0s → 1059.9s] SPEAKER_00:
-    "Tahmin etmeliydim."
-
-[1061.9s → 1062.4s] SPEAKER_01:
-    "Anlamalıydım."
-
-[1062.7s → 1064.2s] SPEAKER_00:
-    "Cemal'le çıktıklarında anlamalıydım."
-
-[1064.3s → 1065.3s] SPEAKER_00:
-    "Bu kız niye böyle yapıyor?"
-
-[1065.9s → 1068.2s] SPEAKER_00:
-    "Niye benim her işimi elim olsun ki anlamıyorum ki."
-
-[1068.4s → 1070.7s] SPEAKER_00:
-    "Tam elimize fırsat geçmiş karanlar bitireceğiz."
-
-[1071.8s → 1073.1s] SPEAKER_00:
-    "Ne halt etmeye oraya gidiyor?"
-
-[1075.4s → 1076.5s] SPEAKER_01:
-    "Peki ya Cemal?"
-
-[1077.1s → 1078.1s] SPEAKER_00:
-    "Sizi ölü mür dediler."
-
-[1080.5s → 1081.8s] SPEAKER_00:
-    "Ne yapacağız şimdi?"
-
-[1086.9s → 1088.3s] SPEAKER_01:
-    "Dönüşü yok bu işin."
-
-[1089.8s → 1091.4s] SPEAKER_00:
-    "Yüzdük yüzdük kuyruğuna geldik."
-
-[1093.5s → 1097.2s] SPEAKER_00:
-    "Bir kişinin hatası yüzünden herkesin çıkarını heba edemem."
-
-[1098.4s → 1099.1s] SPEAKER_01:
-    "Ne yani?"
-
-[1100.0s → 1100.9s] SPEAKER_00:
-    "Marcan'ı mı harcayacaksın?"
-
-[1102.5s → 1104.1s] SPEAKER_00:
-    "Harcamadan kurtarabilecek misin?"
-
-[1105.0s → 1105.8s] SPEAKER_00:
-    "Bunu Marcan istedi."
-
-[1106.1s → 1109.0s] SPEAKER_00:
-    "Olmaz. Marcan'dan vazgeçmeyeceğim."
-
-[1109.7s → 1111.9s] SPEAKER_00:
-    "Marcan oraya giderek bizden vazgeçti ama."
-
-[1119.1s → 1120.2s] SPEAKER_01:
-    "Ben halledeceğim."
-
-[1121.3s → 1123.5s] SPEAKER_00:
-    "Benden habersiz sakın bir dillik yapmaya kalkma."
-
-[1131.1s → 1133.1s] SPEAKER_01:
-    "Delili insan yapıyorsun."
-
-[1135.4s → 1138.0s] SPEAKER_00:
-    "Bu alemde duygusallık sonu ölümdür."
-
-[1144.7s → 1145.4s] SPEAKER_00:
-    "Baksana buraya."
-
-[1151.3s → 1153.0s] SPEAKER_01:
-    "Ne var bakar mısın bakar mısın?"
-
-[1153.7s → 1154.5s] SPEAKER_00:
-    "Sahibin nerede?"
-
-[1157.5s → 1159.0s] SPEAKER_00:
-    "Kendi kaçtı seni mi dikti buraya?"
-
-[1161.1s → 1163.4s] SPEAKER_01:
-    "Tasman uzaktan kontrollü galiba."
-
-[1164.9s → 1165.8s] SPEAKER_00:
-    "Ne diyorsun oğlum sen?"
-
-[1166.0s → 1166.9s] SPEAKER_01:
-    "Tasma masma."
-
-[1167.9s → 1170.4s] SPEAKER_01:
-    "Burada tasması olan birisi varsa o da sensin."
-
-[1171.4s → 1174.6s] SPEAKER_00:
-    "Belli ki senin bir ellerin kaşınıyor ama elin yetişmiyor."
-
-[1175.6s → 1176.8s] SPEAKER_00:
-    "İstiyorsan biz yardımcı olalım."
-
-[1201.3s → 1202.6s] SPEAKER_00:
-    "Anladın mı ağır mısın?"
-
-[1204.6s → 1206.0s] SPEAKER_01:
-    "Elin kırılsın."
-
-[1208.6s → 1209.5s] SPEAKER_01:
-    "Rahat dur."
-
-[1209.7s → 1211.1s] SPEAKER_01:
-    "Sesin çok çıkmasın."
-
-[1212.0s → 1214.2s] SPEAKER_00:
-    "Allah'ıma var ya seni dal ederim."
-
-[1215.0s → 1215.6s] SPEAKER_00:
-    "Tamam."
-
-[1216.8s → 1221.8s] SPEAKER_01:
-    "Sen de rahat durun."
-
-[1225.1s → 1225.8s] SPEAKER_01:
-    "Rahat durun."
-
-[1229.3s → 1231.1s] SPEAKER_00:
-    "İyi misin? Canın çok yandı mı?"
-
-[1232.2s → 1235.0s] SPEAKER_01:
-    "İyiyim. Ama işe yaradı."
-
-[1274.6s → 1275.6s] SPEAKER_01:
-    "Ne yapıyorsun sen?"
-
-[1275.9s → 1276.4s] SPEAKER_00:
-    "Delirdin mi?"
-
-[1276.6s → 1279.6s] SPEAKER_01:
-    "Delirdim evet. Siz delirttiniz."
-
-[1280.5s → 1281.2s] SPEAKER_00:
-    "Nerede ateş?"
-
-[1282.1s → 1282.8s] SPEAKER_00:
-    "Ne bileyim nerede?"
-
-[1283.6s → 1286.0s] SPEAKER_00:
-    "Ateş nerede diyorum?"
-
-[1288.8s → 1289.4s] SPEAKER_00:
-    "Bilmiyorum."
-
-[1290.4s → 1292.8s] SPEAKER_00:
-    "Bir sürü düşmanı var almıştır bir tanesi atmıştır bir kenara."
-
-[1294.0s → 1296.7s] SPEAKER_01:
-    "Ateşe dokunursam seni yaşatmam."
-
-[1297.6s → 1300.6s] SPEAKER_00:
-    "Dünyanın öbür ucuna da gitsen seni bulur gebertirim."
-
-[1302.0s → 1305.8s] SPEAKER_00:
-    "Hani bana dedin ya sen ya çok aşıksın ya çok kötü diye."
-
-[1306.4s → 1307.4s] SPEAKER_00:
-    "İkisiyim de."
-
-[1307.9s → 1308.7s] SPEAKER_00:
-    "Anladın mı?"
-
-[1310.4s → 1314.4s] SPEAKER_00:
-    "Eğer aşkıma dokunursan yapabileceklerimi bilmiyorsun."
-
-[1315.1s → 1316.3s] SPEAKER_00:
-    "Bilmiyorum nerede olduğunu."
-
-[1317.3s → 1319.7s] SPEAKER_01:
-    "Bekçisi miyim ben o zibidinin?"
-
-[1320.4s → 1321.8s] SPEAKER_00:
-    "Kim yaptıysa bul onu öldür."
-
-[1323.1s → 1324.7s] SPEAKER_00:
-    "Siz sülalecek delisiniz ha."
-
-[1325.8s → 1326.7s] SPEAKER_00:
-    "Sıyırmışsınız."
-
-[1327.3s → 1328.0s] SPEAKER_01:
-    "Rahatsızlar."
-
-[1333.9s → 1335.3s] SPEAKER_00:
-    "Manyaksın manyak."
-
-[1349.0s → 1349.6s] SPEAKER_01:
-    "Kimsiniz siz?"
-
-[1354.8s → 1356.0s] SPEAKER_00:
-    "Kıpırdarlarsa vurun."
-
-[1357.5s → 1359.8s] SPEAKER_00:
-    "Bu ne saçmalık ya? Ne yapmaya çalışıyorsunuz?"
-
-[1366.0s → 1366.8s] SPEAKER_00:
-    "Yettiniz ama ha."
-
-[1367.6s → 1368.9s] SPEAKER_01:
-    "Ateş kayıp."
-
-[1369.1s → 1372.2s] SPEAKER_00:
-    "Onun kılına zarar gelsin bu evden cesediniz çıkar."
-
-[1378.7s → 1383.2s] SPEAKER_00:
-    "Eğer siz yaptıysanız bunlara bırakmam canlı canlı parçalarım ikinizi de."
-
-[1389.1s → 1391.6s] SPEAKER_01:
-    "Zorluk çıkaran olursa vurun."
-
-[1392.1s → 1393.3s] SPEAKER_00:
-    "Benim de kızım kayıp."
-
-[1394.2s → 1395.7s] SPEAKER_00:
-    "Ben de endişeliyim sizin kadar."
-
-[1396.1s → 1398.1s] SPEAKER_00:
-    "Çok yanlış yapıyorsun kadın çok."
-
-[1401.8s → 1403.3s] SPEAKER_00:
-    "Bugünün yarını da var unutma."
-
-[1403.8s → 1404.4s] SPEAKER_00:
-    "Kes sesini."
-
-[1407.1s → 1410.0s] SPEAKER_00:
-    "Yanlışı da senin gibi soysuzdan öğrenecek değiliz."
-
-[1414.9s → 1418.6s] SPEAKER_00:
-    "Ayrıca sizin için yarın var mı yok mu daha belli değil."
-
-[1419.7s → 1420.8s] SPEAKER_00:
-    "Kıpırdarlarsa vurun."
-
-[1438.1s → 1439.0s] SPEAKER_00:
-    "Beni iyi dinle."
-
-[1439.4s → 1442.8s] SPEAKER_00:
-    "Beni piçözdükten sonra sen kapının arkasına saklanacaksın."
-
-[1442.8s → 1446.8s] SPEAKER_00:
-    "Adamlar içeri girdikten sonra da tüm gücüne koşacaksın."
-
-[1447.3s → 1448.0s] SPEAKER_01:
-    "Tamam mı?"
-
-[1448.3s → 1449.9s] SPEAKER_00:
-    "Seni burada onlarla tek bırakamam."
-
-[1450.8s → 1452.3s] SPEAKER_00:
-    "Başımın içerisine bakabilirim gördün."
-
-[1452.7s → 1454.0s] SPEAKER_01:
-    "İtiraz yok."
-
-[1454.4s → 1455.3s] SPEAKER_00:
-    "Dediğimi yapacaksın."
-
-[1458.6s → 1459.8s] SPEAKER_01:
-    "Tek bir şansınız var."
-
-[1460.1s → 1461.1s] SPEAKER_00:
-    "Doğru kullanmalıyız."
-
-[1462.2s → 1463.4s] SPEAKER_00:
-    "Dediğimi yap."
-
-[1503.3s → 1504.2s] SPEAKER_00:
-    "Baksana buraya."
-
-[1507.6s → 1508.1s] SPEAKER_00:
-    "Ne yapıyorsun?"
-
-[1509.8s → 1511.8s] SPEAKER_01:
-    "Sorun yok ben de."
-
-[1513.0s → 1513.7s] SPEAKER_01:
-    "Sabır."
-
-[1515.7s → 1517.5s] SPEAKER_00:
-    "Ne oluyor oğlum burada?"
-
-[1518.5s → 1519.5s] SPEAKER_00:
-    "Kim çözdü sizi?"
-
-[1523.6s → 1560.1s] SPEAKER_01:
-    "Sakin. Hadi gidin."
-
-[1581.6s → 1582.1s] SPEAKER_00:
-    "Nereye?"
-
-[1612.3s → 1614.5s] SPEAKER_00:
-    "Vay be kiminle evlenmişim ben böyle."
-
-[1620.8s → 1621.8s] SPEAKER_00:
-    "Var bizde de bir şeyler."
-
-[1625.5s → 1626.2s] SPEAKER_01:
-    "Hadi gidin."
-
-[1674.4s → 1676.5s] SPEAKER_01:
-    "Bu durumda bile laf sokuyorsun inanmıyorum sana."
-
-[1719.6s → 1720.9s] SPEAKER_01:
-    "Hadi gitmemiz lazım."
-
-[1725.9s → 1726.7s] SPEAKER_00:
-    "Kaçışınız yok."
-
-[1732.7s → 1734.4s] SPEAKER_00:
-    "Buradan bakınca öyle gözükmüyor."
-
-[1838.8s → 1840.1s] SPEAKER_00:
-    "Senin vaden dolmuş."
-
-[1840.9s → 1842.8s] SPEAKER_00:
-    "Diğer taraftakilere selamını söyle."
-
-[1885.3s → 1887.2s] SPEAKER_00:
-    "Olursun selamını kendin söylersin."
-
-[1889.6s → 1890.7s] SPEAKER_01:
-    "İyi misin?"
-
-[1891.9s → 1892.6s] SPEAKER_00:
-    "Bir şeyim yok mu?"
-
-[1893.0s → 1894.5s] SPEAKER_01:
-    "İyiyim bir şeyim yok."
-
-[1895.2s → 1895.6s] SPEAKER_00:
+[ 173.35s →  184.43s] SPEAKER_01:
     "Sen iyi misin?"
 
-[1896.9s → 1900.2s] SPEAKER_01:
-    "İyiyim biraz anlamışım sadece."
+[ 184.71s →  185.92s] SPEAKER_01:
+    "Bir şeyin var mı?"
 
-[1900.6s → 1901.7s] SPEAKER_00:
-    "Emin ol fark edilmiyor."
-
-[1902.6s → 1904.4s] SPEAKER_00:
-    "Hadi şunlar kendilerine gelmeden gidelim."
-
-[1948.6s → 1949.8s] SPEAKER_00:
-    "Sen arkadan dolan"
-
-[1950.5s → 1952.3s] SPEAKER_01:
-    "Çiz benimle gelin."
-
-[1952.7s → 1955.1s] SPEAKER_00:
-    "Onları yakalamaktan dönmek yok."
-
-[2017.2s → 2018.3s] SPEAKER_01:
-    "Elveda çiçeğim."
-
-[2020.8s → 2021.7s] SPEAKER_00:
-    "Sen iyi ol."
-
-[2022.9s → 2023.7s] SPEAKER_00:
-    "Tek isteğim bu."
-
-[2060.7s → 2061.8s] SPEAKER_01:
-    "Hayırdır?"
-
-[2063.6s → 2065.9s] SPEAKER_01:
-    "Ben memleketime gideceğim."
-
-[2067.0s → 2069.2s] SPEAKER_00:
-    "Hatta birkaç gün önce almıştım biletimi."
-
-[2070.0s → 2071.1s] SPEAKER_01:
-    "Bakın isterseniz."
-
-[2074.4s → 2075.0s] SPEAKER_01:
-    "Bakın."
-
-[2075.2s → 2076.4s] SPEAKER_00:
-    "Bilet bilet bilmem ben."
-
-[2076.9s → 2078.2s] SPEAKER_00:
-    "Muzeyen hanım kuş uçmayacak dedi."
-
-[2078.8s → 2080.0s] SPEAKER_00:
-    "Yapmayın Allah aşkına."
-
-[2080.1s → 2081.3s] SPEAKER_00:
-    "Uçağımı kaçıracağım."
-
-[2081.8s → 2083.8s] SPEAKER_00:
-    "Hem benimle ne ilgisi var Ateş Bey'in?"
-
-[2084.3s → 2085.0s] SPEAKER_00:
-    "Emir böyle."
-
-[2118.0s → 2119.9s] SPEAKER_00:
-    "Ateş yok Cemal yok."
-
-[2120.1s → 2120.6s] SPEAKER_00:
-    "Nerede bunlar?"
-
-[2122.1s → 2122.8s] SPEAKER_01:
-    "Haydar!"
-
-[2122.8s → 2124.3s] SPEAKER_01:
-    "Haydar!"
-
-[2125.5s → 2127.1s] SPEAKER_01:
-    "Dua et ateş dönsün."
-
-[2127.3s → 2129.7s] SPEAKER_00:
-    "Yoksa seni inim inim inleterek öldürürüm."
-
-[2130.0s → 2131.8s] SPEAKER_00:
-    "Ateşi mumla ararsın."
-
-[2132.2s → 2133.3s] SPEAKER_01:
-    "Hala bir haber yok."
-
-[2137.0s → 2138.6s] SPEAKER_00:
-    "Öleceğim meraktan."
-
-[2140.0s → 2141.5s] SPEAKER_01:
-    "Gelecekler kızım merak etme."
-
-[2143.7s → 2145.5s] SPEAKER_00:
-    "İki aslanım da bu kapıdan girecek."
-
-[2145.5s → 2146.3s] SPEAKER_00:
-    "Başka yolu yok."
-
-[2146.7s → 2147.7s] SPEAKER_00:
-    "Başka yolu yok!"
-
-[2171.1s → 2171.3s] SPEAKER_00:
+[ 186.57s →  187.13s] SPEAKER_00:
     "İyiyim."
 
-[2172.0s → 2178.3s] SPEAKER_01:
-    "Çok yoruldum."
+[ 187.25s →  192.18s] SPEAKER_01:
+    "Sen ne yaptın az önce?"
 
-[2180.3s → 2181.5s] SPEAKER_01:
-    "Biraz daha dayan."
+[ 195.22s →  195.86s] SPEAKER_00:
+    "Ne yapayım?"
 
-[2182.7s → 2182.8s] SPEAKER_01:
-    "Hadi."
+[ 195.88s →  196.88s] SPEAKER_00:
+    "Uyardım ama dinlemedi."
 
-[2182.8s → 2184.1s] SPEAKER_01:
-    "Vakit kaybetmeyelim gel."
+[ 197.10s →  208.58s] SPEAKER_01:
+    "Tıkı bu."
 
-[2192.3s → 2193.4s] SPEAKER_00:
-    "Yürü buraya!"
+[ 210.22s →  211.86s] SPEAKER_00:
+    "Adamları dövdün ipimi çözemiyorsun."
 
-[2198.3s → 2199.9s] SPEAKER_01:
-    "Geleceğim yerini çabuk!"
+[ 212.89s →  214.92s] SPEAKER_01:
+    "Hem sen nasıl geldin buraya?"
 
-[2203.6s → 2204.8s] SPEAKER_01:
-    "Allah kahretsin!"
+[ 215.14s →  215.62s] SPEAKER_00:
+    "Cemal nerede?"
 
-[2205.7s → 2206.6s] SPEAKER_01:
-    "İkiye ayrılın."
+[ 215.90s →  217.44s] SPEAKER_01:
+    "Seni aramaya gitmişti."
 
-[2206.9s → 2207.8s] SPEAKER_00:
-    "Bulun onları bana."
+[ 217.99s →  220.53s] SPEAKER_00:
+    "Bana arabada bekle dedi ama ben beklemedim."
 
-[2214.9s → 2216.8s] SPEAKER_01:
-    "Kızım ona biraz daha un koyun."
+[ 222.07s →  222.67s] SPEAKER_00:
+    "Şaşırdık mı?"
 
-[2216.9s → 2217.7s] SPEAKER_01:
-    "Akmış hamur."
+[ 222.81s →  223.47s] SPEAKER_00:
+    "Tabii ki hayır."
 
-[2218.7s → 2220.0s] SPEAKER_01:
-    "Tamam annem."
+[ 224.54s →  225.56s] SPEAKER_00:
+    "Telefonlara Cemal'i."
 
-[2225.1s → 2227.1s] SPEAKER_00:
-    "İnşallah sağ salim evine döner."
+[ 226.10s →  226.96s] SPEAKER_00:
+    "Yanımda değil ki."
 
-[2229.1s → 2229.8s] SPEAKER_01:
-    "İnşallah."
+[ 227.08s →  230.80s] SPEAKER_00:
+    "Senden konum gelince evden çıktığım gibi arabaya bindim."
 
-[2231.1s → 2232.6s] SPEAKER_00:
-    "Kötü bir şey olmasın da."
+[ 230.94s →  232.29s] SPEAKER_01:
+    "Ya sabır."
 
-[2232.9s → 2234.7s] SPEAKER_00:
-    "Tövbe de kız ağzından yel alsın."
+[ 233.62s →  234.18s] SPEAKER_00:
+    "Söylenmesene."
 
-[2235.0s → 2236.7s] SPEAKER_01:
-    "Tövbe de."
+[ 234.28s →  235.68s] SPEAKER_01:
+    "Seni merak ediyordum."
 
-[2236.8s → 2241.7s] SPEAKER_00:
-    "Ateş Bey'e bir şey olursa var ya o Müzeyyen hepimizi kurşuna dizer."
+[ 235.76s →  237.40s] SPEAKER_00:
+    "Yani o an telefonu düşünecek hale değilim."
 
-[2242.2s → 2243.6s] SPEAKER_01:
-    "Yetmez konağa yakar."
+[ 237.40s →  237.98s] SPEAKER_00:
+    "Kusura bakma."
 
-[2243.6s → 2244.7s] SPEAKER_00:
-    "Benden söylemesi."
+[ 238.32s →  238.88s] SPEAKER_00:
+    "Söylenmiyorum."
 
-[2245.4s → 2246.4s] SPEAKER_00:
-    "Orası öyle tabii."
+[ 239.72s →  240.84s] SPEAKER_00:
+    "Gelecekler birazdan hadi."
 
-[2250.8s → 2252.1s] SPEAKER_00:
-    "Akşama çok hazırlık yapmayın."
+[ 240.94s →  242.05s] SPEAKER_01:
+    "Biraz hızlı ol."
 
-[2252.6s → 2254.1s] SPEAKER_00:
-    "Ateş Bey'le Cemal Bey yoklar."
+[ 242.25s →  243.90s] SPEAKER_00:
+    "Ne yapayım çözülmüyor."
 
-[2254.7s → 2256.2s] SPEAKER_00:
-    "Evde kimsenin iştahı da yok zaten."
+[ 244.12s →  250.23s] SPEAKER_01:
+    "O zaman bir an önce uzaklaş buradan."
 
-[2256.7s → 2257.8s] SPEAKER_00:
-    "Mercan Hanım da yok."
+[ 251.88s →  252.80s] SPEAKER_01:
+    "Asla gitmem."
 
-[2259.1s → 2260.4s] SPEAKER_00:
-    "Evet o da yok detay olarak."
+[ 257.56s →  258.42s] SPEAKER_00:
+    "Sana git dedim."
 
-[2266.8s → 2267.9s] SPEAKER_01:
-    "Ya anacığım ya."
+[ 258.88s →  259.90s] SPEAKER_00:
+    "Gelecekler beni dinle."
 
-[2288.5s → 2289.3s] SPEAKER_01:
-    "Sağ olasın."
+[ 260.18s →  261.64s] SPEAKER_00:
+    "Gitmiyorum dedim ben de sana."
 
-[2297.9s → 2299.6s] SPEAKER_00:
-    "Oğlum bir süpürge falan bulaydı bak."
+[ 262.40s →  263.22s] SPEAKER_00:
+    "Sana git dedim."
 
-[2301.0s → 2302.3s] SPEAKER_00:
-    "Vardağı kırdı."
+[ 265.93s →  267.49s] SPEAKER_00:
+    "Ellerim bağlıyken seni koruyamam."
 
-[2302.3s → 2304.3s] SPEAKER_00:
-    "Yerden aldı sadece kaşığı verdi."
+[ 278.36s →  279.58s] SPEAKER_00:
+    "Gitmem dedim ben de sana."
 
-[2304.4s → 2305.1s] SPEAKER_01:
-    "Farkında mısın?"
+[ 279.76s →  281.62s] SPEAKER_01:
+    "Git dedim sana."
 
-[2306.2s → 2307.4s] SPEAKER_01:
-    "Yapacağı iş o kadar."
+[ 281.68s →  282.40s] SPEAKER_00:
+    "Gelecekler şimdi."
 
-[2332.2s → 2333.4s] SPEAKER_00:
-    "Neredesin Mercan ya?"
+[ 282.66s →  319.51s] SPEAKER_01:
+    "Allah'ım şükürler olsun."
 
-[2336.7s → 2338.0s] SPEAKER_01:
-    "Kahve getirdim."
+[ 319.53s →  395.72s] SPEAKER_01:
+    "Ne yapalım abi?"
 
-[2338.7s → 2341.4s] SPEAKER_01:
-    "Burak çalışacak mutlu değilim şu anda."
+[ 396.64s →  397.32s] SPEAKER_00:
+    "Bırakın burada."
 
-[2343.0s → 2344.2s] SPEAKER_00:
-    "Çalışmaya gelmedim."
+[ 397.50s →  398.86s] SPEAKER_01:
+    "Kuru da kuşayım olsun."
 
-[2344.7s → 2346.4s] SPEAKER_01:
-    "Konuşmaya ihtiyacım var belli ki."
+[ 409.48s →  410.12s] SPEAKER_00:
+    "Bırakın onu."
 
-[2347.2s → 2348.3s] SPEAKER_00:
-    "Mercan'a ulaşamıyorum."
+[ 410.60s →  411.28s] SPEAKER_00:
+    "Bırakın gitsin."
 
-[2348.8s → 2350.1s] SPEAKER_00:
-    "Ve bu hiç normal değil."
+[ 411.84s →  412.72s] SPEAKER_00:
+    "Bırak kolunu."
 
-[2350.8s → 2351.8s] SPEAKER_00:
-    "Ya ona bir şey olursa?"
+[ 413.04s →  413.74s] SPEAKER_00:
+    "Emrin olur."
 
-[2351.9s → 2352.6s] SPEAKER_00:
-    "Olmayacak."
+[ 413.86s →  414.02s] SPEAKER_00:
+    "Kıral."
 
-[2354.7s → 2359.5s] SPEAKER_00:
-    "Bir insan hem nasıl bu kadar kırılgan hem de bu kadar güçlü durabilir anlayamadım ben."
+[ 414.86s →  415.54s] SPEAKER_01:
+    "Bırak beni."
 
-[2359.5s → 2361.4s] SPEAKER_00:
-    "Onu tanısan hep şok olursun."
+[ 416.13s →  417.07s] SPEAKER_00:
+    "Bırak dedim sana."
 
-[2361.5s → 2363.1s] SPEAKER_01:
-    "Hem de onu çok seversin."
+[ 417.37s →  418.03s] SPEAKER_00:
+    "Bırakın lan onu."
 
-[2364.5s → 2365.9s] SPEAKER_00:
-    "Herkes iyi görünür."
+[ 427.08s →  428.30s] SPEAKER_01:
+    "Bırak beni."
 
-[2366.3s → 2367.7s] SPEAKER_00:
-    "İyi görünmeye çalışır."
+[ 428.60s →  429.20s] SPEAKER_01:
+    "Ne yaptın?"
 
-[2368.1s → 2373.9s] SPEAKER_00:
-    "Ama Mercan'la girdiğimiz her sınavda görünür de değil gerçekten iyi bir insan olduğunu ispatladı."
+[ 431.04s →  431.68s] SPEAKER_00:
+    "Bırakın dedim."
 
-[2374.9s → 2377.0s] SPEAKER_00:
-    "Bir ortamda biri kendini feda mı edecek?"
+[ 432.24s →  433.12s] SPEAKER_00:
+    "Duydunuz mu lan?"
 
-[2377.6s → 2378.3s] SPEAKER_01:
-    "Hiç."
+[ 433.34s →  434.04s] SPEAKER_01:
+    "Bırakın diyor."
 
-[2378.5s → 2380.7s] SPEAKER_00:
-    "Hiç başka bir yere bakma Mercan'dır o."
+[ 434.30s →  438.09s] SPEAKER_01:
+    "Ne yapalım?"
 
-[2381.1s → 2383.9s] SPEAKER_00:
-    "Etrafındaki kimsenin zarar görmesine izin vermez."
+[ 438.31s →  439.01s] SPEAKER_00:
+    "Bırakalım mı?"
 
-[2385.9s → 2387.5s] SPEAKER_01:
-    "O parçalansın."
+[ 439.50s →  440.58s] SPEAKER_00:
+    "Sizin işiniz bende."
 
-[2388.2s → 2389.7s] SPEAKER_00:
-    "Sen yeter ki sağlam kal."
+[ 441.08s →  442.16s] SPEAKER_00:
+    "Bırakan kıza gitsin."
 
-[2390.0s → 2391.9s] SPEAKER_01:
-    "Ne güzel anlattın."
+[ 445.91s →  446.75s] SPEAKER_01:
+    "Şansına küs."
 
-[2392.7s → 2394.2s] SPEAKER_00:
-    "Az bile anlattım biliyor musun?"
+[ 446.89s →  448.88s] SPEAKER_00:
+    "Bugün kötü günündesin."
 
-[2394.9s → 2396.6s] SPEAKER_00:
-    "Çünkü öyle harika bir insan."
+[ 449.06s →  450.28s] SPEAKER_00:
+    "Hem de en kötü günündesin."
 
-[2397.1s → 2398.4s] SPEAKER_00:
-    "Öyle anlatılamıyor işte."
+[ 454.27s →  455.29s] SPEAKER_00:
+    "Ruzda çok güzelmiş ha."
 
-[2399.6s → 2401.9s] SPEAKER_01:
-    "Mercan Hanım'la çok uzun zamandır meğer arkadaşsınız."
+[ 455.74s →  456.52s] SPEAKER_00:
+    "Yazık olacak."
 
-[2402.8s → 2403.5s] SPEAKER_01:
-    "Evet çok."
+[ 456.52s →  456.54s] SPEAKER_00:
+    "Yazık olacak."
 
-[2406.1s → 2408.1s] SPEAKER_00:
-    "Mercan Hanım sağ salim geri dönecek."
+[ 457.45s →  459.56s] SPEAKER_01:
+    "Tamam lan."
 
-[2408.6s → 2410.9s] SPEAKER_00:
-    "Böyle bir insan kolay kolay yıkılmaz merak etme."
+[ 462.81s →  464.49s] SPEAKER_00:
+    "Bırak lan şunu."
 
-[2412.3s → 2413.4s] SPEAKER_01:
-    "Haklısın Burak."
+[ 465.23s →  466.30s] SPEAKER_01:
+    "Bırak dedim."
 
-[2414.5s → 2415.6s] SPEAKER_01:
-    "Konuşmak çok iyi geldi."
+[ 467.25s →  468.27s] SPEAKER_00:
+    "Dokunma lan ona."
 
-[2416.3s → 2417.0s] SPEAKER_01:
-    "Teşekkür ederim."
+[ 468.49s →  470.23s] SPEAKER_00:
+    "Hepinizi pişman edeceğim lan."
 
-[2469.0s → 2470.0s] SPEAKER_00:
-    "Neredesiniz ulan?"
+[ 470.73s →  471.95s] SPEAKER_00:
+    "Ödeteceğim lan hepinizi."
 
-[2471.5s → 2490.0s] SPEAKER_01:
-    "O müthişin adına çok ihtiyacımız var şu an."
+[ 473.93s →  474.77s] SPEAKER_00:
+    "Görüyor musun?"
 
-[2559.3s → 2561.7s] SPEAKER_01:
-    "Biri vardı orada."
+[ 475.51s →  477.75s] SPEAKER_01:
+    "Seni üşüdük diye kocan sinirlendi."
 
-[2576.4s → 2577.6s] SPEAKER_01:
-    "Sen iyisin değil mi?"
+[ 485.08s →  490.99s] SPEAKER_01:
+    "Bir adamı tutamadınız lan."
 
-[2578.5s → 2579.3s] SPEAKER_01:
+[ 503.55s →  504.55s] SPEAKER_00:
+    "Rahat duruyor musun?"
+
+[ 505.19s →  506.03s] SPEAKER_00:
+    "Durmuyor musun?"
+
+[ 508.32s →  508.72s] SPEAKER_01:
+    "Tamam."
+
+[ 509.48s →  511.60s] SPEAKER_00:
+    "Bindir o silahı yoksa seni pişman ederim."
+
+[ 526.25s →  526.65s] SPEAKER_00:
+    "Haydi."
+
+[ 526.89s →  531.26s] SPEAKER_01:
+    "Sıkı bağlayın."
+
+[ 531.68s →  532.62s] SPEAKER_00:
+    "Çözülmesin bir daha."
+
+[ 544.59s →  545.47s] SPEAKER_00:
+    "İkisini hallettik abi."
+
+[ 546.31s →  547.17s] SPEAKER_01:
+    "Haydi gidelim."
+
+[ 560.34s →  561.14s] SPEAKER_00:
+    "İyisin değil mi?"
+
+[ 561.99s →  562.49s] SPEAKER_00:
     "İyiyim."
 
-[2590.8s → 2591.2s] SPEAKER_00:
-    "Görmüşsün."
+[ 562.59s →  564.25s] SPEAKER_01:
+    "Sen beni düşünme."
 
-[2604.7s → 2606.7s] SPEAKER_00:
-    "Niye bu kadar endişeleniyorsun ki benim için?"
+[ 567.21s →  568.23s] SPEAKER_00:
+    "Bunun için çok geç."
 
-[2618.1s → 2622.9s] SPEAKER_00:
-    "Bizim zamanımızda gençler sevdiklerine kocalarına seni seviyorum demeye utanırlardı."
+[ 568.51s →  571.45s] SPEAKER_01:
+    "Buraya hiç gelmemen lazımdı."
 
-[2623.8s → 2627.0s] SPEAKER_00:
-    "Böyle çarşıya gidip bir hediye falan alma adeti de yoktu."
+[ 572.03s →  573.09s] SPEAKER_00:
+    "Niye geldin ki zaten?"
 
-[2627.9s → 2635.2s] SPEAKER_00:
-    "İşte biz de böyle kendi emeğimizle kimi zaman sevdamızı ilmek ilmek kimi zaman da böyle iğne iğne işler dokun."
+[ 574.84s →  575.92s] SPEAKER_00:
+    "Seni merak ettim."
 
-[2659.1s → 2660.4s] SPEAKER_01:
-    "Ne yaparsın kızım burada?"
+[ 575.98s →  578.18s] SPEAKER_00:
+    "Çok belliydi başına bir şey geldi."
 
-[2660.4s → 2661.9s] SPEAKER_01:
-    "Hiç öyle."
+[ 578.28s →  578.84s] SPEAKER_00:
+    "Hissettim."
 
-[2662.2s → 2662.8s] SPEAKER_00:
-    "Oturuyorum."
+[ 583.12s →  583.68s] SPEAKER_00:
+    "Dimiş."
 
-[2666.9s → 2670.0s] SPEAKER_00:
-    "Nasıl yoruldum nasıl yoruldum."
+[ 586.15s →  587.47s] SPEAKER_00:
+    "Konakta öylece duramazdım."
 
-[2670.9s → 2672.4s] SPEAKER_00:
-    "Hiç bir şey de etmedim."
+[ 588.47s →  589.81s] SPEAKER_00:
+    "Bazen durman gerek işte."
 
-[2673.6s → 2676.0s] SPEAKER_00:
-    "Etlerim böyle lime lime dökülüyor sanki."
+[ 594.59s →  596.25s] SPEAKER_01:
+    "Yardım etmek istemiştim sadece."
 
-[2677.0s → 2679.2s] SPEAKER_00:
-    "İnsanın huzuru olmadı mı işte böyle oluyor kızım."
+[ 596.73s →  597.79s] SPEAKER_00:
+    "Ya sana bir şey olsaydı?"
 
-[2680.2s → 2681.9s] SPEAKER_00:
-    "Evde huzurumuz yok."
+[ 597.91s →  604.07s] SPEAKER_01:
+    "Çok yardımcı oldun gerçekten."
 
-[2682.2s → 2684.5s] SPEAKER_00:
-    "Elimizi kolumuzu kaldıracak halimiz de yok."
+[ 604.37s →  604.93s] SPEAKER_01:
+    "Çok sağ ol."
 
-[2685.3s → 2687.6s] SPEAKER_00:
-    "İşte böyle insanın huzuru olmadı mıydı?"
+[ 605.84s →  607.68s] SPEAKER_00:
+    "Ellerimi çözseydin şimdi kaçmıştık."
 
-[2687.8s → 2690.1s] SPEAKER_00:
-    "Gece yattığın yatak kuşluyu da olsa."
+[ 608.59s →  610.17s] SPEAKER_01:
+    "Ben aslında çözmüştüm."
 
-[2690.1s → 2692.5s] SPEAKER_01:
-    "Sanki sivili sedura yapmış gibi olur."
+[ 610.74s →  611.76s] SPEAKER_01:
+    "Çok yavaşsın ama."
 
-[2694.6s → 2698.2s] SPEAKER_00:
-    "Öyle de Mercan Hanım'a ne diyorsun anne?"
+[ 612.48s →  613.80s] SPEAKER_00:
+    "Ne yapayım çok sıkıydı."
 
-[2699.6s → 2701.4s] SPEAKER_00:
-    "Sevemeden zorla evlendi."
+[ 613.86s →  617.22s] SPEAKER_01:
+    "Bütün suç bende yani."
 
-[2701.6s → 2704.1s] SPEAKER_00:
-    "Karı koca gibi değil de düşman gibi yaşıyorlardı."
+[ 617.30s →  617.78s] SPEAKER_00:
+    "Öyle mi?"
 
-[2705.4s → 2708.3s] SPEAKER_00:
-    "Ama yine de ateş benim peşimden kendini tehlikeye attı."
+[ 619.71s →  620.45s] SPEAKER_01:
+    "Tabii ki değil."
 
-[2709.6s → 2711.0s] SPEAKER_00:
-    "Neresinden baksana acayip."
+[ 620.59s →  626.82s] SPEAKER_01:
+    "Bir de seni düşünmek zorundayım şimdi."
 
-[2712.4s → 2716.0s] SPEAKER_00:
-    "O acayip dediğimiz şey hayatın takentisi işte."
+[ 629.44s →  631.72s] SPEAKER_00:
+    "İnsanların birbirini düşünmesine ne var bu kadar kötü?"
 
-[2717.6s → 2720.5s] SPEAKER_00:
-    "Sen illa aşkı öyle ilk görüşte falan olayım mı zannediyorsun?"
+[ 631.88s →  634.88s] SPEAKER_01:
+    "Ama haklısın."
 
-[2720.5s → 2724.2s] SPEAKER_01:
-    "Ama türlü tesis aşk vardır da."
+[ 636.06s →  637.16s] SPEAKER_00:
+    "Düşünülecek insan var."
 
-[2724.4s → 2729.3s] SPEAKER_00:
-    "Kimisi böyle işte kavga gürültüğüyle başlar da yavaş yavaş tavını bulur."
+[ 637.80s →  639.64s] SPEAKER_00:
+    "Düşündüğüne pişman olacağın insan var."
 
-[2729.7s → 2731.5s] SPEAKER_01:
-    "İşte esas o kıymetlidir."
+[ 639.92s →  644.83s] SPEAKER_01:
+    "Sana bir şey olacak diye korkuyorum."
 
-[2733.1s → 2735.5s] SPEAKER_00:
-    "Çünkü onun için de birbirini tanımak vardır."
+[ 645.40s →  645.98s] SPEAKER_00:
+    "Anlasana."
 
-[2735.9s → 2738.2s] SPEAKER_00:
-    "O bir binayı beraber dikmek vardır."
+[ 647.79s →  648.69s] SPEAKER_00:
+    "Kabahat bende."
 
-[2738.6s → 2741.7s] SPEAKER_00:
-    "Eğrisini doğrusunu beraber düzeltmek vardır da."
+[ 648.81s →  652.96s] SPEAKER_01:
+    "Keşke gelmeseydim."
 
-[2741.9s → 2743.2s] SPEAKER_01:
-    "Emek vardır emek."
+[ 653.60s →  654.66s] SPEAKER_00:
+    "Bunlar da senin..."
 
-[2743.7s → 2746.9s] SPEAKER_00:
-    "İşte o emek iki insanı birbirine bağlar."
+[ 654.66s →  665.32s] SPEAKER_01:
+    "Tek umudumuz Cemaat şu an."
 
-[2747.3s → 2748.4s] SPEAKER_01:
-    "En derinden bağlar."
+[ 668.34s →  669.30s] SPEAKER_00:
+    "İnşallah iyidir."
 
-[2749.0s → 2752.7s] SPEAKER_00:
-    "O derinden bağlı kolay kolay kopmuyor."
+[ 670.80s →  671.84s] SPEAKER_00:
+    "İyidir o iyidir."
 
-[2753.2s → 2756.7s] SPEAKER_00:
-    "İşte insanın içine kaybetme korkusu düştü müydü bir kere?"
+[ 671.92s →  673.34s] SPEAKER_01:
+    "Bir şey olmaz ona."
 
-[2764.8s → 2768.7s] SPEAKER_00:
-    "Nazlı yaz edip de kendinden bile sakladı bu duyguları böyle dışarı çıkar."
+[ 701.61s →  703.43s] SPEAKER_00:
+    "Az önce hareketlendi buralar patron."
 
-[2769.2s → 2770.3s] SPEAKER_00:
-    "Yağlar durur ha."
+[ 703.75s →  705.40s] SPEAKER_00:
+    "Tam adamı indirecektik."
 
-[2771.3s → 2777.0s] SPEAKER_00:
-    "İnsan yanındayken evini uzattığında yakınındayken o zaman özensiz davranır."
+[ 705.76s →  706.62s] SPEAKER_00:
+    "Misafirler geldi."
 
-[2777.2s → 2778.5s] SPEAKER_00:
-    "Kıymetini bilemez."
+[ 707.16s →  707.96s] SPEAKER_01:
+    "Ne misafiri?"
 
-[2778.9s → 2780.9s] SPEAKER_00:
-    "Ha burada dur, ha yanımdadır der."
+[ 708.16s →  711.06s] SPEAKER_00:
+    "Canla yanına baskın yaptın."
 
-[2781.4s → 2784.8s] SPEAKER_00:
-    "Ama bugün ha buraya olan yarın ha oraya olur."
+[ 712.12s →  712.36s] SPEAKER_01:
+    "Bir tık."
 
-[2784.8s → 2790.1s] SPEAKER_00:
-    "Kaybetme korkusu bir defa insanın kalbine düştü müydü?"
+[ 712.60s →  714.04s] SPEAKER_01:
+    "Mercan'ı da yakalayıp bağladık."
 
-[2790.4s → 2796.8s] SPEAKER_00:
-    "Aşk da bu bizim Karadeniz'in dalgaları gibi gelir insanı bir al aşağıya ediverir ha."
+[ 714.45s →  715.47s] SPEAKER_00:
+    "Ne diyorsun lan sen?"
 
-[2800.1s → 2801.0s] SPEAKER_01:
-    "Bak güzel kızım."
+[ 716.53s →  717.73s] SPEAKER_00:
+    "Mercan'ın ne işi var orada?"
 
-[2804.9s → 2807.9s] SPEAKER_00:
-    "Her gün yarısı mutluluksa yarısı da acıdır."
+[ 717.81s →  718.19s] SPEAKER_00:
+    "Nasıl gelir?"
 
-[2808.6s → 2811.8s] SPEAKER_01:
-    "Yarısı huzursa yarısı huzursuzluktur."
+[ 719.07s →  720.89s] SPEAKER_00:
+    "Valla nasılını bilmem de durum bu."
 
-[2813.5s → 2818.2s] SPEAKER_01:
-    "Ama her ne olursa olsun insan aşkına sahip olmalı."
+[ 721.45s →  722.77s] SPEAKER_00:
+    "Şimdilik bir sıkıntı yok ama."
 
-[2818.6s → 2820.5s] SPEAKER_00:
-    "E doğru kişiyi bulursa tabi."
+[ 722.85s →  724.31s] SPEAKER_00:
+    "Her şey bizim kontrolümüzde."
 
-[2823.5s → 2825.6s] SPEAKER_00:
-    "Ama ben biliyorum."
+[ 726.45s →  727.53s] SPEAKER_00:
+    "Mercan'ı indirme bir şey yok."
 
-[2825.8s → 2829.6s] SPEAKER_00:
-    "Biliyorum benim kızım en iyisi onu en doğrusunu yapacak."
+[ 728.30s →  729.02s] SPEAKER_00:
+    "Yok patron."
 
-[2830.8s → 2834.0s] SPEAKER_00:
-    "Ben onun yüreğini dantel dantel işledim da."
+[ 729.30s →  729.84s] SPEAKER_00:
+    "İyi kız."
 
-[2837.1s → 2838.5s] SPEAKER_01:
-    "Oy benim çiçek kızım."
+[ 730.50s →  731.72s] SPEAKER_00:
+    "Deli gücü var maşallah."
 
-[2839.0s → 2840.5s] SPEAKER_00:
-    "Oy benim güzel kızım."
+[ 733.05s →  734.11s] SPEAKER_00:
+    "Bağladık öyle oturuyor."
 
-[2853.2s → 2855.4s] SPEAKER_00:
-    "Neyse ki kurşun sıyırıp geçmiş kolunu."
+[ 735.16s →  736.14s] SPEAKER_01:
+    "Ateşi ne yapayım?"
 
-[2870.7s → 2871.5s] SPEAKER_00:
-    "Nasıl hissediyorsun?"
+[ 737.24s →  738.94s] SPEAKER_01:
+    "Keseyim mi biletini tahtalı köye?"
 
-[2874.8s → 2875.5s] SPEAKER_00:
+[ 740.49s →  743.47s] SPEAKER_00:
+    "Lan adamla ilgili her şeyle problem çıkartıyorsun Mercan."
+
+[ 746.08s →  747.40s] SPEAKER_00:
+    "Şimdilik benden haber bekleyin."
+
+[ 747.98s →  748.64s] SPEAKER_01:
+    "Bana bak."
+
+[ 749.32s →  752.08s] SPEAKER_00:
+    "Mercan'ın kılına zarar gelirse hepinizin işini keserim ha."
+
+[ 752.40s →  753.10s] SPEAKER_01:
+    "Ona göre."
+
+[ 757.75s →  758.09s] SPEAKER_00:
+    "Mercan."
+
+[ 758.19s →  762.12s] SPEAKER_01:
+    "Bütün planı suya düşürdün Mercan."
+
+[ 767.07s →  767.99s] SPEAKER_00:
+    "Kurtulacağız buradan."
+
+[ 768.95s →  769.83s] SPEAKER_01:
+    "Korkmuyorsun değil mi?"
+
+[ 771.07s →  772.71s] SPEAKER_00:
+    "Korkmuyorum dersem yalan olur."
+
+[ 773.56s →  776.14s] SPEAKER_01:
+    "Ama sen varsın."
+
+[ 776.16s →  778.08s] SPEAKER_01:
+    "O yüzden içim rahat."
+
+[ 778.36s →  784.17s] SPEAKER_01:
+    "Ben hayattayken kimse senin kılına bile zarar veremez."
+
+[ 788.83s →  789.47s] SPEAKER_01:
+    "Biliyorum."
+
+[ 789.63s →  805.79s] SPEAKER_01:
+    "Hiç gelmemen lazımdı."
+
+[ 806.56s →  807.92s] SPEAKER_00:
+    "Cemal seni getirmezdi de."
+
+[ 808.18s →  809.30s] SPEAKER_00:
+    "Laf dinlemedin kesin."
+
+[ 809.90s →  811.16s] SPEAKER_00:
+    "Laf dinle bir dahakine."
+
+[ 811.59s →  812.67s] SPEAKER_00:
+    "Sözümden çıkma."
+
+[ 814.96s →  817.60s] SPEAKER_00:
+    "Bak dinlemeyince sonu böyle oluyor işte."
+
+[ 818.42s →  819.58s] SPEAKER_00:
+    "İyi veya kötü."
+
+[ 819.94s →  822.92s] SPEAKER_00:
+    "Sen bu haldeyken konakta oturup televizyonu izleyecek değilim."
+
+[ 823.84s →  825.44s] SPEAKER_00:
+    "Başıma gelenleri bilecek olsam..."
+
+[ 825.46s →  827.30s] SPEAKER_00:
+    "...bile yine kalkıp gelirdim."
+
+[ 827.38s →  840.68s] SPEAKER_01:
+    "Kim, neden yaptı bunu?"
+
+[ 840.96s →  845.26s] SPEAKER_01:
+    "Kim oldu orayı da bilmiyorum."
+
+[ 846.82s →  848.32s] SPEAKER_01:
+    "Ama bulacağım."
+
+[ 849.49s →  851.25s] SPEAKER_00:
+    "Bulduğumda da ona pişman edeceğim."
+
+[ 854.69s →  856.15s] SPEAKER_00:
+    "Cemal'den de ses yok hala."
+
+[ 856.77s →  858.09s] SPEAKER_00:
+    "Başına bir şey mi geldi acaba?"
+
+[ 859.36s →  860.96s] SPEAKER_00:
+    "Cemal'in atlattıklarını bilsen..."
+
+[ 861.26s →  863.02s] SPEAKER_00:
+    "...onun için şu anda endişelenmezdi."
+
+[ 863.12s →  865.86s] SPEAKER_01:
+    "Çok önceden bir kere pusuya düşürdüler."
+
+[ 866.42s →  868.90s] SPEAKER_00:
+    "Kolunu, bacağını her tarafını kırdılar."
+
+[ 869.08s →  872.12s] SPEAKER_00:
+    "Ama benim kardeşim hastanede dirildi."
+
+[ 873.00s →  874.48s] SPEAKER_00:
+    "Bütün adamların iflahını kesti."
+
+[ 875.52s →  876.82s] SPEAKER_00:
+    "Sağlamdır benim kardeşim."
+
+[ 877.55s →  879.27s] SPEAKER_00:
+    "Namerdin darbesiyle yıkılmaz."
+
+[ 884.49s →  885.59s] SPEAKER_01:
+    "Buradan kurtulacağım."
+
+[ 885.67s →  886.33s] SPEAKER_00:
+    "Bacağımıza eminim."
+
+[ 887.44s →  891.91s] SPEAKER_01:
+    "Ama olur da kurtulamazsak içimde kalmasın."
+
+[ 893.24s →  895.14s] SPEAKER_00:
+    "İhale için beni boş yere suçladın."
+
+[ 895.22s →  896.50s] SPEAKER_01:
+    "Ben yapmadım."
+
+[ 898.94s →  900.54s] SPEAKER_00:
+    "Gerçekten tek derdin bu mu şu anda?"
+
+[ 901.99s →  902.63s] SPEAKER_01:
+    "Evet bu."
+
+[ 902.81s →  905.46s] SPEAKER_00:
+    "Ne yapayım gelemiyorum haksızlığa."
+
+[ 906.70s →  908.30s] SPEAKER_00:
+    "Tam yapsam söylerdim sana."
+
+[ 908.50s →  909.88s] SPEAKER_00:
+    "En fazla bağırır çağırırdın."
+
+[ 911.54s →  912.30s] SPEAKER_00:
+    "O kadar yani?"
+
+[ 913.08s →  913.68s] SPEAKER_01:
+    "O kadar."
+
+[ 913.90s →  916.39s] SPEAKER_01:
+    "Bana zarar vermezdin sen."
+
+[ 918.30s →  919.92s] SPEAKER_01:
+    "Bağırıp sinir etmek dışında tabii."
+
+[ 924.05s →  926.90s] SPEAKER_00:
+    "Bak seninle büyük problemlerimiz var."
+
+[ 928.90s →  930.04s] SPEAKER_00:
+    "Ama şunu bil ki..."
+
+[ 930.04s →  932.42s] SPEAKER_00:
+    "...ben düşmanıma bile ihanet etmem."
+
+[ 933.75s →  934.77s] SPEAKER_01:
+    "Bil istedim sadece."
+
+[ 936.69s →  938.45s] SPEAKER_00:
+    "Hakkımda yanlış düşünmeni istemiyorum."
+
+[ 941.06s →  942.76s] SPEAKER_01:
+    "Buradan sağ çıkamayabiliriz."
+
+[ 943.55s →  945.77s] SPEAKER_00:
+    "Belki de bunlar son cümlelerimiz."
+
+[ 946.25s →  947.37s] SPEAKER_00:
+    "Son saatlerimiz şu an."
+
+[ 953.05s →  954.63s] SPEAKER_01:
+    "İçimde kalmasın diye."
+
+[ 954.89s →  962.54s] SPEAKER_01:
+    "Eğer böyle olsaydı..."
+
+[ 962.91s →  964.41s] SPEAKER_00:
+    "...seni en çok ne üzerdi?"
+
+[ 966.26s →  967.82s] SPEAKER_00:
+    "İçinde en çok ne yarım kalırdı?"
+
+[ 987.55s →  989.77s] SPEAKER_00:
+    "Verdiğim sözleri tutamamak üzerdi."
+
+[1026.28s → 1026.94s] SPEAKER_00:
+    "Planım var."
+
+[1045.34s → 1046.58s] SPEAKER_00:
+    "Ne oldu öyle terslik mi var?"
+
+[1047.54s → 1048.48s] SPEAKER_00:
+    "Narcan oradaymış."
+
+[1048.80s → 1049.16s] SPEAKER_01:
+    "Ne?"
+
+[1050.17s → 1050.69s] SPEAKER_01:
+    "Nasıl?"
+
+[1050.89s → 1052.11s] SPEAKER_00:
+    "Ne işi var onun orada?"
+
+[1052.33s → 1052.85s] SPEAKER_00:
+    "Bilmiyorum."
+
+[1053.69s → 1055.07s] SPEAKER_00:
+    "Ama bütün plan alt üst oldu."
+
+[1055.41s → 1059.66s] SPEAKER_01:
+    "Tahmin etmeliydim."
+
+[1061.10s → 1061.62s] SPEAKER_00:
+    "Anlamalıydım."
+
+[1062.26s → 1063.92s] SPEAKER_00:
+    "Cemal'le çıktıklarında anlamalıydım."
+
+[1063.94s → 1065.16s] SPEAKER_00:
+    "Ya bu kız niye böyle yapıyor?"
+
+[1065.44s → 1067.14s] SPEAKER_00:
+    "Niye benim her işime limon sıkıyor?"
+
+[1067.18s → 1067.80s] SPEAKER_00:
+    "Anlamıyorum ki."
+
+[1067.88s → 1069.46s] SPEAKER_00:
+    "Tam elimize fırsat geçmiş."
+
+[1069.50s → 1070.50s] SPEAKER_00:
+    "Karanları bitireceğiz."
+
+[1070.72s → 1072.77s] SPEAKER_00:
+    "Ne halt etmeye oraya gidiyor?"
+
+[1075.12s → 1075.90s] SPEAKER_00:
+    "Peki ya Cemal?"
+
+[1076.66s → 1077.80s] SPEAKER_00:
+    "Sizi ölömür dediler."
+
+[1078.04s → 1081.63s] SPEAKER_01:
+    "Ne yapacağız şimdi?"
+
+[1086.56s → 1087.72s] SPEAKER_01:
+    "Dönüşü yok bu işin."
+
+[1089.45s → 1091.21s] SPEAKER_00:
+    "Yüzlük yüzlük kuyruğuna geldik."
+
+[1093.18s → 1094.72s] SPEAKER_00:
+    "Bir kişinin hatası yüzünden..."
+
+[1094.76s → 1096.96s] SPEAKER_00:
+    "...herkesin çıkarını heba edemem."
+
+[1098.11s → 1098.65s] SPEAKER_01:
+    "Ne yani?"
+
+[1099.56s → 1100.74s] SPEAKER_00:
+    "Mercan'ı mı harcayacaksın?"
+
+[1102.41s → 1103.95s] SPEAKER_00:
+    "Harcamadan kurtarabilecek misin?"
+
+[1104.37s → 1105.55s] SPEAKER_01:
+    "Bunu vereceğim istedi."
+
+[1105.85s → 1106.35s] SPEAKER_00:
+    "Olmaz."
+
+[1107.43s → 1108.81s] SPEAKER_00:
+    "Mercan'dan vazgeçmeyeceğim."
+
+[1109.36s → 1111.60s] SPEAKER_00:
+    "Mercan oraya giderek bizden vazgeçsin mi?"
+
+[1111.62s → 1111.92s] SPEAKER_00:
+    "Tamam o."
+
+[1111.94s → 1119.70s] SPEAKER_01:
+    "Ben halledeceğim."
+
+[1120.85s → 1123.39s] SPEAKER_00:
+    "Benden habersiz sakın bir delilik yapmaya kalkma."
+
+[1131.69s → 1132.83s] SPEAKER_01:
+    "Deliliği sen yapıyorsun."
+
+[1133.21s → 1137.69s] SPEAKER_01:
+    "Bu alemde duygusallığın sonu ölümdür."
+
+[1144.35s → 1145.15s] SPEAKER_00:
+    "Baksana buraya."
+
+[1145.51s → 1152.59s] SPEAKER_01:
+    "Ne var bakar mısın bakar mısın?"
+
+[1153.35s → 1154.09s] SPEAKER_00:
+    "Sahibin nerede?"
+
+[1157.16s → 1158.74s] SPEAKER_00:
+    "Kendi kaçtı seni mi dikti buraya?"
+
+[1160.83s → 1162.63s] SPEAKER_00:
+    "Tasmanı uzaktan kontrollü galiba."
+
+[1164.59s → 1166.51s] SPEAKER_00:
+    "Ne diyorsun oğlum sen tasma masma?"
+
+[1167.21s → 1169.77s] SPEAKER_00:
+    "Burada tasması olan birisi varsa o da sensin."
+
+[1171.09s → 1173.19s] SPEAKER_00:
+    "Belli ki senin bir yerlerin kaşınıyor ama..."
+
+[1173.21s → 1174.39s] SPEAKER_01:
+    "...elin yetişmiyor."
+
+[1175.31s → 1176.81s] SPEAKER_00:
+    "İstiyorsan biz yardımcı olalım ha?"
+
+[1201.21s → 1202.57s] SPEAKER_00:
+    "Anladı ağır mısın ha?"
+
+[1204.35s → 1205.33s] SPEAKER_01:
+    "Elin kırılsın."
+
+[1208.10s → 1209.00s] SPEAKER_01:
+    "Rahat dur."
+
+[1209.28s → 1210.62s] SPEAKER_01:
+    "Sesin çok çıkmasın."
+
+[1211.46s → 1212.60s] SPEAKER_00:
+    "Allah'ıma var ya."
+
+[1212.70s → 1214.18s] SPEAKER_00:
+    "Seni iddial ederim ha."
+
+[1214.67s → 1215.23s] SPEAKER_01:
+    "Tamam."
+
+[1215.47s → 1216.90s] SPEAKER_01:
+    "Sen de."
+
+[1220.36s → 1221.18s] SPEAKER_01:
+    "Rahat durun."
+
+[1224.62s → 1225.40s] SPEAKER_01:
+    "Rahat durun."
+
+[1225.46s → 1229.46s] SPEAKER_01:
+    "İyi misin?"
+
+[1229.92s → 1230.98s] SPEAKER_00:
+    "Canın çok yandı mı?"
+
+[1231.87s → 1232.39s] SPEAKER_00:
+    "İyiyim."
+
+[1232.49s → 1234.81s] SPEAKER_01:
+    "Ama işe yaradı."
+
+[1235.01s → 1275.10s] SPEAKER_01:
+    "Ne yapıyorsun sen?"
+
+[1275.56s → 1276.20s] SPEAKER_00:
+    "Delirdin mi?"
+
+[1276.44s → 1277.14s] SPEAKER_00:
+    "Delirdim evet."
+
+[1277.40s → 1279.08s] SPEAKER_01:
+    "Siz delirttiniz."
+
+[1280.14s → 1281.04s] SPEAKER_01:
+    "Nerede ateş?"
+
+[1281.10s → 1282.60s] SPEAKER_01:
+    "Ne bileyim nerede?"
+
+[1284.41s → 1285.51s] SPEAKER_00:
+    "Ateş nerede diyorum."
+
+[1288.48s → 1289.04s] SPEAKER_00:
+    "Bilmiyorum."
+
+[1290.00s → 1292.52s] SPEAKER_00:
+    "Bir sürü düşmanı var almıştır bir tanesi atmıştır bir kenara."
+
+[1293.62s → 1296.36s] SPEAKER_00:
+    "Ateşe dokunursan seni yaşatmam."
+
+[1297.26s → 1298.80s] SPEAKER_00:
+    "Dünyanın öbür ucuna da gideceğim."
+
+[1298.82s → 1299.02s] SPEAKER_01:
+    "Sen?"
+
+[1299.12s → 1300.74s] SPEAKER_00:
+    "Seni bulur gebertirim."
+
+[1300.92s → 1305.46s] SPEAKER_00:
+    "Hani bana dedin ya sen ya çok aşıksın ya çok kötü diye."
+
+[1306.13s → 1306.97s] SPEAKER_00:
+    "İkisiyim de."
+
+[1307.09s → 1308.31s] SPEAKER_00:
+    "Dedin mi?"
+
+[1308.49s → 1314.10s] SPEAKER_01:
+    "Eğer aşkıma dokunursan yapabileceklerimi bilmiyorsun."
+
+[1314.84s → 1316.02s] SPEAKER_00:
+    "Bilmiyorum nerede olduğunu."
+
+[1317.88s → 1319.22s] SPEAKER_00:
+    "Bekçisi miyim ben o zibidinin?"
+
+[1320.11s → 1321.55s] SPEAKER_00:
+    "Kim yaptıysa bul onu öldür."
+
+[1321.75s → 1324.37s] SPEAKER_00:
+    "Siz sülalecek delisiniz ha."
+
+[1325.73s → 1326.33s] SPEAKER_00:
+    "Sıyırmışsınız."
+
+[1327.03s → 1327.63s] SPEAKER_01:
+    "Rahatsızlar."
+
+[1333.75s → 1334.89s] SPEAKER_00:
+    "Manyaksın manyak."
+
+[1348.61s → 1349.39s] SPEAKER_01:
+    "Kimsiniz siz?"
+
+[1354.83s → 1355.79s] SPEAKER_00:
+    "Kıpırdarlarsa vurun."
+
+[1357.11s → 1358.13s] SPEAKER_01:
+    "Bu ne saçmalık ya?"
+
+[1358.25s → 1359.47s] SPEAKER_00:
+    "Ne yapmaya çalışıyorsunuz?"
+
+[1365.58s → 1366.52s] SPEAKER_00:
+    "Yaptınız ama ha?"
+
+[1367.32s → 1368.28s] SPEAKER_01:
+    "Ateş kayıp."
+
+[1368.77s → 1372.01s] SPEAKER_00:
+    "Onun kılına zarar gelsin bu evden cesediniz çıkar."
+
+[1372.25s → 1382.87s] SPEAKER_01:
+    "Eğer siz yaptıysanız bunlara bırakmam canlı canlı parçalarım ikinizi de."
+
+[1389.33s → 1390.91s] SPEAKER_00:
+    "Zorluk çıkaran olursa vurun."
+
+[1391.45s → 1393.01s] SPEAKER_00:
+    "Benim de kızım kayıp."
+
+[1393.05s → 1395.39s] SPEAKER_00:
+    "Ben de endişeliyim sizin kadar."
+
+[1395.67s → 1397.71s] SPEAKER_00:
+    "Çok yanlış yapıyorsun kadın çok."
+
+[1401.49s → 1402.93s] SPEAKER_00:
+    "Bugünün yarını da var unutma."
+
+[1403.50s → 1404.22s] SPEAKER_01:
+    "Kes sesini."
+
+[1406.83s → 1409.65s] SPEAKER_00:
+    "Yanlışı da senin gibi soysuzdan öğrenecek değiliz."
+
+[1414.20s → 1418.27s] SPEAKER_00:
+    "Ayrıca sizin için yarın var mı yok mu daha belli değil."
+
+[1419.67s → 1420.57s] SPEAKER_00:
+    "Kıpırdarlarsa vurun."
+
+[1420.73s → 1440.27s] SPEAKER_01:
+    "Beni bir çözdükten sonra."
+
+[1440.27s → 1442.46s] SPEAKER_00:
+    "Sen kapının arkasında saklanacaksın."
+
+[1443.20s → 1446.38s] SPEAKER_00:
+    "Adamlar içeri girdikten sonra da tüm gücünle koşacaksın."
+
+[1446.96s → 1447.56s] SPEAKER_00:
+    "Tamam mı?"
+
+[1448.08s → 1449.66s] SPEAKER_00:
+    "Seni burada onlarla tek bırakamam."
+
+[1450.33s → 1452.11s] SPEAKER_00:
+    "Başımın çaresine bakabilirim gördün."
+
+[1452.43s → 1453.25s] SPEAKER_01:
+    "İtiraz yok."
+
+[1453.91s → 1454.89s] SPEAKER_00:
+    "Dediğimi yapacaksın."
+
+[1458.26s → 1459.32s] SPEAKER_01:
+    "Tek bir şansımız var."
+
+[1459.67s → 1460.83s] SPEAKER_00:
+    "Doğru kullanmalıyız."
+
+[1461.19s → 1461.79s] SPEAKER_01:
+    "Ama."
+
+[1462.17s → 1463.01s] SPEAKER_00:
+    "Dediğimi yap."
+
+[1501.25s → 1501.61s] SPEAKER_01:
+    "Alo."
+
+[1502.95s → 1503.79s] SPEAKER_01:
+    "Baksana buraya."
+
+[1504.11s → 1508.71s] SPEAKER_01:
+    "Ne yapıyorsun gitsene şuraya."
+
+[1510.08s → 1511.24s] SPEAKER_01:
+    "Sorun yok bende."
+
+[1512.66s → 1513.28s] SPEAKER_00:
+    "Sabır."
+
+[1513.56s → 1517.09s] SPEAKER_01:
+    "Ne oluyor oğlum burada?"
+
+[1517.31s → 1519.03s] SPEAKER_01:
+    "Kim çözdü sizi?"
+
+[1523.35s → 1523.97s] SPEAKER_00:
+    "Sakin."
+
+[1523.97s → 1559.98s] SPEAKER_01:
+    "Hadi gidelim."
+
+[1581.42s → 1581.94s] SPEAKER_01:
+    "Nereye?"
+
+[1581.94s → 1612.54s] SPEAKER_01:
+    "Vay be."
+
+[1612.60s → 1614.18s] SPEAKER_00:
+    "Şimdi yine evlenmişim ben böyle."
+
+[1620.74s → 1621.52s] SPEAKER_00:
+    "Bizde de bir şeyler."
+
+[1621.84s → 1625.83s] SPEAKER_01:
+    "Hadi gidelim."
+
+[1674.28s → 1676.36s] SPEAKER_00:
+    "Durumda bile laf sokuyorsun inanmıyorum sana."
+
+[1709.57s → 1720.40s] SPEAKER_01:
+    "Hadi gitmemiz lazım."
+
+[1725.58s → 1726.42s] SPEAKER_00:
+    "Kaçışınız yok."
+
+[1732.40s → 1733.90s] SPEAKER_00:
+    "Buradan bakınca öyle gözükmüyor."
+
+[1760.25s → 1839.90s] SPEAKER_01:
+    "Senin vaden dolmuş."
+
+[1840.49s → 1842.51s] SPEAKER_00:
+    "Diğer taraftakilere selamımı söyle."
+
+[1885.14s → 1886.92s] SPEAKER_00:
+    "Hoşluk selamını kendin söylersin."
+
+[1889.92s → 1890.44s] SPEAKER_00:
+    "İyi misin?"
+
+[1890.68s → 1892.34s] SPEAKER_01:
+    "Bir şeyin yok mu?"
+
+[1892.74s → 1893.34s] SPEAKER_00:
+    "İyiyim."
+
+[1893.34s → 1894.02s] SPEAKER_00:
     "Bir şeyim yok."
 
-[2877.6s → 2878.4s] SPEAKER_00:
+[1894.77s → 1895.41s] SPEAKER_00:
+    "Sen iyi misin?"
+
+[1896.55s → 1897.13s] SPEAKER_00:
+    "İyiyim."
+
+[1897.23s → 1899.07s] SPEAKER_01:
+    "Biraz hamlamışım sadece."
+
+[1900.21s → 1901.35s] SPEAKER_00:
+    "Emin ol fark edilmiyor."
+
+[1902.10s → 1903.98s] SPEAKER_00:
+    "Hadi şunlar kendilerine gelmeden gidelim."
+
+[1904.06s → 1949.42s] SPEAKER_01:
+    "Sen arkadan dolan."
+
+[1949.42s → 1951.45s] SPEAKER_01:
+    "Siz benimle gelin."
+
+[1952.41s → 1954.53s] SPEAKER_00:
+    "Onları yakalamaktan dönmek yok."
+
+[2016.81s → 2017.81s] SPEAKER_00:
+    "Elveda çiçeğim."
+
+[2020.32s → 2021.16s] SPEAKER_00:
+    "Sen iyi ol."
+
+[2021.38s → 2023.46s] SPEAKER_01:
+    "Tek isteğim bu."
+
+[2061.02s → 2061.50s] SPEAKER_00:
+    "Hayırdır?"
+
+[2063.07s → 2065.38s] SPEAKER_00:
+    "Ya ben memleketime gideceğim."
+
+[2066.61s → 2068.73s] SPEAKER_00:
+    "Hatta birkaç gün önce almıştım biletimi."
+
+[2069.51s → 2070.55s] SPEAKER_01:
+    "Bakın isterseniz."
+
+[2073.90s → 2074.46s] SPEAKER_01:
+    "Bakın."
+
+[2074.79s → 2076.05s] SPEAKER_00:
+    "Bilet millet bilmem ben."
+
+[2076.40s → 2078.00s] SPEAKER_00:
+    "Bu Zeyn Hanım kuş utmayacak dedi."
+
+[2078.56s → 2079.68s] SPEAKER_00:
+    "Yapmayın Allah aşkına."
+
+[2080.00s → 2081.04s] SPEAKER_00:
+    "Uçağımı kaçıracağım."
+
+[2081.33s → 2083.27s] SPEAKER_00:
+    "Hem benimle ne ilgisi var Ateş Bey'in?"
+
+[2084.00s → 2084.60s] SPEAKER_00:
+    "Emir böyle."
+
+[2092.76s → 2093.10s] SPEAKER_00:
+    "Eyvallah."
+
+[2118.07s → 2118.77s] SPEAKER_00:
+    "Ateş yok."
+
+[2119.01s → 2119.73s] SPEAKER_00:
+    "Cemal yok."
+
+[2119.77s → 2120.29s] SPEAKER_00:
+    "Nerede bunlar?"
+
+[2122.04s → 2122.28s] SPEAKER_00:
+    "Haydar."
+
+[2122.90s → 2123.54s] SPEAKER_00:
+    "Haydar."
+
+[2124.00s → 2126.66s] SPEAKER_01:
+    "Dua et Ateş dönsün."
+
+[2126.96s → 2129.72s] SPEAKER_00:
+    "Yoksa seni inim inim inleterek öldürürüm."
+
+[2129.76s → 2131.20s] SPEAKER_00:
+    "Ateşi mumla ararsın."
+
+[2131.62s → 2132.92s] SPEAKER_00:
+    "Hala bir haber yok."
+
+[2136.75s → 2137.89s] SPEAKER_00:
+    "Öleceğim meraktan."
+
+[2139.68s → 2141.16s] SPEAKER_00:
+    "Gelecekler kızım merak etme."
+
+[2143.40s → 2145.36s] SPEAKER_00:
+    "İki aslanım da bu kapıdan girecek."
+
+[2145.36s → 2146.12s] SPEAKER_00:
+    "Başka yolu yok."
+
+[2146.22s → 2147.42s] SPEAKER_00:
+    "Başka yolu yok."
+
+[2170.81s → 2171.25s] SPEAKER_00:
+    "Yenge."
+
+[2171.47s → 2172.71s] SPEAKER_01:
+    "Bir şeyin yok değil mi?"
+
+[2176.16s → 2176.64s] SPEAKER_00:
+    "İyiyim."
+
+[2177.90s → 2178.54s] SPEAKER_00:
+    "Yoruldum."
+
+[2179.89s → 2180.87s] SPEAKER_00:
+    "Biraz daha dayan."
+
+[2181.01s → 2181.49s] SPEAKER_01:
+    "Hadi."
+
+[2182.31s → 2183.45s] SPEAKER_01:
+    "Vakit kaybetmiyorum."
+
+[2183.53s → 2183.69s] SPEAKER_00:
+    "Gel."
+
+[2183.94s → 2184.66s] SPEAKER_01:
+    "Ver elini."
+
+[2184.72s → 2192.95s] SPEAKER_01:
+    "Yürü buraya."
+
+[2197.97s → 2199.07s] SPEAKER_00:
+    "Diyecek yeriniz yok."
+
+[2203.14s → 2204.36s] SPEAKER_00:
+    "Allah kahretsin."
+
+[2204.36s → 2206.17s] SPEAKER_01:
+    "İkiye ayrılın."
+
+[2206.30s → 2207.46s] SPEAKER_00:
+    "Bulun onları bana."
+
+[2208.09s → 2209.07s] SPEAKER_00:
+    "Geberteceğim onları."
+
+[2209.31s → 2217.51s] SPEAKER_01:
+    "Bizim ona biraz daha un koyu akmış varmur."
+
+[2217.61s → 2219.24s] SPEAKER_01:
+    "Tamam annem."
+
+[2224.81s → 2227.11s] SPEAKER_00:
+    "Valla inşallah sağ salim evine döner ha."
+
+[2228.02s → 2228.35s] SPEAKER_01:
+    "İnşallah."
+
+[2229.04s → 2232.11s] SPEAKER_01:
+    "Kötü bir şey olmasın da."
+
+[2232.35s → 2234.48s] SPEAKER_00:
+    "Tövbe de kız mazundan yer alsın."
+
+[2234.68s → 2235.98s] SPEAKER_00:
+    "Ya tövbe tövbe de."
+
+[2237.09s → 2241.43s] SPEAKER_00:
+    "Ateş Bey'e bir şey olursa var ya o Müzeyyen hepimizi kurşuna dizer."
+
+[2241.75s → 2244.16s] SPEAKER_00:
+    "Yetmez konağı yakar benden söylemesi."
+
+[2244.98s → 2246.14s] SPEAKER_00:
+    "Orası öyle tabii."
+
+[2250.52s → 2251.90s] SPEAKER_00:
+    "Akşama çok hazırlık yapmayın."
+
+[2251.90s → 2253.90s] SPEAKER_00:
+    "Ateş Bey'le Cemal Bey yoklar."
+
+[2254.26s → 2255.86s] SPEAKER_00:
+    "Evde kimsenin iştahı da yok zaten."
+
+[2256.40s → 2257.52s] SPEAKER_00:
+    "Mercan Hanım da yok."
+
+[2258.71s → 2260.13s] SPEAKER_00:
+    "Ha evet o da yok detay olarak."
+
+[2260.57s → 2288.84s] SPEAKER_01:
+    "Ya anacığım ya sağ olasın."
+
+[2288.96s → 2299.36s] SPEAKER_01:
+    "Oğlum bir süpürge falan bulaydı bak."
+
+[2299.40s → 2300.14s] SPEAKER_00:
+    "Gel oramızda tok."
+
+[2300.87s → 2301.85s] SPEAKER_00:
+    "Bardağı kırdı."
+
+[2302.36s → 2304.82s] SPEAKER_00:
+    "Yerden aldı sadece kaşığı verdi farkında mısın?"
+
+[2305.88s → 2306.88s] SPEAKER_00:
+    "Yatacağı o iş o kadar."
+
+[2331.80s → 2333.02s] SPEAKER_00:
+    "Neredesin Mercan ya?"
+
+[2333.44s → 2337.37s] SPEAKER_01:
+    "Kahve getirdim."
+
+[2338.42s → 2340.78s] SPEAKER_01:
+    "Burak çalışacak modda değilim şu anda."
+
+[2342.84s → 2343.88s] SPEAKER_00:
+    "Çalışmaya gelmedin."
+
+[2344.38s → 2345.86s] SPEAKER_01:
+    "Konuşmaya ihtiyacın var belli ki."
+
+[2346.87s → 2347.69s] SPEAKER_00:
+    "Mercan'a ulaşamıyorum."
+
+[2348.21s → 2349.69s] SPEAKER_00:
+    "Ve bu hiç normal değil."
+
+[2349.71s → 2351.73s] SPEAKER_01:
+    "Ya ona bir şey olursa?"
+
+[2351.79s → 2352.31s] SPEAKER_00:
+    "Olmayacak."
+
+[2354.50s → 2356.54s] SPEAKER_00:
+    "Bir insan hem nasıl bu kadar kırılgan,"
+
+[2356.62s → 2359.24s] SPEAKER_00:
+    "hem de bu kadar güçlü durabilir anlayamadım ben."
+
+[2359.60s → 2362.44s] SPEAKER_00:
+    "Onu tanısan hem şok olursun hem de onu çok seversin."
+
+[2364.11s → 2365.51s] SPEAKER_00:
+    "Herkes iyi görünür."
+
+[2365.62s → 2367.40s] SPEAKER_00:
+    "İyi görünmeye çalışır."
+
+[2367.52s → 2370.23s] SPEAKER_00:
+    "Ama Mercan'la girdiğimiz her sınavda"
+
+[2370.23s → 2373.75s] SPEAKER_00:
+    "görünür de değil gerçekten iyi bir insan olduğunu ispatladı."
+
+[2373.95s → 2376.74s] SPEAKER_00:
+    "Bir ortamda biri kendini feda mı edecek?"
+
+[2376.94s → 2379.72s] SPEAKER_01:
+    "Hiç, hiç başka bir yere bakma."
+
+[2379.76s → 2380.46s] SPEAKER_00:
+    "Mercan'dır o."
+
+[2380.82s → 2383.76s] SPEAKER_00:
+    "Etrafında kimsenin zarar görmesine izin vermez."
+
+[2383.76s → 2386.85s] SPEAKER_01:
+    "O parçalatsın."
+
+[2387.66s → 2389.44s] SPEAKER_01:
+    "Sen yeter ki sağlam kal."
+
+[2389.66s → 2391.50s] SPEAKER_01:
+    "Ne güzel anlattın."
+
+[2392.34s → 2393.90s] SPEAKER_00:
+    "Az bile anlattım biliyor musun?"
+
+[2394.66s → 2396.28s] SPEAKER_00:
+    "Çünkü öyle harika bir insan"
+
+[2396.28s → 2398.01s] SPEAKER_00:
+    "öyle anlatılamıyor işte."
+
+[2399.23s → 2401.69s] SPEAKER_00:
+    "Mercan Hanım'la çok uzun zamandır merak edersiniz."
+
+[2402.32s → 2403.18s] SPEAKER_01:
+    "Evet çok."
+
+[2405.81s → 2407.79s] SPEAKER_00:
+    "Mercan Hanım'ın sağlıklı hali geri dönecek."
+
+[2407.97s → 2410.76s] SPEAKER_00:
+    "Böyle bir insan kolay kolay yıkılmaz merak ediyorum."
+
+[2412.24s → 2412.96s] SPEAKER_01:
+    "Haklısın Burak."
+
+[2414.10s → 2415.42s] SPEAKER_01:
+    "Konuşmak çok iyi geldi."
+
+[2415.62s → 2416.75s] SPEAKER_01:
+    "Teşekkür ederim."
+
+[2468.78s → 2469.70s] SPEAKER_00:
+    "Nesiniz lan?"
+
+[2487.07s → 2489.73s] SPEAKER_00:
+    "Müthişin adına çok ihtiyacımız var şu an."
+
+[2489.89s → 2561.05s] SPEAKER_01:
+    "Şey biri vardı orada."
+
+[2561.05s → 2576.98s] SPEAKER_01:
+    "Sen iyi misin ya?"
+
+[2578.28s → 2578.80s] SPEAKER_00:
+    "İyiyim."
+
+[2578.98s → 2579.68s] SPEAKER_01:
+    "Su."
+
+[2591.24s → 2606.40s] SPEAKER_01:
+    "Bu kadar endişeleniyor ki benim için."
+
+[2617.88s → 2623.26s] SPEAKER_00:
+    "Bizim zamanımızda gençler sevdiklerine, kocalarına seni seviyorum demeye utanırlardı ha."
+
+[2623.72s → 2626.64s] SPEAKER_00:
+    "Böyle çarşıya gidip hediye falan alma adeti de yoktu."
+
+[2626.84s → 2634.84s] SPEAKER_00:
+    "İşte biz de böyle kendi emeğimizle kimi zaman sevdamızı ilmek ilmek kimi zaman da böyle iğne iğne işlerdik."
+
+[2635.08s → 2660.07s] SPEAKER_01:
+    "Ne yaparsın kızım burada?"
+
+[2660.63s → 2661.37s] SPEAKER_00:
+    "Hiç öyle."
+
+[2661.85s → 2662.95s] SPEAKER_00:
+    "Oturuyorum böyle."
+
+[2664.90s → 2668.16s] SPEAKER_01:
+    "Aman nasıl yoruldum."
+
+[2668.16s → 2669.56s] SPEAKER_00:
+    "Nasıl yoruldum."
+
+[2670.72s → 2672.40s] SPEAKER_00:
+    "Hiçbir şey de etmedim ha."
+
+[2673.34s → 2675.70s] SPEAKER_00:
+    "Etlerim böyle lime lime dökülüyor sanki."
+
+[2676.40s → 2678.96s] SPEAKER_00:
+    "İnsanın huzuru olmadı mı işte böyle oluyor kızım."
+
+[2679.88s → 2681.20s] SPEAKER_00:
+    "Evde huzurumuz yok."
+
+[2681.72s → 2684.26s] SPEAKER_00:
+    "Elimizi kolumuzu kaldıracak halimiz de yok."
+
+[2684.96s → 2687.24s] SPEAKER_00:
+    "İşte böyle insanın huzuru olmadı mıydı?"
+
+[2687.38s → 2692.50s] SPEAKER_00:
+    "Gece yattığın yatak kuşluyu da olsa sanki sivri lisedura yatmış gibi olur ha."
+
+[2694.39s → 2695.19s] SPEAKER_00:
+    "Öyle de."
+
+[2696.11s → 2697.83s] SPEAKER_00:
+    "Mercan Hanım'a ne diyorsun anne?"
+
+[2699.17s → 2700.87s] SPEAKER_00:
+    "Sevemeden zorla evlendi."
+
+[2700.87s → 2703.90s] SPEAKER_00:
+    "Karı koca gibi değil de düşman gibi yaşıyorlardı."
+
+[2704.00s → 2708.08s] SPEAKER_00:
+    "Ama yine de Ateş Bey'in peşinden kendini tehlikeye attı."
+
+[2709.09s → 2710.83s] SPEAKER_00:
+    "Neresinden baksan acayip."
+
+[2711.22s → 2711.74s] SPEAKER_01:
+    "Yoo."
+
+[2712.16s → 2715.66s] SPEAKER_00:
+    "O acayip dediğimiz şey hayatın ta kendisi işte."
+
+[2716.04s → 2720.58s] SPEAKER_00:
+    "Sen illa aşkı öyle ilk görüşte falan oluyor mu zannediyorsun ha?"
+
+[2721.87s → 2723.43s] SPEAKER_01:
+    "Türlü tehdit aşk vardır da."
+
+[2723.90s → 2728.56s] SPEAKER_00:
+    "Kimisi böyle işte kavga gürültüyle başlar da yavaş yavaş tavrını bulur."
+
+[2729.17s → 2731.83s] SPEAKER_01:
+    "İşte esas o kıymetlidir ha."
+
+[2731.97s → 2735.31s] SPEAKER_00:
+    "Çünkü onun için de birbirini tanımak vardır."
+
+[2735.31s → 2738.05s] SPEAKER_00:
+    "O bir binayı beraber dikmek vardır."
+
+[2738.23s → 2741.05s] SPEAKER_00:
+    "Eğrisini doğrusunu beraber düzeltmek vardır da."
+
+[2741.23s → 2742.71s] SPEAKER_00:
+    "Emek vardır emek."
+
+[2743.19s → 2746.65s] SPEAKER_00:
+    "İşte o emek iki insanı birbirine bağlar."
+
+[2746.81s → 2748.13s] SPEAKER_00:
+    "En derinden bağlar."
+
+[2749.42s → 2752.06s] SPEAKER_00:
+    "O derinden bağlı kolay kolay kopmuyor."
+
+[2752.54s → 2756.18s] SPEAKER_00:
+    "Eee işte insanın içine kaybetme korkusu düştü müydü bir kere?"
+
+[2764.47s → 2768.39s] SPEAKER_00:
+    "Nazniyaz edip de kendinden bile sakladığı o duyguları böyle dışarı çıkar."
+
+[2768.75s → 2769.97s] SPEAKER_00:
+    "Kağlar durur ha."
+
+[2770.92s → 2774.30s] SPEAKER_00:
+    "İnsan yanındayken elini uzattığında yakınındayken."
+
+[2774.30s → 2776.30s] SPEAKER_00:
+    "O zaman özensiz davranır."
+
+[2776.82s → 2778.14s] SPEAKER_00:
+    "Kıymetimi bilemez."
+
+[2778.34s → 2780.72s] SPEAKER_00:
+    "Ha burada dur ha yanımdadır der."
+
+[2780.97s → 2784.57s] SPEAKER_00:
+    "Ama bugün ha buraya olan yarın ha oraya olur."
+
+[2785.22s → 2789.34s] SPEAKER_00:
+    "Kaybetme korkusu bir defa insanın kalbine düştü müydü?"
+
+[2789.78s → 2796.18s] SPEAKER_00:
+    "Aşk da bu bizim hırçın Karadeniz'in dalgaları gibi gelir insanı bir al aşağı ediverir."
+
+[2796.46s → 2807.58s] SPEAKER_01:
+    "Bak güzel kızım her gün yarısı mutluluksa yarısı da acıdır."
+
+[2808.08s → 2811.50s] SPEAKER_00:
+    "Yarısı huzursa yarısı huzursuzluktur."
+
+[2811.50s → 2817.81s] SPEAKER_01:
+    "Ama her ne olursa olsun insan aşkına sahip olmalı."
+
+[2818.44s → 2820.30s] SPEAKER_00:
+    "Doğru kişiyi bulursa tabi."
+
+[2821.87s → 2824.92s] SPEAKER_00:
+    "Ama ben biliyorum."
+
+[2825.46s → 2829.16s] SPEAKER_00:
+    "Biliyorum benim kuzum en iyisini en doğrusunu yapacak."
+
+[2830.61s → 2833.75s] SPEAKER_00:
+    "Ben onun yüreğini dantel dantel işledim de."
+
+[2833.81s → 2838.23s] SPEAKER_01:
+    "Vay benim çiçek kızım."
+
+[2838.79s → 2840.21s] SPEAKER_00:
+    "Vay benim güzel kızım."
+
+[2853.04s → 2854.96s] SPEAKER_00:
+    "Neyse ki kurşun sıyırıp geçmiş kolunu."
+
+[2855.10s → 2871.27s] SPEAKER_01:
+    "Nasıl hissediyorsun?"
+
+[2871.59s → 2875.31s] SPEAKER_01:
+    "Bir şeyim yok."
+
+[2877.28s → 2878.22s] SPEAKER_00:
     "O kadar da değil."
 
-[2879.4s → 2880.9s] SPEAKER_00:
-    "Yani öyle olsa kanı mandırırdı."
+[2878.79s → 2880.75s] SPEAKER_00:
+    "Yani öyle olsa kanaman dururdu."
 
-[2882.1s → 2883.5s] SPEAKER_00:
-    "Çöve kımıldama mandır tamam mı?"
+[2880.91s → 2883.39s] SPEAKER_01:
+    "Şöyle kımıldamadan olur tamam mı?"
 
-[2884.0s → 2885.5s] SPEAKER_01:
+[2883.53s → 2884.97s] SPEAKER_01:
     "Saracağım kolumu iyice."
 
-[2886.3s → 2888.6s] SPEAKER_01:
-    "Canım acımıyorum bir şey hissetmiyorum."
+[2886.42s → 2888.14s] SPEAKER_00:
+    "Canım acımıyor bir şey hissetmiyorum."
 
-[2890.6s → 2892.2s] SPEAKER_01:
-    "Sınırlıca işin yüksek demek ki."
+[2890.24s → 2891.82s] SPEAKER_00:
+    "Sanın acı işin yüksek demek ki."
 
-[2897.0s → 2900.0s] SPEAKER_01:
-    "Öyle kurşun çenesi gelir bana."
+[2892.04s → 2899.73s] SPEAKER_01:
+    "Öyle çünkü çerez gelir bana."
 
-[2900.6s → 2901.1s] SPEAKER_00:
+[2900.58s → 2900.88s] SPEAKER_00:
     "Efendim?"
 
-[2903.9s → 2905.5s] SPEAKER_00:
-    "Biraz daha deli etmezsek diyorum."
+[2903.64s → 2909.09s] SPEAKER_01:
+    "Biraz daha acele etmezsek diyorum gerçekten canı acıtacak yaralar alacağız."
 
-[2907.4s → 2909.4s] SPEAKER_00:
-    "Gerçekten canı açılacak yaralar alacağız."
-
-[2910.4s → 2911.0s] SPEAKER_01:
+[2910.03s → 2910.73s] SPEAKER_01:
     "Gitmemiz lazım."
 
-[2916.2s → 2917.6s] SPEAKER_01:
-    "Çok özür dilerim."
+[2910.97s → 2918.54s] SPEAKER_01:
+    "Çok özür dilerim elim hafiftir aslında."
 
-[2917.9s → 2918.9s] SPEAKER_00:
-    "Elim hafiftir aslında."
+[2918.98s → 2939.80s] SPEAKER_01:
+    "Hadi gitme olacağız."
 
-[2939.3s → 2940.0s] SPEAKER_00:
-    "Hadi gitmeyeceğiz."
-
-[2956.1s → 2957.4s] SPEAKER_01:
+[2955.67s → 2957.07s] SPEAKER_00:
     "Annem haklıymış."
 
-[2957.6s → 2959.1s] SPEAKER_01:
-    "İnsan şu anda neyi sahip çıkar?"
+[2957.21s → 2958.89s] SPEAKER_01:
+    "İnsan şu anda neye sahip çıkar?"
 
-[2959.7s → 2961.1s] SPEAKER_00:
-    "Bir onuruna bir aşkıma."
+[2959.11s → 2960.72s] SPEAKER_00:
+    "Bir onuruna bir aşkına."
 
-[2963.5s → 2969.9s] SPEAKER_01:
-    "Onuruma sahip çıktım ama aşkıma çok olmayacak böyle."
+[2963.14s → 2969.63s] SPEAKER_01:
+    "Onuruma sahip çıktım ama aşkıma olmayacak böyle."
 
-[2969.9s → 2973.3s] SPEAKER_01:
-    "Her şeyi anlatacağım mahalleye."
+[2969.89s → 2973.17s] SPEAKER_01:
+    "Her şeyi anlatacağım maliye."
 
-[2981.5s → 2981.8s] SPEAKER_00:
-    "Neredesin?"
+[2973.29s → 2982.94s] SPEAKER_01:
+    "Neredesin nereye kayboldun ya?"
 
-[2982.0s → 2983.2s] SPEAKER_00:
-    "Nereye kayboldun ya?"
-
-[3078.2s → 3080.1s] SPEAKER_01:
+[3078.17s → 3079.89s] SPEAKER_00:
     "Şu taraftan önde kıstıralım."
 
-[3101.9s → 3102.4s] SPEAKER_01:
-    "Dur ulan!"
+[3101.32s → 3101.90s] SPEAKER_00:
+    "Durun!"
 
-[3226.9s → 3227.7s] SPEAKER_01:
+[3102.16s → 3227.44s] SPEAKER_01:
     "Sakın korkma."
 
-[3228.4s → 3229.2s] SPEAKER_01:
+[3227.48s → 3228.84s] SPEAKER_01:
     "Ben yanındayım."
 
-[3230.1s → 3231.2s] SPEAKER_01:
+[3228.90s → 3230.83s] SPEAKER_01:
     "Sana hiçbir şey olmayacak."
 
-[3234.0s → 3235.6s] SPEAKER_00:
+[3233.46s → 3235.46s] SPEAKER_00:
     "Derdiniz neyse erkek erkeğe çözelim."
 
-[3236.7s → 3238.0s] SPEAKER_01:
+[3236.20s → 3237.30s] SPEAKER_00:
     "Bırakın kız gitsin."
 
-[3242.2s → 3244.7s] SPEAKER_00:
+[3240.38s → 3244.15s] SPEAKER_00:
     "Şu an pazarlık yapacak durumda değilsin."
 
-[3249.6s → 3251.6s] SPEAKER_00:
+[3244.19s → 3251.34s] SPEAKER_01:
     "Hem bir yerine iki daha cazip benim için."
 
-[3254.6s → 3256.0s] SPEAKER_01:
-    "İçinizde bittiniz."
+[3254.33s → 3255.57s] SPEAKER_00:
+    "İkiniz de bittiniz."
 
-[3411.4s → 3414.2s] SPEAKER_01:
-    "Ateşin yolculuğundan ilk size haberdar olmak istiyorsunuz."
-
-[3415.1s → 3416.0s] SPEAKER_01:
-    "Kanala abone olun."
-
-[3416.4s → 3417.9s] SPEAKER_01:
-    "Zil simgesine tıklayın."
-
-[3418.2s → 3420.5s] SPEAKER_01:
-    "Ve yeni bölümlerden ilk size haberdar olun."
+[3410.62s → 3420.36s] SPEAKER_01:
+    "Ateşin Yolculuğu'ndan ilk siz haberdar olmak istiyorsanız kanala abone olun, zil simgesine tıklayın ve yeni bölümlerden ilk siz haberdar olun."
 

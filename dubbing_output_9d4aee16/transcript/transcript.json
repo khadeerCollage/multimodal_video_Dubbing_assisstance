@@ -1,0 +1,2668 @@
+{
+  "num_speakers": 2,
+  "total_duration": 164.45,
+  "language": "ja",
+  "segments": [
+    {
+      "speaker": "SPEAKER_00",
+      "start": 3.2,
+      "end": 7.76,
+      "text": "山亀先生が病気で退職することになりましたので",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "山",
+          "start": 3.2,
+          "end": 3.56,
+          "probability": 0.45495688915252686
+        },
+        {
+          "word": "亀",
+          "start": 3.56,
+          "end": 3.88,
+          "probability": 0.6862402409315109
+        },
+        {
+          "word": "先生",
+          "start": 3.88,
+          "end": 4.2,
+          "probability": 0.9797805547714233
+        },
+        {
+          "word": "が",
+          "start": 4.2,
+          "end": 4.74,
+          "probability": 0.9887645244598389
+        },
+        {
+          "word": "病",
+          "start": 4.74,
+          "end": 5.48,
+          "probability": 0.8383089303970337
+        },
+        {
+          "word": "気",
+          "start": 5.48,
+          "end": 5.76,
+          "probability": 0.9996387958526611
+        },
+        {
+          "word": "で",
+          "start": 5.76,
+          "end": 5.9,
+          "probability": 0.995274007320404
+        },
+        {
+          "word": "退",
+          "start": 5.9,
+          "end": 6.1,
+          "probability": 0.9899311065673828
+        },
+        {
+          "word": "職",
+          "start": 6.1,
+          "end": 6.38,
+          "probability": 0.9994811713695526
+        },
+        {
+          "word": "する",
+          "start": 6.38,
+          "end": 6.62,
+          "probability": 0.9817031025886536
+        },
+        {
+          "word": "こと",
+          "start": 6.62,
+          "end": 6.84,
+          "probability": 0.9175863862037659
+        },
+        {
+          "word": "にな",
+          "start": 6.84,
+          "end": 7.08,
+          "probability": 0.9769558310508728
+        },
+        {
+          "word": "りました",
+          "start": 7.08,
+          "end": 7.44,
+          "probability": 0.9762309193611145
+        },
+        {
+          "word": "ので",
+          "start": 7.44,
+          "end": 7.76,
+          "probability": 0.9890762567520142
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 8.97,
+      "end": 12.43,
+      "text": "今日から1年G組を受け持つことになりました",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "今日",
+          "start": 8.97,
+          "end": 9.33,
+          "probability": 0.6944190263748169
+        },
+        {
+          "word": "から",
+          "start": 9.33,
+          "end": 9.63,
+          "probability": 0.9984194040298462
+        },
+        {
+          "word": "1",
+          "start": 9.63,
+          "end": 10.47,
+          "probability": 0.4418603181838989
+        },
+        {
+          "word": "年",
+          "start": 10.47,
+          "end": 10.71,
+          "probability": 0.9989792108535767
+        },
+        {
+          "word": "G",
+          "start": 10.71,
+          "end": 10.91,
+          "probability": 0.44412532448768616
+        },
+        {
+          "word": "組",
+          "start": 10.91,
+          "end": 11.13,
+          "probability": 0.9446238875389099
+        },
+        {
+          "word": "を",
+          "start": 11.13,
+          "end": 11.33,
+          "probability": 0.9896190762519836
+        },
+        {
+          "word": "受",
+          "start": 11.33,
+          "end": 11.45,
+          "probability": 0.9451035857200623
+        },
+        {
+          "word": "け",
+          "start": 11.45,
+          "end": 11.53,
+          "probability": 0.9997891783714294
+        },
+        {
+          "word": "持",
+          "start": 11.53,
+          "end": 11.55,
+          "probability": 0.9896005392074585
+        },
+        {
+          "word": "つ",
+          "start": 11.55,
+          "end": 11.73,
+          "probability": 0.9987420439720154
+        },
+        {
+          "word": "こと",
+          "start": 11.73,
+          "end": 11.87,
+          "probability": 0.9884174466133118
+        },
+        {
+          "word": "にな",
+          "start": 11.87,
+          "end": 12.07,
+          "probability": 0.9935243129730225
+        },
+        {
+          "word": "りました",
+          "start": 12.07,
+          "end": 12.43,
+          "probability": 0.9975977540016174
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 13.74,
+      "end": 15.12,
+      "text": "天宮ひとみです",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "天",
+          "start": 13.74,
+          "end": 14.1,
+          "probability": 0.5405666828155518
+        },
+        {
+          "word": "宮",
+          "start": 14.1,
+          "end": 14.42,
+          "probability": 0.9755690693855286
+        },
+        {
+          "word": "ひ",
+          "start": 14.42,
+          "end": 14.68,
+          "probability": 0.8872475624084473
+        },
+        {
+          "word": "と",
+          "start": 14.68,
+          "end": 14.74,
+          "probability": 0.9996792078018188
+        },
+        {
+          "word": "み",
+          "start": 14.74,
+          "end": 14.86,
+          "probability": 0.99347984790802
+        },
+        {
+          "word": "です",
+          "start": 14.86,
+          "end": 15.12,
+          "probability": 0.9968499541282654
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 18.25,
+      "end": 18.97,
+      "text": "よろしくね",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "よろしく",
+          "start": 18.25,
+          "end": 18.61,
+          "probability": 0.7698054313659668
+        },
+        {
+          "word": "ね",
+          "start": 18.61,
+          "end": 18.97,
+          "probability": 0.9926544427871704
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 18.97,
+      "end": 30.25,
+      "text": "学校に来ちゃダメだぞ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "学",
+          "start": 18.97,
+          "end": 19.51,
+          "probability": 0.8713565468788147
+        },
+        {
+          "word": "校",
+          "start": 28.42,
+          "end": 28.76,
+          "probability": 0.9996230602264404
+        },
+        {
+          "word": "に",
+          "start": 28.76,
+          "end": 28.78,
+          "probability": 0.6993866562843323
+        },
+        {
+          "word": "来",
+          "start": 29.47,
+          "end": 29.55,
+          "probability": 0.7880863547325134
+        },
+        {
+          "word": "ちゃ",
+          "start": 29.55,
+          "end": 29.69,
+          "probability": 0.9956492781639099
+        },
+        {
+          "word": "ダ",
+          "start": 29.69,
+          "end": 29.83,
+          "probability": 0.7432219386100769
+        },
+        {
+          "word": "メ",
+          "start": 29.83,
+          "end": 29.89,
+          "probability": 0.9999176263809204
+        },
+        {
+          "word": "だ",
+          "start": 29.89,
+          "end": 30.01,
+          "probability": 0.9962276220321655
+        },
+        {
+          "word": "ぞ",
+          "start": 30.01,
+          "end": 30.25,
+          "probability": 0.9972594976425171
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 32.61,
+      "end": 34.33,
+      "text": "何すんだよババア",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "何",
+          "start": 32.61,
+          "end": 32.97,
+          "probability": 0.4777657985687256
+        },
+        {
+          "word": "す",
+          "start": 32.97,
+          "end": 33.33,
+          "probability": 0.9915265440940857
+        },
+        {
+          "word": "んだ",
+          "start": 33.33,
+          "end": 33.67,
+          "probability": 0.9510306715965271
+        },
+        {
+          "word": "よ",
+          "start": 33.67,
+          "end": 33.87,
+          "probability": 0.9975070357322693
+        },
+        {
+          "word": "バ",
+          "start": 33.87,
+          "end": 34.07,
+          "probability": 0.6284362077713013
+        },
+        {
+          "word": "バ",
+          "start": 34.07,
+          "end": 34.17,
+          "probability": 0.9759613275527954
+        },
+        {
+          "word": "ア",
+          "start": 34.17,
+          "end": 34.33,
+          "probability": 0.8638888597488403
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 34.33,
+      "end": 35.83,
+      "text": "誰がババアだよこれが",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "誰",
+          "start": 34.33,
+          "end": 34.55,
+          "probability": 0.8255513310432434
+        },
+        {
+          "word": "が",
+          "start": 34.55,
+          "end": 34.77,
+          "probability": 0.990514874458313
+        },
+        {
+          "word": "バ",
+          "start": 34.77,
+          "end": 34.93,
+          "probability": 0.9954441785812378
+        },
+        {
+          "word": "バ",
+          "start": 34.93,
+          "end": 35.09,
+          "probability": 0.9979621171951294
+        },
+        {
+          "word": "ア",
+          "start": 35.09,
+          "end": 35.15,
+          "probability": 0.9990906715393066
+        },
+        {
+          "word": "だ",
+          "start": 35.15,
+          "end": 35.27,
+          "probability": 0.9971942901611328
+        },
+        {
+          "word": "よ",
+          "start": 35.27,
+          "end": 35.45,
+          "probability": 0.9956010580062866
+        },
+        {
+          "word": "これ",
+          "start": 35.45,
+          "end": 35.63,
+          "probability": 0.2812402546405792
+        },
+        {
+          "word": "が",
+          "start": 35.63,
+          "end": 35.83,
+          "probability": 0.6036635041236877
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 36.41,
+      "end": 40.27,
+      "text": "どこの国民的美少女を捕まえてババアだって言ってんだよ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "ど",
+          "start": 36.41,
+          "end": 36.77,
+          "probability": 0.9324554800987244
+        },
+        {
+          "word": "この",
+          "start": 37.33,
+          "end": 37.69,
+          "probability": 0.9997797608375549
+        },
+        {
+          "word": "国",
+          "start": 37.69,
+          "end": 37.93,
+          "probability": 0.9991244673728943
+        },
+        {
+          "word": "民",
+          "start": 37.93,
+          "end": 38.25,
+          "probability": 0.9998958110809326
+        },
+        {
+          "word": "的",
+          "start": 38.25,
+          "end": 38.39,
+          "probability": 0.9993653893470764
+        },
+        {
+          "word": "美",
+          "start": 38.39,
+          "end": 38.57,
+          "probability": 0.9994969367980957
+        },
+        {
+          "word": "少",
+          "start": 38.57,
+          "end": 38.73,
+          "probability": 0.9988176226615906
+        },
+        {
+          "word": "女",
+          "start": 38.73,
+          "end": 38.87,
+          "probability": 0.9998949766159058
+        },
+        {
+          "word": "を",
+          "start": 38.87,
+          "end": 38.95,
+          "probability": 0.6139636635780334
+        },
+        {
+          "word": "捕",
+          "start": 38.95,
+          "end": 39.07,
+          "probability": 0.9817282855510712
+        },
+        {
+          "word": "ま",
+          "start": 39.07,
+          "end": 39.19,
+          "probability": 0.9993274211883545
+        },
+        {
+          "word": "えて",
+          "start": 39.19,
+          "end": 39.25,
+          "probability": 0.9995124340057373
+        },
+        {
+          "word": "バ",
+          "start": 39.25,
+          "end": 39.43,
+          "probability": 0.9956607222557068
+        },
+        {
+          "word": "バ",
+          "start": 39.43,
+          "end": 39.55,
+          "probability": 0.9987640380859375
+        },
+        {
+          "word": "ア",
+          "start": 39.55,
+          "end": 39.69,
+          "probability": 0.9998193383216858
+        },
+        {
+          "word": "だ",
+          "start": 39.69,
+          "end": 39.71,
+          "probability": 0.9988149404525757
+        },
+        {
+          "word": "って",
+          "start": 39.71,
+          "end": 39.89,
+          "probability": 0.6401594877243042
+        },
+        {
+          "word": "言",
+          "start": 39.89,
+          "end": 39.95,
+          "probability": 0.8917441964149475
+        },
+        {
+          "word": "って",
+          "start": 39.95,
+          "end": 40.03,
+          "probability": 0.9859768152236938
+        },
+        {
+          "word": "んだ",
+          "start": 40.03,
+          "end": 40.19,
+          "probability": 0.9825847744941711
+        },
+        {
+          "word": "よ",
+          "start": 40.19,
+          "end": 40.27,
+          "probability": 0.9983555674552917
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 40.67,
+      "end": 41.03,
+      "text": "先生",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "先生",
+          "start": 40.67,
+          "end": 41.03,
+          "probability": 0.9874208569526672
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 43.7,
+      "end": 45.86,
+      "text": "年齢的に言ったらねおばさんっていうか",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "年",
+          "start": 43.7,
+          "end": 44.06,
+          "probability": 0.7643663883209229
+        },
+        {
+          "word": "齢",
+          "start": 44.06,
+          "end": 44.42,
+          "probability": 0.9999113380908966
+        },
+        {
+          "word": "的",
+          "start": 44.42,
+          "end": 44.56,
+          "probability": 0.9996695518493652
+        },
+        {
+          "word": "に",
+          "start": 44.56,
+          "end": 44.68,
+          "probability": 0.9975674152374268
+        },
+        {
+          "word": "言",
+          "start": 44.68,
+          "end": 44.74,
+          "probability": 0.9944500923156738
+        },
+        {
+          "word": "った",
+          "start": 44.74,
+          "end": 44.82,
+          "probability": 0.9238511323928833
+        },
+        {
+          "word": "ら",
+          "start": 44.82,
+          "end": 44.94,
+          "probability": 0.9995718598365784
+        },
+        {
+          "word": "ね",
+          "start": 44.94,
+          "end": 45.0,
+          "probability": 0.4089019000530243
+        },
+        {
+          "word": "お",
+          "start": 45.0,
+          "end": 45.14,
+          "probability": 0.959880530834198
+        },
+        {
+          "word": "ば",
+          "start": 45.14,
+          "end": 45.26,
+          "probability": 0.9921293258666992
+        },
+        {
+          "word": "さん",
+          "start": 45.26,
+          "end": 45.46,
+          "probability": 0.9821276664733887
+        },
+        {
+          "word": "っていう",
+          "start": 45.46,
+          "end": 45.72,
+          "probability": 0.6069294214248657
+        },
+        {
+          "word": "か",
+          "start": 45.72,
+          "end": 45.86,
+          "probability": 0.9947974681854248
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 45.86,
+      "end": 46.66,
+      "text": "おいおぐりキャップ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "おい",
+          "start": 45.86,
+          "end": 46.18,
+          "probability": 0.7404236793518066
+        },
+        {
+          "word": "お",
+          "start": 46.18,
+          "end": 46.3,
+          "probability": 0.8445234894752502
+        },
+        {
+          "word": "ぐ",
+          "start": 46.3,
+          "end": 46.4,
+          "probability": 0.9815121293067932
+        },
+        {
+          "word": "り",
+          "start": 46.4,
+          "end": 46.42,
+          "probability": 0.9226590991020203
+        },
+        {
+          "word": "キ",
+          "start": 46.42,
+          "end": 46.54,
+          "probability": 0.9981546998023987
+        },
+        {
+          "word": "ャ",
+          "start": 46.54,
+          "end": 46.56,
+          "probability": 0.9999071359634399
+        },
+        {
+          "word": "ップ",
+          "start": 46.56,
+          "end": 46.66,
+          "probability": 0.9990912675857544
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 46.66,
+      "end": 47.2,
+      "text": "おぐりキャップ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "お",
+          "start": 46.66,
+          "end": 46.92,
+          "probability": 0.9216083288192749
+        },
+        {
+          "word": "ぐ",
+          "start": 46.92,
+          "end": 46.98,
+          "probability": 0.9961850047111511
+        },
+        {
+          "word": "り",
+          "start": 46.98,
+          "end": 46.98,
+          "probability": 0.999713122844696
+        },
+        {
+          "word": "キ",
+          "start": 46.98,
+          "end": 47.12,
+          "probability": 0.999360978603363
+        },
+        {
+          "word": "ャ",
+          "start": 47.12,
+          "end": 47.12,
+          "probability": 0.9999855756759644
+        },
+        {
+          "word": "ップ",
+          "start": 47.12,
+          "end": 47.2,
+          "probability": 0.9999366998672485
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 47.2,
+      "end": 48.72,
+      "text": "馬面のてめえだよ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "馬",
+          "start": 47.2,
+          "end": 47.56,
+          "probability": 0.4562862813472748
+        },
+        {
+          "word": "面",
+          "start": 47.56,
+          "end": 47.72,
+          "probability": 0.8950920104980469
+        },
+        {
+          "word": "の",
+          "start": 47.72,
+          "end": 48.0,
+          "probability": 0.9233555197715759
+        },
+        {
+          "word": "て",
+          "start": 48.0,
+          "end": 48.14,
+          "probability": 0.6374024748802185
+        },
+        {
+          "word": "め",
+          "start": 48.14,
+          "end": 48.3,
+          "probability": 0.9193581342697144
+        },
+        {
+          "word": "え",
+          "start": 48.3,
+          "end": 48.44,
+          "probability": 0.35293659567832947
+        },
+        {
+          "word": "だ",
+          "start": 48.44,
+          "end": 48.54,
+          "probability": 0.9263631105422974
+        },
+        {
+          "word": "よ",
+          "start": 48.54,
+          "end": 48.72,
+          "probability": 0.9618865847587585
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 49.0,
+      "end": 49.54,
+      "text": "僕ですか",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "僕",
+          "start": 49.0,
+          "end": 49.32,
+          "probability": 0.28349068760871887
+        },
+        {
+          "word": "ですか",
+          "start": 49.32,
+          "end": 49.54,
+          "probability": 0.9272785782814026
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 49.54,
+      "end": 53.82,
+      "text": "昨年度竹花高校結婚したい女教師ランキング",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "昨",
+          "start": 49.54,
+          "end": 50.0,
+          "probability": 0.508497953414917
+        },
+        {
+          "word": "年",
+          "start": 50.0,
+          "end": 50.24,
+          "probability": 0.9980022311210632
+        },
+        {
+          "word": "度",
+          "start": 50.24,
+          "end": 50.38,
+          "probability": 0.8902468085289001
+        },
+        {
+          "word": "竹",
+          "start": 50.38,
+          "end": 51.22,
+          "probability": 0.8227028250694275
+        },
+        {
+          "word": "花",
+          "start": 51.22,
+          "end": 51.38,
+          "probability": 0.7939742803573608
+        },
+        {
+          "word": "高",
+          "start": 51.38,
+          "end": 51.68,
+          "probability": 0.9797899723052979
+        },
+        {
+          "word": "校",
+          "start": 51.68,
+          "end": 51.92,
+          "probability": 0.9960054755210876
+        },
+        {
+          "word": "結",
+          "start": 51.92,
+          "end": 52.14,
+          "probability": 0.8761401176452637
+        },
+        {
+          "word": "婚",
+          "start": 52.14,
+          "end": 52.46,
+          "probability": 0.9995366930961609
+        },
+        {
+          "word": "した",
+          "start": 52.46,
+          "end": 52.64,
+          "probability": 0.9861289858818054
+        },
+        {
+          "word": "い",
+          "start": 52.64,
+          "end": 52.8,
+          "probability": 0.9957998394966125
+        },
+        {
+          "word": "女",
+          "start": 52.8,
+          "end": 52.92,
+          "probability": 0.9866576790809631
+        },
+        {
+          "word": "教",
+          "start": 52.92,
+          "end": 53.22,
+          "probability": 0.9832192063331604
+        },
+        {
+          "word": "師",
+          "start": 53.22,
+          "end": 53.42,
+          "probability": 0.989113450050354
+        },
+        {
+          "word": "ラ",
+          "start": 53.42,
+          "end": 53.54,
+          "probability": 0.9799429774284363
+        },
+        {
+          "word": "ン",
+          "start": 53.54,
+          "end": 53.62,
+          "probability": 0.9998778104782104
+        },
+        {
+          "word": "キ",
+          "start": 53.62,
+          "end": 53.66,
+          "probability": 0.9955654740333557
+        },
+        {
+          "word": "ング",
+          "start": 53.66,
+          "end": 53.82,
+          "probability": 0.9990962743759155
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 53.82,
+      "end": 57.9,
+      "text": "第1位の私に向かって何言ってんだっつってんだよ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "第",
+          "start": 53.82,
+          "end": 54.08,
+          "probability": 0.6148111820220947
+        },
+        {
+          "word": "1",
+          "start": 54.08,
+          "end": 54.64,
+          "probability": 0.9677867293357849
+        },
+        {
+          "word": "位",
+          "start": 54.64,
+          "end": 54.86,
+          "probability": 0.9855368733406067
+        },
+        {
+          "word": "の",
+          "start": 54.86,
+          "end": 55.04,
+          "probability": 0.9766824245452881
+        },
+        {
+          "word": "私",
+          "start": 55.04,
+          "end": 55.24,
+          "probability": 0.9704203009605408
+        },
+        {
+          "word": "に",
+          "start": 55.24,
+          "end": 55.48,
+          "probability": 0.996991753578186
+        },
+        {
+          "word": "向",
+          "start": 55.48,
+          "end": 55.56,
+          "probability": 0.9844051003456116
+        },
+        {
+          "word": "か",
+          "start": 55.56,
+          "end": 55.72,
+          "probability": 0.9989330172538757
+        },
+        {
+          "word": "って",
+          "start": 55.72,
+          "end": 55.88,
+          "probability": 0.9967015385627747
+        },
+        {
+          "word": "何",
+          "start": 55.88,
+          "end": 56.1,
+          "probability": 0.9261565208435059
+        },
+        {
+          "word": "言",
+          "start": 56.1,
+          "end": 56.32,
+          "probability": 0.9829189777374268
+        },
+        {
+          "word": "って",
+          "start": 56.32,
+          "end": 56.58,
+          "probability": 0.9905780553817749
+        },
+        {
+          "word": "んだ",
+          "start": 56.58,
+          "end": 56.84,
+          "probability": 0.9909749627113342
+        },
+        {
+          "word": "っ",
+          "start": 56.84,
+          "end": 57.0,
+          "probability": 0.6175538301467896
+        },
+        {
+          "word": "つ",
+          "start": 57.0,
+          "end": 57.24,
+          "probability": 0.9921370148658752
+        },
+        {
+          "word": "って",
+          "start": 57.24,
+          "end": 57.44,
+          "probability": 0.9766532778739929
+        },
+        {
+          "word": "んだ",
+          "start": 57.44,
+          "end": 57.68,
+          "probability": 0.9894379377365112
+        },
+        {
+          "word": "よ",
+          "start": 57.68,
+          "end": 57.9,
+          "probability": 0.9971057772636414
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 57.9,
+      "end": 60.93,
+      "text": "先生のほかにこの学校には女の",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "先生",
+          "start": 57.9,
+          "end": 58.4,
+          "probability": 0.9386008381843567
+        },
+        {
+          "word": "の",
+          "start": 59.15,
+          "end": 59.45,
+          "probability": 0.9963272213935852
+        },
+        {
+          "word": "ほ",
+          "start": 59.45,
+          "end": 59.51,
+          "probability": 0.7550267577171326
+        },
+        {
+          "word": "か",
+          "start": 59.51,
+          "end": 59.65,
+          "probability": 0.9971569776535034
+        },
+        {
+          "word": "に",
+          "start": 59.65,
+          "end": 59.79,
+          "probability": 0.9956503510475159
+        },
+        {
+          "word": "この",
+          "start": 59.79,
+          "end": 60.09,
+          "probability": 0.9507089257240295
+        },
+        {
+          "word": "学",
+          "start": 60.09,
+          "end": 60.29,
+          "probability": 0.9977937936782837
+        },
+        {
+          "word": "校",
+          "start": 60.29,
+          "end": 60.53,
+          "probability": 0.9998493194580078
+        },
+        {
+          "word": "には",
+          "start": 60.53,
+          "end": 60.67,
+          "probability": 0.962246835231781
+        },
+        {
+          "word": "女",
+          "start": 60.67,
+          "end": 60.93,
+          "probability": 0.515139102935791
+        },
+        {
+          "word": "の",
+          "start": 60.93,
+          "end": 60.93,
+          "probability": 0.8857018351554871
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 60.93,
+      "end": 62.71,
+      "text": "おいこりゃカレス好き",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "おい",
+          "start": 60.93,
+          "end": 60.93,
+          "probability": 0.48106667399406433
+        },
+        {
+          "word": "こ",
+          "start": 60.93,
+          "end": 61.35,
+          "probability": 0.624371349811554
+        },
+        {
+          "word": "り",
+          "start": 61.35,
+          "end": 61.47,
+          "probability": 0.9759126901626587
+        },
+        {
+          "word": "ゃ",
+          "start": 61.47,
+          "end": 61.55,
+          "probability": 0.9997301697731018
+        },
+        {
+          "word": "カ",
+          "start": 61.55,
+          "end": 61.79,
+          "probability": 0.3888112008571625
+        },
+        {
+          "word": "レ",
+          "start": 61.79,
+          "end": 61.89,
+          "probability": 0.9502140283584595
+        },
+        {
+          "word": "ス",
+          "start": 61.89,
+          "end": 62.03,
+          "probability": 0.9681844711303711
+        },
+        {
+          "word": "好",
+          "start": 62.03,
+          "end": 62.23,
+          "probability": 0.8327594995498657
+        },
+        {
+          "word": "き",
+          "start": 62.23,
+          "end": 62.71,
+          "probability": 0.9995076656341553
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 64.28,
+      "end": 65.13,
+      "text": "俺ですか",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "俺",
+          "start": 64.28,
+          "end": 64.68,
+          "probability": 0.25853314995765686
+        },
+        {
+          "word": "ですか",
+          "start": 64.73,
+          "end": 65.13,
+          "probability": 0.587398111820221
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 65.13,
+      "end": 66.29,
+      "text": "足りめえだろうよ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "足",
+          "start": 65.13,
+          "end": 65.33,
+          "probability": 0.6917235851287842
+        },
+        {
+          "word": "り",
+          "start": 65.33,
+          "end": 65.43,
+          "probability": 0.9962096214294434
+        },
+        {
+          "word": "め",
+          "start": 65.43,
+          "end": 65.59,
+          "probability": 0.3326950669288635
+        },
+        {
+          "word": "え",
+          "start": 65.59,
+          "end": 65.69,
+          "probability": 0.979320764541626
+        },
+        {
+          "word": "だ",
+          "start": 65.69,
+          "end": 65.81,
+          "probability": 0.9997588992118835
+        },
+        {
+          "word": "ろう",
+          "start": 65.81,
+          "end": 66.05,
+          "probability": 0.9405840039253235
+        },
+        {
+          "word": "よ",
+          "start": 66.05,
+          "end": 66.29,
+          "probability": 0.9987881779670715
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 66.29,
+      "end": 69.57,
+      "text": "てめえ以外に昭和カレス好きどこにいんだよ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "て",
+          "start": 66.29,
+          "end": 66.49,
+          "probability": 0.9643815159797668
+        },
+        {
+          "word": "め",
+          "start": 66.49,
+          "end": 66.59,
+          "probability": 0.9987969398498535
+        },
+        {
+          "word": "え",
+          "start": 66.59,
+          "end": 66.73,
+          "probability": 0.9990806579589844
+        },
+        {
+          "word": "以",
+          "start": 66.73,
+          "end": 66.89,
+          "probability": 0.9951089024543762
+        },
+        {
+          "word": "外",
+          "start": 66.89,
+          "end": 67.09,
+          "probability": 0.9999551773071289
+        },
+        {
+          "word": "に",
+          "start": 67.09,
+          "end": 67.21,
+          "probability": 0.9990373849868774
+        },
+        {
+          "word": "昭",
+          "start": 67.21,
+          "end": 67.43,
+          "probability": 0.9896511137485504
+        },
+        {
+          "word": "和",
+          "start": 67.43,
+          "end": 67.53,
+          "probability": 0.999977707862854
+        },
+        {
+          "word": "カ",
+          "start": 67.53,
+          "end": 67.71,
+          "probability": 0.9690012335777283
+        },
+        {
+          "word": "レ",
+          "start": 67.71,
+          "end": 67.77,
+          "probability": 0.9991500377655029
+        },
+        {
+          "word": "ス",
+          "start": 67.77,
+          "end": 67.89,
+          "probability": 0.998482882976532
+        },
+        {
+          "word": "好",
+          "start": 67.89,
+          "end": 68.03,
+          "probability": 0.9985020160675049
+        },
+        {
+          "word": "き",
+          "start": 68.03,
+          "end": 68.21,
+          "probability": 0.9999722242355347
+        },
+        {
+          "word": "ど",
+          "start": 68.21,
+          "end": 68.35,
+          "probability": 0.9987736344337463
+        },
+        {
+          "word": "こ",
+          "start": 68.35,
+          "end": 68.55,
+          "probability": 0.998918890953064
+        },
+        {
+          "word": "に",
+          "start": 68.55,
+          "end": 68.77,
+          "probability": 0.999942421913147
+        },
+        {
+          "word": "い",
+          "start": 68.77,
+          "end": 68.93,
+          "probability": 0.849926233291626
+        },
+        {
+          "word": "んだ",
+          "start": 68.93,
+          "end": 69.25,
+          "probability": 0.997632622718811
+        },
+        {
+          "word": "よ",
+          "start": 69.25,
+          "end": 69.57,
+          "probability": 0.9998683929443359
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 70.05,
+      "end": 72.96,
+      "text": "1位は地位だろうがよ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "1",
+          "start": 70.05,
+          "end": 70.45,
+          "probability": 0.9500183463096619
+        },
+        {
+          "word": "位",
+          "start": 70.45,
+          "end": 70.73,
+          "probability": 0.9997180104255676
+        },
+        {
+          "word": "は",
+          "start": 70.73,
+          "end": 71.09,
+          "probability": 0.9982579350471497
+        },
+        {
+          "word": "地",
+          "start": 71.09,
+          "end": 71.59,
+          "probability": 0.2345324009656906
+        },
+        {
+          "word": "位",
+          "start": 72.06,
+          "end": 72.28,
+          "probability": 0.8754754662513733
+        },
+        {
+          "word": "だ",
+          "start": 72.28,
+          "end": 72.46,
+          "probability": 0.9996830224990845
+        },
+        {
+          "word": "ろう",
+          "start": 72.46,
+          "end": 72.64,
+          "probability": 0.998615026473999
+        },
+        {
+          "word": "が",
+          "start": 72.64,
+          "end": 72.72,
+          "probability": 0.9934185743331909
+        },
+        {
+          "word": "よ",
+          "start": 72.72,
+          "end": 72.96,
+          "probability": 0.9979598522186279
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 72.96,
+      "end": 73.32,
+      "text": "いた",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "いた",
+          "start": 72.96,
+          "end": 73.32,
+          "probability": 0.36772534251213074
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 73.75,
+      "end": 75.05,
+      "text": "えなんで",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "え",
+          "start": 73.75,
+          "end": 74.19,
+          "probability": 0.2513289153575897
+        },
+        {
+          "word": "なん",
+          "start": 74.19,
+          "end": 74.83,
+          "probability": 0.8261306285858154
+        },
+        {
+          "word": "で",
+          "start": 74.83,
+          "end": 75.05,
+          "probability": 0.9996577501296997
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 75.05,
+      "end": 78.35,
+      "text": "おし",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "お",
+          "start": 75.05,
+          "end": 75.39,
+          "probability": 0.5656863451004028
+        },
+        {
+          "word": "し",
+          "start": 78.03,
+          "end": 78.35,
+          "probability": 0.6019172072410583
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 78.35,
+      "end": 90.48,
+      "text": "ひよこか",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "ひ",
+          "start": 78.35,
+          "end": 78.65,
+          "probability": 0.5568452477455139
+        },
+        {
+          "word": "よ",
+          "start": 82.38,
+          "end": 83.16,
+          "probability": 0.9283126592636108
+        },
+        {
+          "word": "こ",
+          "start": 90.18,
+          "end": 90.28,
+          "probability": 0.9974900484085083
+        },
+        {
+          "word": "か",
+          "start": 90.28,
+          "end": 90.48,
+          "probability": 0.9938621520996094
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 90.48,
+      "end": 92.22,
+      "text": "ピーピーピーピーよ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "ピ",
+          "start": 90.48,
+          "end": 91.14,
+          "probability": 0.6538740992546082
+        },
+        {
+          "word": "ーピ",
+          "start": 91.14,
+          "end": 91.3,
+          "probability": 0.9825224280357361
+        },
+        {
+          "word": "ーピ",
+          "start": 91.3,
+          "end": 91.7,
+          "probability": 0.9939423203468323
+        },
+        {
+          "word": "ーピ",
+          "start": 91.7,
+          "end": 91.96,
+          "probability": 0.9985501170158386
+        },
+        {
+          "word": "ー",
+          "start": 91.96,
+          "end": 92.02,
+          "probability": 0.9858522415161133
+        },
+        {
+          "word": "よ",
+          "start": 92.02,
+          "end": 92.22,
+          "probability": 0.8373637795448303
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 92.22,
+      "end": 92.26,
+      "text": "お",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "お",
+          "start": 92.22,
+          "end": 92.26,
+          "probability": 0.12140502780675888
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 92.26,
+      "end": 92.66,
+      "text": "い",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "い",
+          "start": 92.26,
+          "end": 92.66,
+          "probability": 0.012250077910721302
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 92.66,
+      "end": 93.74,
+      "text": "ピーピーピーピー",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "ピ",
+          "start": 92.66,
+          "end": 93.32,
+          "probability": 0.004592168610543013
+        },
+        {
+          "word": "ーピ",
+          "start": 93.32,
+          "end": 93.5,
+          "probability": 0.281732652336359
+        },
+        {
+          "word": "ーピ",
+          "start": 93.5,
+          "end": 93.74,
+          "probability": 0.2557411377783865
+        },
+        {
+          "word": "ーピ",
+          "start": 93.74,
+          "end": 93.74,
+          "probability": 0.6338176131248474
+        },
+        {
+          "word": "ー",
+          "start": 93.74,
+          "end": 93.74,
+          "probability": 0.25193437933921814
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 93.74,
+      "end": 94.64,
+      "text": "リピートアフターミー",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "リ",
+          "start": 93.74,
+          "end": 93.74,
+          "probability": 0.055524859577417374
+        },
+        {
+          "word": "ピ",
+          "start": 93.74,
+          "end": 93.74,
+          "probability": 0.9524746537208557
+        },
+        {
+          "word": "ート",
+          "start": 93.74,
+          "end": 93.74,
+          "probability": 0.6931052207946777
+        },
+        {
+          "word": "ア",
+          "start": 93.74,
+          "end": 94.1,
+          "probability": 0.2540438771247864
+        },
+        {
+          "word": "フ",
+          "start": 94.1,
+          "end": 94.24,
+          "probability": 0.9840370416641235
+        },
+        {
+          "word": "タ",
+          "start": 94.24,
+          "end": 94.44,
+          "probability": 0.6914892196655273
+        },
+        {
+          "word": "ーミ",
+          "start": 94.44,
+          "end": 94.48,
+          "probability": 0.8737745583057404
+        },
+        {
+          "word": "ー",
+          "start": 94.48,
+          "end": 94.64,
+          "probability": 0.772915780544281
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 94.64,
+      "end": 95.5,
+      "text": "カバー",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "カ",
+          "start": 94.64,
+          "end": 95.18,
+          "probability": 0.6842589378356934
+        },
+        {
+          "word": "バ",
+          "start": 95.18,
+          "end": 95.36,
+          "probability": 0.6097779870033264
+        },
+        {
+          "word": "ー",
+          "start": 95.36,
+          "end": 95.5,
+          "probability": 0.6378212571144104
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 96.9,
+      "end": 99.1,
+      "text": "先生は美人です",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "先生",
+          "start": 96.9,
+          "end": 97.26,
+          "probability": 0.7828651070594788
+        },
+        {
+          "word": "は",
+          "start": 97.26,
+          "end": 97.62,
+          "probability": 0.9855597019195557
+        },
+        {
+          "word": "美",
+          "start": 97.62,
+          "end": 98.44,
+          "probability": 0.904147744178772
+        },
+        {
+          "word": "人",
+          "start": 98.44,
+          "end": 98.7,
+          "probability": 0.9997726082801819
+        },
+        {
+          "word": "です",
+          "start": 98.7,
+          "end": 99.1,
+          "probability": 0.935685932636261
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 100.4,
+      "end": 101.12,
+      "text": "先生は",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "先生",
+          "start": 100.4,
+          "end": 100.76,
+          "probability": 0.8552371263504028
+        },
+        {
+          "word": "は",
+          "start": 100.76,
+          "end": 101.12,
+          "probability": 0.9931018352508545
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 102.51,
+      "end": 102.87,
+      "text": "これは",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "これは",
+          "start": 102.51,
+          "end": 102.87,
+          "probability": 0.2962004542350769
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 104.72,
+      "end": 105.44,
+      "text": "先生は",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "先生",
+          "start": 104.72,
+          "end": 105.08,
+          "probability": 0.005840954836457968
+        },
+        {
+          "word": "は",
+          "start": 105.08,
+          "end": 105.44,
+          "probability": 0.9830647110939026
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 105.44,
+      "end": 106.44,
+      "text": "女の授業やん",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "女",
+          "start": 105.44,
+          "end": 105.68,
+          "probability": 0.33538442850112915
+        },
+        {
+          "word": "の",
+          "start": 105.68,
+          "end": 105.74,
+          "probability": 0.8783227205276489
+        },
+        {
+          "word": "授",
+          "start": 105.76,
+          "end": 106.14,
+          "probability": 0.9911489486694336
+        },
+        {
+          "word": "業",
+          "start": 106.14,
+          "end": 106.26,
+          "probability": 0.9998165965080261
+        },
+        {
+          "word": "や",
+          "start": 106.26,
+          "end": 106.4,
+          "probability": 0.976036012172699
+        },
+        {
+          "word": "ん",
+          "start": 106.4,
+          "end": 106.44,
+          "probability": 0.48881909251213074
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 106.44,
+      "end": 107.22,
+      "text": "美人です",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "美",
+          "start": 106.44,
+          "end": 106.5,
+          "probability": 0.41319629549980164
+        },
+        {
+          "word": "人",
+          "start": 106.5,
+          "end": 106.78,
+          "probability": 0.9996837377548218
+        },
+        {
+          "word": "です",
+          "start": 106.78,
+          "end": 107.22,
+          "probability": 0.9894870519638062
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 107.22,
+      "end": 110.44,
+      "text": "先生は",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "先生",
+          "start": 107.22,
+          "end": 107.76,
+          "probability": 0.9068061709403992
+        },
+        {
+          "word": "は",
+          "start": 109.86,
+          "end": 110.44,
+          "probability": 0.5808179974555969
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 115.73,
+      "end": 119.26,
+      "text": "私を取って待ち受けにしろ",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "私",
+          "start": 115.73,
+          "end": 115.83,
+          "probability": 0.6739493012428284
+        },
+        {
+          "word": "を",
+          "start": 116.94,
+          "end": 117.9,
+          "probability": 0.9966002106666565
+        },
+        {
+          "word": "取",
+          "start": 117.9,
+          "end": 118.02,
+          "probability": 0.6270977854728699
+        },
+        {
+          "word": "って",
+          "start": 118.02,
+          "end": 118.3,
+          "probability": 0.9988304972648621
+        },
+        {
+          "word": "待",
+          "start": 118.3,
+          "end": 118.6,
+          "probability": 0.9163998961448669
+        },
+        {
+          "word": "ち",
+          "start": 118.6,
+          "end": 118.78,
+          "probability": 0.9977260231971741
+        },
+        {
+          "word": "受",
+          "start": 118.78,
+          "end": 118.8,
+          "probability": 0.9967064261436462
+        },
+        {
+          "word": "け",
+          "start": 118.8,
+          "end": 118.98,
+          "probability": 0.9992069602012634
+        },
+        {
+          "word": "に",
+          "start": 118.98,
+          "end": 119.0,
+          "probability": 0.9990668892860413
+        },
+        {
+          "word": "し",
+          "start": 119.0,
+          "end": 119.1,
+          "probability": 0.9994587302207947
+        },
+        {
+          "word": "ろ",
+          "start": 119.1,
+          "end": 119.26,
+          "probability": 0.9995619654655457
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 120.2,
+      "end": 121.1,
+      "text": "ほら早く",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "ほ",
+          "start": 120.2,
+          "end": 120.56,
+          "probability": 0.5779802203178406
+        },
+        {
+          "word": "ら",
+          "start": 120.56,
+          "end": 120.76,
+          "probability": 0.9946359992027283
+        },
+        {
+          "word": "早",
+          "start": 120.76,
+          "end": 120.96,
+          "probability": 0.9364001750946045
+        },
+        {
+          "word": "く",
+          "start": 120.96,
+          "end": 121.1,
+          "probability": 0.9981487989425659
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 130.92,
+      "end": 141.61,
+      "text": "席を取ります",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "席",
+          "start": 130.92,
+          "end": 131.28,
+          "probability": 0.5308165587484837
+        },
+        {
+          "word": "を",
+          "start": 140.99,
+          "end": 141.13,
+          "probability": 0.9990882873535156
+        },
+        {
+          "word": "取",
+          "start": 141.13,
+          "end": 141.23,
+          "probability": 0.9714097380638123
+        },
+        {
+          "word": "ります",
+          "start": 141.23,
+          "end": 141.61,
+          "probability": 0.7511507272720337
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 141.61,
+      "end": 142.49,
+      "text": "めちゃめちゃやん",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "め",
+          "start": 141.61,
+          "end": 141.85,
+          "probability": 0.39403581619262695
+        },
+        {
+          "word": "ちゃ",
+          "start": 141.85,
+          "end": 141.85,
+          "probability": 0.9922271966934204
+        },
+        {
+          "word": "め",
+          "start": 141.85,
+          "end": 142.05,
+          "probability": 0.9980339407920837
+        },
+        {
+          "word": "ちゃ",
+          "start": 142.05,
+          "end": 142.09,
+          "probability": 0.9998453855514526
+        },
+        {
+          "word": "や",
+          "start": 142.09,
+          "end": 142.29,
+          "probability": 0.6060747504234314
+        },
+        {
+          "word": "ん",
+          "start": 142.29,
+          "end": 142.49,
+          "probability": 0.7639530897140503
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_01",
+      "start": 142.49,
+      "end": 142.71,
+      "text": "はい",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "はい",
+          "start": 142.49,
+          "end": 142.71,
+          "probability": 0.1919209212064743
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 144.63,
+      "end": 148.68,
+      "text": "松正太くん",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "松",
+          "start": 144.63,
+          "end": 144.99,
+          "probability": 0.23138175904750824
+        },
+        {
+          "word": "正",
+          "start": 148.08,
+          "end": 148.32,
+          "probability": 0.1987418681383133
+        },
+        {
+          "word": "太",
+          "start": 148.32,
+          "end": 148.38,
+          "probability": 0.9468711614608765
+        },
+        {
+          "word": "く",
+          "start": 148.38,
+          "end": 148.54,
+          "probability": 0.709796667098999
+        },
+        {
+          "word": "ん",
+          "start": 148.54,
+          "end": 148.68,
+          "probability": 0.8961912393569946
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 148.68,
+      "end": 154.64,
+      "text": "馬面先生みたいな美人の先生に自由気味の担任になっていただけるなんて夢のようであります",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "馬",
+          "start": 148.68,
+          "end": 148.94,
+          "probability": 0.21796734631061554
+        },
+        {
+          "word": "面",
+          "start": 150.68,
+          "end": 150.8,
+          "probability": 0.0008300820481963456
+        },
+        {
+          "word": "先生",
+          "start": 150.8,
+          "end": 151.0,
+          "probability": 0.4856458902359009
+        },
+        {
+          "word": "みたい",
+          "start": 151.0,
+          "end": 151.34,
+          "probability": 0.9980759620666504
+        },
+        {
+          "word": "な",
+          "start": 151.34,
+          "end": 151.52,
+          "probability": 0.9972971081733704
+        },
+        {
+          "word": "美",
+          "start": 151.52,
+          "end": 151.62,
+          "probability": 0.9988166093826294
+        },
+        {
+          "word": "人",
+          "start": 151.62,
+          "end": 151.76,
+          "probability": 0.9999277591705322
+        },
+        {
+          "word": "の",
+          "start": 151.76,
+          "end": 151.84,
+          "probability": 0.9989556074142456
+        },
+        {
+          "word": "先生",
+          "start": 151.84,
+          "end": 152.02,
+          "probability": 0.9994981288909912
+        },
+        {
+          "word": "に",
+          "start": 152.02,
+          "end": 152.24,
+          "probability": 0.9993829727172852
+        },
+        {
+          "word": "自由",
+          "start": 152.24,
+          "end": 152.64,
+          "probability": 0.9225377440452576
+        },
+        {
+          "word": "気",
+          "start": 152.64,
+          "end": 152.76,
+          "probability": 0.6406623125076294
+        },
+        {
+          "word": "味",
+          "start": 152.76,
+          "end": 152.8,
+          "probability": 0.9989861845970154
+        },
+        {
+          "word": "の",
+          "start": 152.8,
+          "end": 152.92,
+          "probability": 0.9859594702720642
+        },
+        {
+          "word": "担",
+          "start": 152.92,
+          "end": 153.06,
+          "probability": 0.9994450211524963
+        },
+        {
+          "word": "任",
+          "start": 153.06,
+          "end": 153.14,
+          "probability": 0.9989268183708191
+        },
+        {
+          "word": "にな",
+          "start": 153.14,
+          "end": 153.26,
+          "probability": 0.8831865191459656
+        },
+        {
+          "word": "って",
+          "start": 153.26,
+          "end": 153.42,
+          "probability": 0.9989426732063293
+        },
+        {
+          "word": "いただ",
+          "start": 153.42,
+          "end": 153.6,
+          "probability": 0.9659364819526672
+        },
+        {
+          "word": "ける",
+          "start": 153.6,
+          "end": 153.78,
+          "probability": 0.9468485116958618
+        },
+        {
+          "word": "なん",
+          "start": 153.78,
+          "end": 153.88,
+          "probability": 0.9988523721694946
+        },
+        {
+          "word": "て",
+          "start": 153.88,
+          "end": 154.02,
+          "probability": 0.9999969005584717
+        },
+        {
+          "word": "夢",
+          "start": 154.02,
+          "end": 154.14,
+          "probability": 0.9895105361938477
+        },
+        {
+          "word": "の",
+          "start": 154.14,
+          "end": 154.32,
+          "probability": 0.9994749426841736
+        },
+        {
+          "word": "よう",
+          "start": 154.32,
+          "end": 154.4,
+          "probability": 0.9972450733184814
+        },
+        {
+          "word": "で",
+          "start": 154.4,
+          "end": 154.46,
+          "probability": 0.9969653487205505
+        },
+        {
+          "word": "あります",
+          "start": 154.46,
+          "end": 154.64,
+          "probability": 0.9989418387413025
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 154.64,
+      "end": 156.93,
+      "text": "何かお手伝いできることがあればいいのか",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "何",
+          "start": 154.64,
+          "end": 155.24,
+          "probability": 0.9905773401260376
+        },
+        {
+          "word": "か",
+          "start": 155.29,
+          "end": 155.49,
+          "probability": 0.9999442100524902
+        },
+        {
+          "word": "お",
+          "start": 155.49,
+          "end": 155.81,
+          "probability": 0.9994218349456787
+        },
+        {
+          "word": "手",
+          "start": 155.81,
+          "end": 155.95,
+          "probability": 0.999797523021698
+        },
+        {
+          "word": "伝",
+          "start": 155.95,
+          "end": 156.13,
+          "probability": 0.9998573362827301
+        },
+        {
+          "word": "い",
+          "start": 156.13,
+          "end": 156.19,
+          "probability": 0.9999275207519531
+        },
+        {
+          "word": "でき",
+          "start": 156.19,
+          "end": 156.31,
+          "probability": 0.9993315935134888
+        },
+        {
+          "word": "る",
+          "start": 156.31,
+          "end": 156.45,
+          "probability": 0.9997031092643738
+        },
+        {
+          "word": "こと",
+          "start": 156.45,
+          "end": 156.59,
+          "probability": 0.9979052543640137
+        },
+        {
+          "word": "が",
+          "start": 156.59,
+          "end": 156.69,
+          "probability": 0.9997004270553589
+        },
+        {
+          "word": "あれ",
+          "start": 156.69,
+          "end": 156.83,
+          "probability": 0.9989694356918335
+        },
+        {
+          "word": "ば",
+          "start": 156.83,
+          "end": 156.93,
+          "probability": 0.9999269247055054
+        },
+        {
+          "word": "いい",
+          "start": 156.93,
+          "end": 156.93,
+          "probability": 0.18760237097740173
+        },
+        {
+          "word": "の",
+          "start": 156.93,
+          "end": 156.93,
+          "probability": 0.12268728762865067
+        },
+        {
+          "word": "か",
+          "start": 156.93,
+          "end": 156.93,
+          "probability": 0.46762457489967346
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 156.95,
+      "end": 160.09,
+      "text": "この門松正太に何なりと言ってください",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "この",
+          "start": 156.95,
+          "end": 157.39,
+          "probability": 0.9438015222549438
+        },
+        {
+          "word": "門",
+          "start": 157.39,
+          "end": 157.63,
+          "probability": 0.5345690250396729
+        },
+        {
+          "word": "松",
+          "start": 157.63,
+          "end": 157.89,
+          "probability": 0.9485156536102295
+        },
+        {
+          "word": "正",
+          "start": 157.89,
+          "end": 158.05,
+          "probability": 0.608372688293457
+        },
+        {
+          "word": "太",
+          "start": 158.05,
+          "end": 158.17,
+          "probability": 0.9743470549583435
+        },
+        {
+          "word": "に",
+          "start": 158.17,
+          "end": 158.27,
+          "probability": 0.9212614893913269
+        },
+        {
+          "word": "何",
+          "start": 158.27,
+          "end": 158.95,
+          "probability": 0.6014441251754761
+        },
+        {
+          "word": "な",
+          "start": 159.35,
+          "end": 159.49,
+          "probability": 0.995760977268219
+        },
+        {
+          "word": "り",
+          "start": 159.49,
+          "end": 159.61,
+          "probability": 0.999269425868988
+        },
+        {
+          "word": "と",
+          "start": 159.61,
+          "end": 159.69,
+          "probability": 0.9988823533058167
+        },
+        {
+          "word": "言",
+          "start": 159.69,
+          "end": 159.75,
+          "probability": 0.9895173907279968
+        },
+        {
+          "word": "って",
+          "start": 159.75,
+          "end": 159.85,
+          "probability": 0.9998888969421387
+        },
+        {
+          "word": "ください",
+          "start": 159.85,
+          "end": 160.09,
+          "probability": 0.9789285659790039
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 160.55,
+      "end": 161.31,
+      "text": "苦しゅうない",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "苦",
+          "start": 160.55,
+          "end": 160.85,
+          "probability": 0.9841694831848145
+        },
+        {
+          "word": "し",
+          "start": 160.85,
+          "end": 161.13,
+          "probability": 0.7511526346206665
+        },
+        {
+          "word": "ゅ",
+          "start": 161.13,
+          "end": 161.21,
+          "probability": 0.8948034644126892
+        },
+        {
+          "word": "う",
+          "start": 161.21,
+          "end": 161.21,
+          "probability": 0.9901448488235474
+        },
+        {
+          "word": "ない",
+          "start": 161.21,
+          "end": 161.31,
+          "probability": 0.9844821691513062
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 161.31,
+      "end": 161.83,
+      "text": "よい",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "よ",
+          "start": 161.31,
+          "end": 161.77,
+          "probability": 0.6365416049957275
+        },
+        {
+          "word": "い",
+          "start": 161.77,
+          "end": 161.83,
+          "probability": 0.9774340987205505
+        }
+      ]
+    },
+    {
+      "speaker": "SPEAKER_00",
+      "start": 161.83,
+      "end": 164.45,
+      "text": "ってよく言えんの",
+      "confidence": 1.0,
+      "words": [
+        {
+          "word": "って",
+          "start": 161.83,
+          "end": 162.19,
+          "probability": 0.6890680193901062
+        },
+        {
+          "word": "よ",
+          "start": 163.71,
+          "end": 163.89,
+          "probability": 0.9960390329360962
+        },
+        {
+          "word": "く",
+          "start": 163.89,
+          "end": 164.09,
+          "probability": 0.9998975992202759
+        },
+        {
+          "word": "言",
+          "start": 164.09,
+          "end": 164.15,
+          "probability": 0.9996089339256287
+        },
+        {
+          "word": "え",
+          "start": 164.15,
+          "end": 164.35,
+          "probability": 0.9847077131271362
+        },
+        {
+          "word": "ん",
+          "start": 164.35,
+          "end": 164.39,
+          "probability": 0.3724813759326935
+        },
+        {
+          "word": "の",
+          "start": 164.39,
+          "end": 164.45,
+          "probability": 0.9798834919929504
+        }
+      ]
+    }
+  ]
+}
