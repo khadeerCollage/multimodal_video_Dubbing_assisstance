@@ -261,3 +261,13 @@ multimodal_video_Dubbing_assisstance/
 └── translated.json         ← OUTPUT (1511 English segments)
 
 
+-----------------------------------------------------
+
+Why Coqui XTTS v2:
+
+Voice cloning from 6-second sample
+Supports 2 speakers (SPEAKER_00, SPEAKER_01)
+Emotion control (anger, sorrow, neutral)
+Runs locally (no API limits)
+
+
